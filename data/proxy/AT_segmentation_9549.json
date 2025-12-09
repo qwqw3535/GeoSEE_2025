@@ -1,0 +1,2137 @@
+{
+    "AT111": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "Mittelburgenland",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00016904426343513252,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "bareland": {
+                "val": 0.021715809215198792,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "rangeland": {
+                "val": 0.31773236916282005,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "development": {
+                "val": 0.06347443644205752,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "road": {
+                "val": 0.01976316602302323,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "tree": {
+                "val": 0.31961205869732506,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "water": {
+                "val": 0.004498856977982951,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "agricultural": {
+                "val": 0.2414423042066167,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            },
+            "building": {
+                "val": 0.011591955011541219,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            }
+        }
+    },
+    "AT112": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "Nordburgenland",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004529855332629508,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "bareland": {
+                "val": 0.023215253292858916,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "rangeland": {
+                "val": 0.3771089390571269,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "development": {
+                "val": 0.06175393761632406,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "road": {
+                "val": 0.02037302282624247,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "tree": {
+                "val": 0.13332846047543837,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "water": {
+                "val": 0.024727927532946874,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "agricultural": {
+                "val": 0.3450204246554684,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            },
+            "building": {
+                "val": 0.014019049010330019,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            }
+        }
+    },
+    "AT113": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "S\u00fcdburgenland",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00085734782245873,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "bareland": {
+                "val": 0.0031263271518570655,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "rangeland": {
+                "val": 0.3178688752449169,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "development": {
+                "val": 0.05656228002630832,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "road": {
+                "val": 0.017443788927153776,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "tree": {
+                "val": 0.34256295789657515,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "water": {
+                "val": 0.010798962551770713,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "agricultural": {
+                "val": 0.2342928762489781,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            },
+            "building": {
+                "val": 0.016486584129980057,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            }
+        }
+    },
+    "AT224": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Oststeiermark",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000166011334428584,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "bareland": {
+                "val": 0.0011589878381153636,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "rangeland": {
+                "val": 0.362442542650903,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "development": {
+                "val": 0.04662248960009728,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "road": {
+                "val": 0.016136354726226654,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "tree": {
+                "val": 0.30231651304967055,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "water": {
+                "val": 0.05406078717702525,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "agricultural": {
+                "val": 0.20645913687123257,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            },
+            "building": {
+                "val": 0.010637176752300345,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            }
+        }
+    },
+    "AT225": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "West- und S\u00fcdsteiermark",
+        "segmentation": {
+            "nodata": {
+                "val": 7.441446902549814e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "bareland": {
+                "val": 0.0008812801523624026,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "rangeland": {
+                "val": 0.34205265863732776,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "development": {
+                "val": 0.04697010895230734,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "road": {
+                "val": 0.016030180877840444,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "tree": {
+                "val": 0.3970589009161603,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "water": {
+                "val": 0.06541274668821641,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "agricultural": {
+                "val": 0.12091356144558763,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            },
+            "building": {
+                "val": 0.010606147861172617,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            }
+        }
+    },
+    "AT223": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "\u00d6stliche Obersteiermark",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009825009164042002,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "bareland": {
+                "val": 0.005995956141606074,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "rangeland": {
+                "val": 0.3857513980636115,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "development": {
+                "val": 0.060710451711273476,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "road": {
+                "val": 0.01816500056559991,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "tree": {
+                "val": 0.43985506914087563,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "water": {
+                "val": 0.04672094501179945,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "agricultural": {
+                "val": 0.035317201645840915,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            },
+            "building": {
+                "val": 0.006501476802990428,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            }
+        }
+    },
+    "AT226": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Westliche Obersteiermark",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009602311503919457,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "bareland": {
+                "val": 0.009616614034182366,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "rangeland": {
+                "val": 0.37541719073094953,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "development": {
+                "val": 0.04230713607388333,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "road": {
+                "val": 0.014378096891504839,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "tree": {
+                "val": 0.45684622275258496,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "water": {
+                "val": 0.03374670449957322,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "agricultural": {
+                "val": 0.06069457390982542,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            },
+            "building": {
+                "val": 0.006033229957104985,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            }
+        }
+    },
+    "AT221": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Graz",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00010957976380700551,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "bareland": {
+                "val": 0.0010527013541968516,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "rangeland": {
+                "val": 0.39494132342590094,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "development": {
+                "val": 0.061874029945885124,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "road": {
+                "val": 0.022721316436898183,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "tree": {
+                "val": 0.3494201344532231,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "water": {
+                "val": 0.05135820962903169,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "agricultural": {
+                "val": 0.09874947094883274,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            },
+            "building": {
+                "val": 0.019773234042223406,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            }
+        }
+    },
+    "AT222": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Liezen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00203359679767918,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "bareland": {
+                "val": 0.019527828459309764,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "rangeland": {
+                "val": 0.4457442063129342,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "development": {
+                "val": 0.06825111536618428,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "road": {
+                "val": 0.013171118038879862,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "tree": {
+                "val": 0.36953842866649744,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "water": {
+                "val": 0.0407801202895817,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "agricultural": {
+                "val": 0.032726429613469554,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            },
+            "building": {
+                "val": 0.008227156455462693,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            }
+        }
+    },
+    "AT331": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Au\u00dferfern",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0028569822703032335,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "bareland": {
+                "val": 0.040327554802254195,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "rangeland": {
+                "val": 0.5084464393895154,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "development": {
+                "val": 0.0891286128104459,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "road": {
+                "val": 0.014513741852043736,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "tree": {
+                "val": 0.25359034670576774,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "water": {
+                "val": 0.060792641422724794,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "agricultural": {
+                "val": 0.02279058121946887,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            },
+            "building": {
+                "val": 0.007553099527475422,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            }
+        }
+    },
+    "AT332": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Innsbruck",
+        "segmentation": {
+            "nodata": {
+                "val": 0.003055344231640469,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "bareland": {
+                "val": 0.06339663214075134,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "rangeland": {
+                "val": 0.4536344045229657,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "development": {
+                "val": 0.09952284281221561,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "road": {
+                "val": 0.014165795914536724,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "tree": {
+                "val": 0.26429633515682277,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "water": {
+                "val": 0.04531511802937487,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "agricultural": {
+                "val": 0.04482247937130485,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            },
+            "building": {
+                "val": 0.011791047820391348,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            }
+        }
+    },
+    "AT333": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Osttirol",
+        "segmentation": {
+            "nodata": {
+                "val": 0.009810138041231141,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "bareland": {
+                "val": 0.09745966224281476,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "rangeland": {
+                "val": 0.5040095256609627,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "development": {
+                "val": 0.10222184244000662,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "road": {
+                "val": 0.01161870994323972,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "tree": {
+                "val": 0.1692269606892669,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "water": {
+                "val": 0.06707494164534872,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "agricultural": {
+                "val": 0.03418317293490448,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            },
+            "building": {
+                "val": 0.004395046402222733,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            }
+        }
+    },
+    "AT334": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Tiroler Oberland",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00750506382722119,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "bareland": {
+                "val": 0.11198719648214324,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "rangeland": {
+                "val": 0.5480456641286525,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "development": {
+                "val": 0.1020033489102907,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "road": {
+                "val": 0.010741946290567992,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "tree": {
+                "val": 0.12803334157203705,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "water": {
+                "val": 0.06294988529339247,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "agricultural": {
+                "val": 0.021332331923736632,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            },
+            "building": {
+                "val": 0.007401221571957383,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            }
+        }
+    },
+    "AT335": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Tiroler Unterland",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0022664188639147345,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "bareland": {
+                "val": 0.033872372288517937,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "rangeland": {
+                "val": 0.44191544789217946,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "development": {
+                "val": 0.07151708448184252,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "road": {
+                "val": 0.01292651795007707,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "tree": {
+                "val": 0.3195226517553192,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "water": {
+                "val": 0.05363916832288865,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "agricultural": {
+                "val": 0.056114300144183435,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            },
+            "building": {
+                "val": 0.008226038301077472,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            }
+        }
+    },
+    "AT123": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Sankt P\u00f6lten",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003123635931781859,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "bareland": {
+                "val": 0.005371230650900281,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "rangeland": {
+                "val": 0.43808986274731787,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "development": {
+                "val": 0.0416091192238278,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "road": {
+                "val": 0.008237421351770918,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "tree": {
+                "val": 0.09196657962047701,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "water": {
+                "val": 0.16353956377962997,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "agricultural": {
+                "val": 0.23134303723421235,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            },
+            "building": {
+                "val": 0.019530821798688022,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            }
+        }
+    },
+    "AT121": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Mostviertel-Eisenwurzen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006902275969587768,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "bareland": {
+                "val": 0.007622133401286103,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "rangeland": {
+                "val": 0.45672644362169357,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "development": {
+                "val": 0.04305780475843736,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "road": {
+                "val": 0.007802228814723339,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "tree": {
+                "val": 0.1061816720669389,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "water": {
+                "val": 0.14540358508960163,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "agricultural": {
+                "val": 0.21144137377289757,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            },
+            "building": {
+                "val": 0.02107453087746275,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            }
+        }
+    },
+    "AT122": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Nieder\u00f6sterreich-S\u00fcd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0013005996598047733,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "bareland": {
+                "val": 0.011562965614711467,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "rangeland": {
+                "val": 0.46526208680429226,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "development": {
+                "val": 0.048355621936064894,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "road": {
+                "val": 0.008467164729391246,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "tree": {
+                "val": 0.1524640669899705,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "water": {
+                "val": 0.21340605490052492,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "agricultural": {
+                "val": 0.07295223541084274,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            },
+            "building": {
+                "val": 0.026229203954399434,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            }
+        }
+    },
+    "AT124": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Waldviertel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004374061958271959,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "bareland": {
+                "val": 0.007025130036126595,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "rangeland": {
+                "val": 0.49047165030428297,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "development": {
+                "val": 0.03584395897216283,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "road": {
+                "val": 0.006216351285733027,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "tree": {
+                "val": 0.08344642490072662,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "water": {
+                "val": 0.15300723305169833,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "agricultural": {
+                "val": 0.20749112155950028,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            },
+            "building": {
+                "val": 0.016060723693942656,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            }
+        }
+    },
+    "AT127": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Wiener Umland/S\u00fcdteil",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00020648825412940814,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "bareland": {
+                "val": 0.009040122798366381,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "rangeland": {
+                "val": 0.3656214015452262,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "development": {
+                "val": 0.06424103759447689,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "road": {
+                "val": 0.020219139139725957,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "tree": {
+                "val": 0.12134138566696291,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "water": {
+                "val": 0.09744661314114104,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "agricultural": {
+                "val": 0.29121557371139506,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            },
+            "building": {
+                "val": 0.030668238148577488,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            }
+        }
+    },
+    "AT126": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Wiener Umland/Nordteil",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009004100284373778,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "bareland": {
+                "val": 0.005174181508366742,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "rangeland": {
+                "val": 0.34404350963818103,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "development": {
+                "val": 0.04195751855876281,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "road": {
+                "val": 0.012642613412396916,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "tree": {
+                "val": 0.0808220916886971,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "water": {
+                "val": 0.11562328078135418,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "agricultural": {
+                "val": 0.377629523501592,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            },
+            "building": {
+                "val": 0.021206870882210873,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            }
+        }
+    },
+    "AT125": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Weinviertel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00031538707454030045,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "bareland": {
+                "val": 0.005189425770829422,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "rangeland": {
+                "val": 0.36801331346919847,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "development": {
+                "val": 0.03179417483528794,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "road": {
+                "val": 0.007841867224633935,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "tree": {
+                "val": 0.045184682830562706,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "water": {
+                "val": 0.11449906935859812,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "agricultural": {
+                "val": 0.41736470380126456,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            },
+            "building": {
+                "val": 0.009797375635079934,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            }
+        }
+    },
+    "AT341": {
+        "ADM0": "AT",
+        "ADM1": "Vorarlberg",
+        "ADM2": "Bludenz-Bregenzer Wald",
+        "segmentation": {
+            "nodata": {
+                "val": 0.005480982741206687,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "bareland": {
+                "val": 0.047584405492851166,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "rangeland": {
+                "val": 0.5379339354592089,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "development": {
+                "val": 0.07605451220867258,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "road": {
+                "val": 0.012887888154034292,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "tree": {
+                "val": 0.21166141370571953,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "water": {
+                "val": 0.05812974288289951,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "agricultural": {
+                "val": 0.045363600154616955,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            },
+            "building": {
+                "val": 0.00490351920079132,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            }
+        }
+    },
+    "AT342": {
+        "ADM0": "AT",
+        "ADM1": "Vorarlberg",
+        "ADM2": "Rheintal-Bodenseegebiet",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008969751204022707,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "bareland": {
+                "val": 0.0017875564325971986,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "rangeland": {
+                "val": 0.3764472340122422,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "development": {
+                "val": 0.07956079694082285,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "road": {
+                "val": 0.021923496061175402,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "tree": {
+                "val": 0.26264642698341895,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "water": {
+                "val": 0.11416986560668019,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "agricultural": {
+                "val": 0.12381113954925359,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            },
+            "building": {
+                "val": 0.01875650929340641,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            }
+        }
+    },
+    "AT313": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "M\u00fchlviertel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0001237287635892949,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "bareland": {
+                "val": 0.0008199922486787826,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "rangeland": {
+                "val": 0.30853952504892646,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "development": {
+                "val": 0.04308136692876007,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "road": {
+                "val": 0.014202598712520156,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "tree": {
+                "val": 0.26662097131319096,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "water": {
+                "val": 0.08546443243523844,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "agricultural": {
+                "val": 0.2746393955387052,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            },
+            "building": {
+                "val": 0.0065079890103923,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            }
+        }
+    },
+    "AT314": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Steyr-Kirchdorf",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012708910878441988,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "bareland": {
+                "val": 0.007149922697985231,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "rangeland": {
+                "val": 0.35377168723550856,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "development": {
+                "val": 0.05141245254336354,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "road": {
+                "val": 0.015376876800061922,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "tree": {
+                "val": 0.35546480186150836,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "water": {
+                "val": 0.03908954408864164,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "agricultural": {
+                "val": 0.16843699383016397,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            },
+            "building": {
+                "val": 0.008026829854921747,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            }
+        }
+    },
+    "AT315": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Traunviertel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0013703919478369223,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "bareland": {
+                "val": 0.010618225669605401,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "rangeland": {
+                "val": 0.4323897615813171,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "development": {
+                "val": 0.06643256017641531,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "road": {
+                "val": 0.017438243574885427,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "tree": {
+                "val": 0.22305173299398656,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "water": {
+                "val": 0.07328317787752556,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "agricultural": {
+                "val": 0.16405364474458717,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            },
+            "building": {
+                "val": 0.01136226143383748,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            }
+        }
+    },
+    "AT311": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Innviertel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001514315359573777,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "bareland": {
+                "val": 0.0011940893862216456,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "rangeland": {
+                "val": 0.2824062949401837,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "development": {
+                "val": 0.04564268819593519,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "road": {
+                "val": 0.016161318727403794,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "tree": {
+                "val": 0.16792080076652,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "water": {
+                "val": 0.05876966302759356,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "agricultural": {
+                "val": 0.414934980924726,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            },
+            "building": {
+                "val": 0.011455848671842796,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            }
+        }
+    },
+    "AT312": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Linz-Wels",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0015830101622374847,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "bareland": {
+                "val": 0.0016460172123782164,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "rangeland": {
+                "val": 0.3049192925369785,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "development": {
+                "val": 0.06965118923114723,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "road": {
+                "val": 0.023771354907365826,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "tree": {
+                "val": 0.12765473920582857,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "water": {
+                "val": 0.07607558435360319,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "agricultural": {
+                "val": 0.3777104925293446,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            },
+            "building": {
+                "val": 0.016988319861118335,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            }
+        }
+    },
+    "AT321": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Lungau",
+        "segmentation": {
+            "nodata": {
+                "val": 0.004843874628114273,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "bareland": {
+                "val": 0.03195270555157701,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "rangeland": {
+                "val": 0.527391493907005,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "development": {
+                "val": 0.04969697699208644,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "road": {
+                "val": 0.012316482124548687,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "tree": {
+                "val": 0.28829932819595516,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "water": {
+                "val": 0.05107642304181313,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "agricultural": {
+                "val": 0.030422045005795716,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            },
+            "building": {
+                "val": 0.004000670553103193,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            }
+        }
+    },
+    "AT322": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Pinzgau-Pongau",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0028299263465498443,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "bareland": {
+                "val": 0.04315090515217945,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "rangeland": {
+                "val": 0.49858261357916134,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "development": {
+                "val": 0.08567215663037488,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "road": {
+                "val": 0.014785752872114564,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "tree": {
+                "val": 0.1878450261008497,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "water": {
+                "val": 0.1284484452890144,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "agricultural": {
+                "val": 0.023307675832538333,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            },
+            "building": {
+                "val": 0.015377498197216025,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            }
+        }
+    },
+    "AT323": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Salzburg und Umgebung",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0011735927248464016,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "bareland": {
+                "val": 0.0073283241790476,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "rangeland": {
+                "val": 0.48865078379806987,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "development": {
+                "val": 0.05897825222570933,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "road": {
+                "val": 0.015963580307451222,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "tree": {
+                "val": 0.19868720971264808,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "water": {
+                "val": 0.06985306230563565,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "agricultural": {
+                "val": 0.15113003591889332,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            },
+            "building": {
+                "val": 0.008235158827698338,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            }
+        }
+    },
+    "AT213": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Unterk\u00e4rnten",
+        "segmentation": {
+            "nodata": {
+                "val": 9.892137444012426e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "bareland": {
+                "val": 0.001753256404728471,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "rangeland": {
+                "val": 0.36535985610763055,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "development": {
+                "val": 0.04017898924666133,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "road": {
+                "val": 0.014464825173669697,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "tree": {
+                "val": 0.41121428708415975,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "water": {
+                "val": 0.06610439868969913,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "agricultural": {
+                "val": 0.09547719145165161,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            },
+            "building": {
+                "val": 0.00534827446735865,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            }
+        }
+    },
+    "AT212": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Oberk\u00e4rnten",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0027696890286585283,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "bareland": {
+                "val": 0.04355856409216401,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "rangeland": {
+                "val": 0.45651242127486275,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "development": {
+                "val": 0.06729966034148863,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "road": {
+                "val": 0.010235918267655414,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "tree": {
+                "val": 0.2890086378644177,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "water": {
+                "val": 0.0809950442517169,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "agricultural": {
+                "val": 0.036274421237783475,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            },
+            "building": {
+                "val": 0.013345643641256299,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            }
+        }
+    },
+    "AT211": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Klagenfurt-Villach",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00030221770845073186,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "bareland": {
+                "val": 0.003261325816622623,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "rangeland": {
+                "val": 0.33968070260529476,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "development": {
+                "val": 0.05526414849501827,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "road": {
+                "val": 0.018577953274641464,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "tree": {
+                "val": 0.4247884530740156,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "water": {
+                "val": 0.05866182910232621,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "agricultural": {
+                "val": 0.08763388032615674,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            },
+            "building": {
+                "val": 0.011829489597470759,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            }
+        }
+    },
+    "AT130": {
+        "ADM0": "AT",
+        "ADM1": "Wien",
+        "ADM2": "Wien",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008104165139971347,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "bareland": {
+                "val": 0.002536127693580399,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "rangeland": {
+                "val": 0.3564541389624535,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "development": {
+                "val": 0.19833222323397737,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "road": {
+                "val": 0.07650790513040161,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "tree": {
+                "val": 0.14268196222296117,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "water": {
+                "val": 0.0615856804396137,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "agricultural": {
+                "val": 0.07566805482867442,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            },
+            "building": {
+                "val": 0.08542349097434052,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            }
+        }
+    }
+}

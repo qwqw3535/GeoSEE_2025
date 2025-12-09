@@ -1,0 +1,496 @@
+{
+    "CH052": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Schaffhausen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1720.07470703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.3428492539428443,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            }
+        }
+    },
+    "CH053": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Appenzell Ausserrhoden",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1090.0447998046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.26881499378660606,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            }
+        }
+    },
+    "CH054": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Appenzell Innerrhoden",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 268.39703369140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.10451597885179371,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            }
+        }
+    },
+    "CH051": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Glarus",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1705.71337890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.438599480305027,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            }
+        }
+    },
+    "CH056": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Graub\u00fcnden",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8828.6884765625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.18548833910881987,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            }
+        }
+    },
+    "CH055": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "St. Gallen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14164.3212890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.679572100420405,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            }
+        }
+    },
+    "CH057": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Thurgau",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6268.1591796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7118054939458892,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            }
+        }
+    },
+    "CH012": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Valais",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 20304.126953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.46297261385272254,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            }
+        }
+    },
+    "CH013": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Gen\u00e8ve",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16822.51171875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 5.445940990207187,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            }
+        }
+    },
+    "CH011": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Vaud",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 33750.0703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0075550142550078,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            }
+        }
+    },
+    "CH070": {
+        "ADM0": "CH",
+        "ADM1": "Ticino",
+        "ADM2": "Ticino",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19902.525390625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1096412461320808,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            }
+        }
+    },
+    "CH064": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Obwalden",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 862.4105224609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.30028221534155203,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            }
+        }
+    },
+    "CH065": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Nidwalden",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 861.2183227539062,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.2556302531178113,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            }
+        }
+    },
+    "CH066": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Zug",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3353.4638671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.281267936862245,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            }
+        }
+    },
+    "CH063": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Schwyz",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3725.1376953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6187936370950997,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            }
+        }
+    },
+    "CH061": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Luzern",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13212.185546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3173981001969288,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            }
+        }
+    },
+    "CH062": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Uri",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1408.91357421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.1801679762428069,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            }
+        }
+    },
+    "CH023": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Solothurn",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 12016.208984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0141116536733057,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            }
+        }
+    },
+    "CH024": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Neuch\u00e2tel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6932.62255859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.011175985792554,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            }
+        }
+    },
+    "CH025": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Jura",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5445.86865234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5973967367643429,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            }
+        }
+    },
+    "CH021": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Bern",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28105.39453125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.522754901630273,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            }
+        }
+    },
+    "CH022": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Freiburg",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11590.6748046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1690040145927887,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            }
+        }
+    },
+    "CH032": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Basel-Landschaft",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9621.03125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.955096779109937,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            }
+        }
+    },
+    "CH033": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Aargau",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 21572.0234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.9076780542536258,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            }
+        }
+    },
+    "CH031": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Basel-Stadt",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4755.00048828125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 11.241135906102246,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            }
+        }
+    },
+    "CH040": {
+        "ADM0": "CH",
+        "ADM1": "Z\u00fcrich",
+        "ADM2": "Z\u00fcrich",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34389.80078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.432817837232534,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            }
+        }
+    }
+}

@@ -1,0 +1,192 @@
+{
+    "01008": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Kanggye",
+        "ADM2": "Kanggye",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 131.87744140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.055271350128352895,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 369.14003930228824
+            }
+        }
+    },
+    "09010": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Guseong-si",
+        "ADM2": "Guseong-si",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 96.65225982666016,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.03598371549763967,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 637.4721881860746
+            }
+        }
+    },
+    "12001": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Rason",
+        "ADM2": "Rason",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 328.94915771484375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.028382153383506796,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 729.305258520333
+            }
+        }
+    },
+    "13009": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Samjiyon",
+        "ADM2": "Samjiyon",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 458.2760009765625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.05129572430899513,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1075.5462969352845
+            }
+        }
+    },
+    "14001": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Shinuiju",
+        "ADM2": "Shinuiju",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1208.8641357421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3491787229265486,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 156.93444367736237
+            }
+        }
+    },
+    "04017": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Yeontan",
+        "ADM2": "Yeontan",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.409955978393555,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003216126726733314,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 543.9092939218737
+            }
+        }
+    },
+    "10013": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Oncheon",
+        "ADM2": "Oncheon",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 31.155012130737305,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.012592971758584197,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 346.7567728041704
+            }
+        }
+    },
+    "04015": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Eunpa",
+        "ADM2": "Eunpa",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22.799942016601562,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.01026561999846986,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 387.4619640198812
+            }
+        }
+    },
+    "11001": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Pyeongyang",
+        "ADM2": "Pyeongyang",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6601.84423828125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.7723071780620805,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1090.6128656463832
+            }
+        }
+    },
+    "03004": {
+        "ADM0": "PRK_10cities",
+        "ADM1": "Hamh\u016dng",
+        "ADM2": "Hamh\u016dng",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 689.3338623046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.17211831767907304,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 612.6554109887496
+            }
+        }
+    }
+}

@@ -1,0 +1,1588 @@
+{
+    "CH052": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Schaffhausen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008749255829900172,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "bareland": {
+                "val": 0.0020256303165931086,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "rangeland": {
+                "val": 0.3833035510330373,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "development": {
+                "val": 0.06681782889746307,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "road": {
+                "val": 0.012971078616339976,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "tree": {
+                "val": 0.2098411633919477,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "water": {
+                "val": 0.09242620229178009,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "agricultural": {
+                "val": 0.19959738042740174,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            },
+            "building": {
+                "val": 0.03214223944244732,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 297.91339580591756
+            }
+        }
+    },
+    "CH053": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Appenzell Ausserrhoden",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001073976315594866,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "bareland": {
+                "val": 0.001292450750287507,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "rangeland": {
+                "val": 0.48866450963759345,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "development": {
+                "val": 0.06295580097908511,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "road": {
+                "val": 0.009554377702306698,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "tree": {
+                "val": 0.18846475934611095,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "water": {
+                "val": 0.2086370674667844,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "agricultural": {
+                "val": 0.021852065381308624,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            },
+            "building": {
+                "val": 0.017504992420928147,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 243.18931613447094
+            }
+        }
+    },
+    "CH054": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Appenzell Innerrhoden",
+        "segmentation": {
+            "nodata": {
+                "val": 0.004074054926782106,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "bareland": {
+                "val": 0.01179953428050178,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "rangeland": {
+                "val": 0.49301832208585933,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "development": {
+                "val": 0.04753801715907764,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "road": {
+                "val": 0.005998476702182446,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "tree": {
+                "val": 0.1673453677352981,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "water": {
+                "val": 0.22657954277683823,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "agricultural": {
+                "val": 0.03142123625646183,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            },
+            "building": {
+                "val": 0.012225448076997837,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 172.42278503040276
+            }
+        }
+    },
+    "CH051": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Glarus",
+        "segmentation": {
+            "nodata": {
+                "val": 0.009505604453918796,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "bareland": {
+                "val": 0.03931446321767059,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "rangeland": {
+                "val": 0.4492420236138807,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "development": {
+                "val": 0.10246772698493946,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "road": {
+                "val": 0.005358634401979718,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "tree": {
+                "val": 0.10635337819929917,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "water": {
+                "val": 0.24697951806832336,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "agricultural": {
+                "val": 0.009677544036192889,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            },
+            "building": {
+                "val": 0.031101107023794067,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 686.3043167100057
+            }
+        }
+    },
+    "CH056": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Graub\u00fcnden",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0037880333710795045,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "bareland": {
+                "val": 0.06567635826107282,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "rangeland": {
+                "val": 0.52835392456948,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "development": {
+                "val": 0.08265403545246132,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "road": {
+                "val": 0.004569721172244568,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "tree": {
+                "val": 0.11627187670449644,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "water": {
+                "val": 0.1621250582856769,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "agricultural": {
+                "val": 0.008800217317132507,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            },
+            "building": {
+                "val": 0.027760774866358244,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7104.907077932598
+            }
+        }
+    },
+    "CH055": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "St. Gallen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0031442492555667978,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "bareland": {
+                "val": 0.009197855412338167,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "rangeland": {
+                "val": 0.47143616200262056,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "development": {
+                "val": 0.07439889826132669,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "road": {
+                "val": 0.011528090854689763,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "tree": {
+                "val": 0.1310016474496098,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "water": {
+                "val": 0.22401759375525812,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "agricultural": {
+                "val": 0.05101519167317075,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            },
+            "building": {
+                "val": 0.024260311335418772,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2033.3711545304484
+            }
+        }
+    },
+    "CH057": {
+        "ADM0": "CH",
+        "ADM1": "Ostschweiz",
+        "ADM2": "Thurgau",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00027459171746083627,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "bareland": {
+                "val": 0.001049718453618764,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "rangeland": {
+                "val": 0.36316222947049115,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "development": {
+                "val": 0.06818420107350248,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "road": {
+                "val": 0.01517435951002511,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "tree": {
+                "val": 0.1140245175958192,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "water": {
+                "val": 0.2135356004532325,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "agricultural": {
+                "val": 0.19817275145220484,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            },
+            "building": {
+                "val": 0.02642203027364815,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 988.5139272816218
+            }
+        }
+    },
+    "CH012": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Valais",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00604641239638845,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "bareland": {
+                "val": 0.07377881097080528,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "rangeland": {
+                "val": 0.4836443223193058,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "development": {
+                "val": 0.12072263134901295,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "road": {
+                "val": 0.006652423425832242,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "tree": {
+                "val": 0.09346758993847235,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "water": {
+                "val": 0.17090350653608735,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "agricultural": {
+                "val": 0.016533295433451556,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            },
+            "building": {
+                "val": 0.028251007630642117,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5223.03033507251
+            }
+        }
+    },
+    "CH013": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Gen\u00e8ve",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00019330779082266274,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "bareland": {
+                "val": 0.0016478622465514153,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "rangeland": {
+                "val": 0.2882546539016732,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "development": {
+                "val": 0.10860946829217812,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "road": {
+                "val": 0.0362560182828704,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "tree": {
+                "val": 0.1377009004637591,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "water": {
+                "val": 0.16493938269684585,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "agricultural": {
+                "val": 0.21621639114003,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            },
+            "building": {
+                "val": 0.046182015185268654,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 282.85108527727533
+            }
+        }
+    },
+    "CH011": {
+        "ADM0": "CH",
+        "ADM1": "R\u00e9gion l\u00e9manique",
+        "ADM2": "Vaud",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005695491811128265,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "bareland": {
+                "val": 0.003693254026648175,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "rangeland": {
+                "val": 0.3539902629937286,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "development": {
+                "val": 0.057115396677074055,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "road": {
+                "val": 0.010196610869580642,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "tree": {
+                "val": 0.11237537031251874,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "water": {
+                "val": 0.27429565830107455,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "agricultural": {
+                "val": 0.1612624790485252,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            },
+            "building": {
+                "val": 0.02650141858973239,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3211.341121148566
+            }
+        }
+    },
+    "CH070": {
+        "ADM0": "CH",
+        "ADM1": "Ticino",
+        "ADM2": "Ticino",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0022301963358504267,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "bareland": {
+                "val": 0.03900587664723443,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "rangeland": {
+                "val": 0.5766971889473581,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "development": {
+                "val": 0.062327495165091035,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "road": {
+                "val": 0.005321164042749087,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "tree": {
+                "val": 0.11025418961505236,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "water": {
+                "val": 0.15673938922721983,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "agricultural": {
+                "val": 0.00799883444478178,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            },
+            "building": {
+                "val": 0.03942566557465822,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2811.4450496123054
+            }
+        }
+    },
+    "CH064": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Obwalden",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0019491011846112492,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "bareland": {
+                "val": 0.008934608713694775,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "rangeland": {
+                "val": 0.43855526062033595,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "development": {
+                "val": 0.03440678021421746,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "road": {
+                "val": 0.0033722511545726114,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "tree": {
+                "val": 0.11662988447451073,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "water": {
+                "val": 0.3647459024000841,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "agricultural": {
+                "val": 0.010144496468052345,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            },
+            "building": {
+                "val": 0.0212617147699217,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 490.1614533279069
+            }
+        }
+    },
+    "CH065": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Nidwalden",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00025056423825044373,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "bareland": {
+                "val": 0.0040676971339277,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "rangeland": {
+                "val": 0.41905117576430606,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "development": {
+                "val": 0.038606375324237246,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "road": {
+                "val": 0.0036050333209594393,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "tree": {
+                "val": 0.061651714818334646,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "water": {
+                "val": 0.423634008654284,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "agricultural": {
+                "val": 0.017827844469329154,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            },
+            "building": {
+                "val": 0.031305586276370256,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 275.98749367967844
+            }
+        }
+    },
+    "CH066": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Zug",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005671137429521339,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "bareland": {
+                "val": 0.0017081345253568284,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "rangeland": {
+                "val": 0.3595224695405088,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "development": {
+                "val": 0.07750424396759677,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "road": {
+                "val": 0.01604472946244,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "tree": {
+                "val": 0.13271348564076432,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "water": {
+                "val": 0.27620513850007855,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "agricultural": {
+                "val": 0.10128821309040825,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            },
+            "building": {
+                "val": 0.03444647152989399,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 239.06670479272353
+            }
+        }
+    },
+    "CH063": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Schwyz",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0025571058355450048,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "bareland": {
+                "val": 0.013431798761541217,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "rangeland": {
+                "val": 0.5025034175306986,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "development": {
+                "val": 0.07285439961264577,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "road": {
+                "val": 0.008231414356870487,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "tree": {
+                "val": 0.10941667401619491,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "water": {
+                "val": 0.2499838001305968,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "agricultural": {
+                "val": 0.014665941302285806,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            },
+            "building": {
+                "val": 0.02635544845362025,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 907.5937068423825
+            }
+        }
+    },
+    "CH061": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Luzern",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001023346347600698,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "bareland": {
+                "val": 0.004668216514897415,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "rangeland": {
+                "val": 0.42077472289089773,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "development": {
+                "val": 0.07519889425893728,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "road": {
+                "val": 0.010637362152234223,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "tree": {
+                "val": 0.13206183232258017,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "water": {
+                "val": 0.20980033183667937,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "agricultural": {
+                "val": 0.12030918492444898,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            },
+            "building": {
+                "val": 0.025526108751724313,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1493.3952572181893
+            }
+        }
+    },
+    "CH062": {
+        "ADM0": "CH",
+        "ADM1": "Zentralschweiz",
+        "ADM2": "Uri",
+        "segmentation": {
+            "nodata": {
+                "val": 0.002594811397779228,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "bareland": {
+                "val": 0.0607126131313134,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "rangeland": {
+                "val": 0.5434697915493925,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "development": {
+                "val": 0.06490036150273897,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "road": {
+                "val": 0.002790599925155174,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "tree": {
+                "val": 0.04452923962214982,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "water": {
+                "val": 0.24880899968760767,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "agricultural": {
+                "val": 0.010397181021941435,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            },
+            "building": {
+                "val": 0.02179640216192018,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1075.7866204988977
+            }
+        }
+    },
+    "CH023": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Solothurn",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0010232121312185975,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "bareland": {
+                "val": 0.004757065812590405,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "rangeland": {
+                "val": 0.5231776764529303,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "development": {
+                "val": 0.0840146867611256,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "road": {
+                "val": 0.02374129839055964,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "tree": {
+                "val": 0.13230879080769456,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "water": {
+                "val": 0.03941360380306869,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "agricultural": {
+                "val": 0.1759498666185844,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            },
+            "building": {
+                "val": 0.015613799222227017,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 789.1105195677002
+            }
+        }
+    },
+    "CH024": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Neuch\u00e2tel",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00092993740830125,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "bareland": {
+                "val": 0.0032167803883396975,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "rangeland": {
+                "val": 0.3724183011646096,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "development": {
+                "val": 0.05936179009661965,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "road": {
+                "val": 0.0076686797737297585,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "tree": {
+                "val": 0.1572029749275861,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "water": {
+                "val": 0.299802738669229,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "agricultural": {
+                "val": 0.0653395791736154,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            },
+            "building": {
+                "val": 0.03405921839796585,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 802.7966903859724
+            }
+        }
+    },
+    "CH025": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Jura",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0013261352788440076,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "bareland": {
+                "val": 0.0018564483362028383,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "rangeland": {
+                "val": 0.43526853536073923,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "development": {
+                "val": 0.048005054384257013,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "road": {
+                "val": 0.008433354254031931,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "tree": {
+                "val": 0.15339504549768804,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "water": {
+                "val": 0.2146526426289985,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "agricultural": {
+                "val": 0.11247900085137484,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            },
+            "building": {
+                "val": 0.024583783407863893,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 839.0178033373494
+            }
+        }
+    },
+    "CH021": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Bern",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0035005707899121875,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "bareland": {
+                "val": 0.0179909900325623,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "rangeland": {
+                "val": 0.41119024807517734,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "development": {
+                "val": 0.0722377695268019,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "road": {
+                "val": 0.007126306471599063,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "tree": {
+                "val": 0.11158887990390395,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "water": {
+                "val": 0.2562775905854647,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "agricultural": {
+                "val": 0.09326239380456752,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            },
+            "building": {
+                "val": 0.0268252508100115,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5959.087891312049
+            }
+        }
+    },
+    "CH022": {
+        "ADM0": "CH",
+        "ADM1": "Espace Mittelland",
+        "ADM2": "Freiburg",
+        "segmentation": {
+            "nodata": {
+                "val": 0.002302406085389451,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "bareland": {
+                "val": 0.0027447375181210336,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "rangeland": {
+                "val": 0.38034109210556405,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "development": {
+                "val": 0.060238333403869714,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "road": {
+                "val": 0.008003959980980614,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "tree": {
+                "val": 0.10254211594413244,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "water": {
+                "val": 0.28272072338653975,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "agricultural": {
+                "val": 0.13681793293191605,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            },
+            "building": {
+                "val": 0.02428869864348677,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1671.7234960152462
+            }
+        }
+    },
+    "CH032": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Basel-Landschaft",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005811550371879633,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "bareland": {
+                "val": 0.002768434761067481,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "rangeland": {
+                "val": 0.5376677148260347,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "development": {
+                "val": 0.0952346645747767,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "road": {
+                "val": 0.026419216850502213,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "tree": {
+                "val": 0.150223865358056,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "water": {
+                "val": 0.06526965767852866,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "agricultural": {
+                "val": 0.09863174056000328,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            },
+            "building": {
+                "val": 0.023203550353842844,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 517.2704740299397
+            }
+        }
+    },
+    "CH033": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Aargau",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000680085066910628,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "bareland": {
+                "val": 0.005711838905045603,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "rangeland": {
+                "val": 0.42333429916437887,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "development": {
+                "val": 0.1397395607898234,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "road": {
+                "val": 0.03320973015530194,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "tree": {
+                "val": 0.12465772430829747,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "water": {
+                "val": 0.030498513488396623,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "agricultural": {
+                "val": 0.21253810318980523,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            },
+            "building": {
+                "val": 0.029630144932039852,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1404.7234248571851
+            }
+        }
+    },
+    "CH031": {
+        "ADM0": "CH",
+        "ADM1": "Nordwestschweiz",
+        "ADM2": "Basel-Stadt",
+        "segmentation": {
+            "nodata": {
+                "val": 9.304622434220223e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "bareland": {
+                "val": 0.005204884511119915,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "rangeland": {
+                "val": 0.38231538376718177,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "development": {
+                "val": 0.2508142039460956,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "road": {
+                "val": 0.06293626101511827,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "tree": {
+                "val": 0.12305484627777673,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "water": {
+                "val": 0.05936122390459168,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "agricultural": {
+                "val": 0.017959828646677844,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            },
+            "building": {
+                "val": 0.0982603217070958,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 36.990835675690676
+            }
+        }
+    },
+    "CH040": {
+        "ADM0": "CH",
+        "ADM1": "Z\u00fcrich",
+        "ADM2": "Z\u00fcrich",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00035224173003566873,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "bareland": {
+                "val": 0.001331574638334184,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "rangeland": {
+                "val": 0.36625160807650264,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "development": {
+                "val": 0.09015924356789998,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "road": {
+                "val": 0.030591230922537568,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "tree": {
+                "val": 0.15706322066294698,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "water": {
+                "val": 0.08548095183059225,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "agricultural": {
+                "val": 0.2321520754051534,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            },
+            "building": {
+                "val": 0.03661785316599583,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1728.378638815927
+            }
+        }
+    }
+}

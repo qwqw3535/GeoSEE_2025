@@ -1,0 +1,667 @@
+{
+    "AT111": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "Mittelburgenland",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2847.749267578125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.823048921265354,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 703.5700452312808
+            }
+        }
+    },
+    "AT112": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "Nordburgenland",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13520.212890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.059910072955864,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1792.4590637230442
+            }
+        }
+    },
+    "AT113": {
+        "ADM0": "AT",
+        "ADM1": "Burgenland",
+        "ADM2": "S\u00fcdburgenland",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4765.65185546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5055321794281055,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1469.7294990133523
+            }
+        }
+    },
+    "AT224": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Oststeiermark",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11104.935546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5872209585360372,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3339.677085700102
+            }
+        }
+    },
+    "AT225": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "West- und S\u00fcdsteiermark",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6999.9501953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4290236697298664,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2273.2904596723006
+            }
+        }
+    },
+    "AT223": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "\u00d6stliche Obersteiermark",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9882.302734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.44261668537533033,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3205.54747979118
+            }
+        }
+    },
+    "AT226": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Westliche Obersteiermark",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4996.19091796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.24904994357054733,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3061.1380935572242
+            }
+        }
+    },
+    "AT221": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Graz",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18284.63671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.8150324318790947,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1214.7998629083097
+            }
+        }
+    },
+    "AT222": {
+        "ADM0": "AT",
+        "ADM1": "Steiermark",
+        "ADM2": "Liezen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4233.58984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.17244765147657842,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3319.1847527645696
+            }
+        }
+    },
+    "AT331": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Au\u00dferfern",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2736.14404296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.22449491655470544,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1237.3106614579171
+            }
+        }
+    },
+    "AT332": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Innsbruck",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13583.1494140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.2721895975347106,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2095.8022507978812
+            }
+        }
+    },
+    "AT333": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Osttirol",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2542.60693359375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.2241762417204858,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2020.1659193536584
+            }
+        }
+    },
+    "AT334": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Tiroler Oberland",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8075.8125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.48474264705882353,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3321.326926372451
+            }
+        }
+    },
+    "AT335": {
+        "ADM0": "AT",
+        "ADM1": "Tirol",
+        "ADM2": "Tiroler Unterland",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16132.0087890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5093943221782342,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3973.60493153275
+            }
+        }
+    },
+    "AT123": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Sankt P\u00f6lten",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10208.82421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7840276644458951,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1232.3745427990787
+            }
+        }
+    },
+    "AT121": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Mostviertel-Eisenwurzen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14967.126953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8042518513232133,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3360.425242811112
+            }
+        }
+    },
+    "AT122": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Nieder\u00f6sterreich-S\u00fcd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18326.34375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7535503186677631,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3374.9095174146432
+            }
+        }
+    },
+    "AT124": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Waldviertel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17105.376953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7764935745210858,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4615.719092188226
+            }
+        }
+    },
+    "AT127": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Wiener Umland/S\u00fcdteil",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34666.3046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.456606310449696,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1476.4135093348636
+            }
+        }
+    },
+    "AT126": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Wiener Umland/Nordteil",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28694.486328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.7479584751538133,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2726.211712171091
+            }
+        }
+    },
+    "AT125": {
+        "ADM0": "AT",
+        "ADM1": "Nieder\u00f6sterreich",
+        "ADM2": "Weinviertel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13045.9560546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.91788897872986,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2410.93601778751
+            }
+        }
+    },
+    "AT341": {
+        "ADM0": "AT",
+        "ADM1": "Vorarlberg",
+        "ADM2": "Bludenz-Bregenzer Wald",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4817.89306640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4185832377416377,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1874.6974246376121
+            }
+        }
+    },
+    "AT342": {
+        "ADM0": "AT",
+        "ADM1": "Vorarlberg",
+        "ADM2": "Rheintal-Bodenseegebiet",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10338.80078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.4375418216421023,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 745.9584511419138
+            }
+        }
+    },
+    "AT313": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "M\u00fchlviertel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6620.869140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.25262779077476344,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2660.285873776013
+            }
+        }
+    },
+    "AT314": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Steyr-Kirchdorf",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5309.501953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5579552283653846,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2240.298105074705
+            }
+        }
+    },
+    "AT315": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Traunviertel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8499.998046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5678021407398129,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2517.0702279399525
+            }
+        }
+    },
+    "AT311": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Innviertel",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11239.74609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4411030216141439,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2821.8916370244583
+            }
+        }
+    },
+    "AT312": {
+        "ADM0": "AT",
+        "ADM1": "Ober\u00f6sterreich",
+        "ADM2": "Linz-Wels",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28643.380859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.084909085554658,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1745.3000734454008
+            }
+        }
+    },
+    "AT321": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Lungau",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 953.0490112304688,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.13657910737037385,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1019.1005130798006
+            }
+        }
+    },
+    "AT322": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Pinzgau-Pongau",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8302.900390625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.28130168012688034,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4397.547529051974
+            }
+        }
+    },
+    "AT323": {
+        "ADM0": "AT",
+        "ADM1": "Salzburg",
+        "ADM2": "Salzburg und Umgebung",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15453.173828125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3427034345403597,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1740.8301865710864
+            }
+        }
+    },
+    "AT213": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Unterk\u00e4rnten",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6322.8212890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.2729707416596512,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3377.389414156795
+            }
+        }
+    },
+    "AT212": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Oberk\u00e4rnten",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4348.4345703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.16658754052455657,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4136.115785843563
+            }
+        }
+    },
+    "AT211": {
+        "ADM0": "AT",
+        "ADM1": "K\u00e4rnten",
+        "ADM2": "Klagenfurt-Villach",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11658.9638671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1045915553943628,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2030.349236923815
+            }
+        }
+    },
+    "AT130": {
+        "ADM0": "AT",
+        "ADM1": "Wien",
+        "ADM2": "Wien",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 47514.28125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 26.06378565551289,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 413.48620184124735
+            }
+        }
+    }
+}

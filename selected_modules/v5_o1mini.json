@@ -1,0 +1,15 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_population(Loc)",
+        "get_night_light(Loc)",
+        "get_landcover_ratio(Loc, target_class='building')",
+        "get_distance_to_nearest_target(Loc, target_name='airport')",
+        "get_distance_to_nearest_target(Loc, target_name='port')",
+        "get_area(Loc)",
+        "get_landcover_ratio(Loc, target_class='building')",
+        "get_landcover_ratio(Loc, target_class='development')",
+        "get_distance_to_nearest_target(Loc, target_name='airport')",
+        "get_distance_to_nearest_target(Loc, target_name='port')"
+    ]
+}

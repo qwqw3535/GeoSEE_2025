@@ -1,0 +1,21 @@
+- get_address(Loc): Get address of given location.
+
+- get_area(Loc): Get area size of given location's district.
+
+- get_night_light(Loc): Get nightlight intensity of given location.
+
+- get_distance_to_nearest_target(Loc, Class): Get distance of given location to class. Class should be one of the element in ['port']
+
+- get_landcover_ratio(Loc, Class): Get the relative land cover ratio of class within the total area using satellite images. Class should be one of the element in ["bareland", "rangeland", "development", "road", "tree", "water", "agricultural", "building"]. 
+    - "Bareland" includes natural areas covered by sand or rocks without vegetation, and other accumulations of earthen materials. 
+    - "Rangeland" includes areas dominated by herbaceous vegetation or bushes that are not cultivated or grazed, as well as grass and shrubs in gardens, parks, and golf courses. 
+    - "Development" includes areas such as sidewalks, pavements, footpahts, parking lots, and construction sites as well as artificial grass areas search as tennis courts, baseball and football fields, etc. 
+    - "Road" includes lanes, streets, railways, airport runways, and highway/motorway for venicles excluding bicycles. The materials of roads include asphalt, concrete, and soil. 
+    - "Tree" includes individual trees and a group of trees that are identified from their shapes (shadow) and height. 
+    - "Water" includes water bodies (e.g., rivers, streams, lakes, sea, ponds, dams) and swimming pools. 
+    - "Agricultural" includes areas used for producing crops, perennial woody crops, and non-native vegetation for grazing. 
+    - "Building" includes residential, commercial and industrial buildings.
+
+- get_poi_info(Loc): Get total count of POIs related to industrial activity.
+
+- get_air_info(Loc): Get density of CO, NO2, SO2 and average Land Surface Temperature which can infer economic activity of the region.

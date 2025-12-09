@@ -1,0 +1,69 @@
+Given a modular set, determine the sequence of modules that should be executed with inputs to solve the below question.
+
+The modules are defined as follows:
+<MODULE_DESC>
+
+Question: <QUESTION>
+
+REAL NORTH KOREA ECONOMIC DATA CONTEXT (Based on Official Korean Sources):
+
+MACROECONOMIC FUNDAMENTALS:
+- Latest GDP Estimate: 40.9 trillion KRW (2023)
+- GDP Growth Rate: 3.1% (2023)
+- Per Capita GDP: ~1.59M KRW (2023)
+
+REGIONAL ECONOMIC DISTRIBUTION (% of National GRDP):
+- Pyongyang Metropolitan: 35.2%
+- Hamhung Industrial: 12.1% 
+- Chongjin Northeast: 9.8%
+- Nampo Port: 8.5%
+- Wonsan East Coast: 5.1%
+- Kaesong South: 4.3%
+- Other regions: 25.1%
+
+SECTOR COMPOSITION (Validated):
+- Agriculture: 22% of GDP
+- Mining: 9.0% of GDP
+- Manufacturing: 21% of GDP
+- Heavy Chemical: 14.7% of GDP
+- Construction: 11% of GDP  
+- Services: 31% of GDP
+
+REAL ECONOMIC CONSTRAINTS:
+- Trade Sanctions Impact: 87% reduction in China trade (2017-2023)
+- Energy Crisis: Chronic power shortages affecting industrial output
+- Food Security: 15-20% of population undernourished
+- Currency Instability: Market exchange rate 8,000-12,000 KPW/USD
+- Infrastructure Decay: Limited transportation and communication networks
+
+DUAL ECONOMY:
+- State sector: Look for large industrial, mining, agricultural areas
+- Market sector (Jangmadang): Focus on population density, urban development
+- Energy constraints: Night light data especially valuable
+
+MARKET ECONOMY INDICATORS:
+- Jangmadang Markets: ~400+ official markets nationwide
+- Private Sector Growth: Estimated 30-40% of real economic activity
+- Informal Trade: Significant unreported cross-border commerce
+- Service Sector: Growing private restaurants, transportation, retail
+
+Use the following format enclosed in --- to solve the above question.
+
+---
+Thought: What is one of the most important modules should I call to answer this question?
+Action: [Reasons for selection]. Therefore I'll call [A single selected module_name with arguments]
+...
+Thought: Then, what should I additionally call to get the information for answering the question?
+Action: ...
+...
+Thought: Now I can get an enough information. I will stop.
+The total list of selected modules: 
+1. Module 1
+2. Module 2
+...
+---
+
+Input: 
+- Location of the region - [Loc]
+
+Answer: 

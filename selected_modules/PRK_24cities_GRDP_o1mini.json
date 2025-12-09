@@ -1,0 +1,11 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_night_light(Loc)",
+        "get_landcover_ratio(Loc, 'development')",
+        "get_landcover_ratio(Loc, 'agricultural')",
+        "get_area(Loc)",
+        "get_distance_to_nearest_target(Loc, 'airport')",
+        "get_distance_to_nearest_target(Loc, 'port')"
+    ]
+}

@@ -1,0 +1,16 @@
+{
+  "s_modules": [
+    "get_address(Loc)",
+    "get_area(Loc)",
+    "get_population(Loc)",
+    "get_night_light(Loc)",
+    "count_area(Loc, target_class='development')",
+    "count_area(Loc, target_class='building')",
+    "count_area(Loc, target_class='road')",
+    "count_area(Loc, target_class='rangeland')",
+    "count_area(Loc, target_class='agricultural')",
+    "count_area(Loc, target_class='water')",
+    "get_distance_to_nearest_target(Loc, target_name='airport')",
+    "get_distance_to_nearest_target(Loc, target_name='port')"
+  ]
+}

@@ -1,0 +1,1222 @@
+{
+  "1 Pyonganbuk-do Unsan-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Pyonganbuk-do",
+    "ADM2": "Unsan-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0039532477,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.33314e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0298717215,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001762976,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.1972565501,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0365751017,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 363027.5345244866,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 17.2608843197,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "2 Pyonganbuk-do Guseong-si": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Pyonganbuk-do",
+    "ADM2": "Guseong-si",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0035408112,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.51261e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0194946499,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001383369,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.2886279411,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0375288751,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 242646.639846838,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 13.943336248,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "3 Pyonganbuk-do Gujang-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Pyonganbuk-do",
+    "ADM2": "Gujang-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0046585541,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.9867e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0312196833,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0002001564,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.9615468478,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0382208087,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 316178.6226167833,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 16.3890021889,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "4 Pyongannam-do Sukcheon-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Pyongannam-do",
+    "ADM2": "Sukcheon-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0053157267,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.67357e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0178088094,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001230723,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.838326837,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0403472545,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 348451.0126050095,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 19.3372955067,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "5 Pyongannam-do Seongcheon-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Pyongannam-do",
+    "ADM2": "Seongcheon-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0054554727,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.55374e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0251692838,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001639546,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.0972787428,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0397181341,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 341744.5784549268,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 19.8223069488,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "6 Hwanghaebuk-do Yeontan-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Yeontan-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0043664186,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.04052e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0263754662,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001836631,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.6282722121,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0391919556,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 329313.4278703377,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 18.5765585203,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "7 Hwanghaebuk-do Eunpa-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Eunpa-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0049730168,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.20515e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0277743542,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001790082,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.1750910284,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0397990196,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 456205.9592834638,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 23.8520918603,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "8 Hwanghaenam-do Jaeryeong-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Jaeryeong-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0050181238,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.21222e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0233785097,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001496516,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.2152628993,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0397854212,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 381450.639949735,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 19.8415273496,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "9 Hwanghaenam-do Euncheon-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Euncheon-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0048170527,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.12152e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0219966188,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001425412,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.1150687118,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.039626503,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 386676.4566166889,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 20.161277227,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "10 Hamgyeongbuk-do Gyeongseong-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Gyeongseong-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.001948348,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.28317e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0190854818,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001256953,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.5454764511,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0365220304,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 242824.0341439928,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 14.4636362951,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "11 Hamgyeongbuk-do Eorang-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Eorang-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0021549533,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.48325e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0131461179,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 9.04842e-05,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.3144112694,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0365788942,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 229641.3798513202,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 14.1956340224,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "12 Hamgyeongnam-do Hamju-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Hamju-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0040578103,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.48354e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0274984174,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001683011,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.2156731376,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0380423543,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 280572.5307218686,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 14.200209618,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "13 Hamgyeongnam-do Geumya-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Geumya-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0043946867,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.87825e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0356377494,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0002334051,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.9032492803,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.038662606,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 247655.0476825846,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 13.0986256654,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "14 Gangwon-do Gosan-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Gosan-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0029755889,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.14132e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0253869653,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001826916,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.0912419855,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0366379768,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 358027.4529784877,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 20.7816715818,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "15 Gangwon-do Icheon-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Icheon-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0044692372,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.41458e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0370477465,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0002001563,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.9270089755,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0374242524,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 391654.1236020169,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 17.0778100234,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "16 Jagang-do Wusi-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Jagang-do",
+    "ADM2": "Wusi-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0036415043,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.80662e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0285549702,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001416665,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 7.2376842079,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0359074977,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 341038.5236924735,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 13.6597346429,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "17 Jagang-do Dongsin-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Jagang-do",
+    "ADM2": "Dongsin-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0036631485,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.94755e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0248983076,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001323743,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.9841820838,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.03713209,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 382964.9037044737,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 16.4399254239,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "18 Yanggang-do Kimhyongjik-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Yanggang-do",
+    "ADM2": "Kimhyongjik-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0022611769,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.52177e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0154672619,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001040948,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.0773054744,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.034170306,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 188038.8411905109,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 10.233273101,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "19 Nampo-si Oncheon-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Nampo-si",
+    "ADM2": "Oncheon-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0041158115,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 2.9556e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0246080852,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001767125,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.59363826,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0401683401,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 314686.1000874962,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 18.2560197515,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+  "20 Gaeseong-si Jangpung-gun": {
+    "ADM0": "PRK_16_20x10_2024",
+    "ADM1": "Gaeseong-si",
+    "ADM2": "Jangpung-gun",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0050539755,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.33358e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0274762559,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.0001812324,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 5.737240591,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0378426371,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 323455.0148052441,
+        "desc": "Sum of land surface temperature (\u00b0C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 17.1632271158,
+        "desc": "Average land surface temperature (\u00b0C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  }
+}

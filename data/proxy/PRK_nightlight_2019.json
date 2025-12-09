@@ -1,0 +1,3707 @@
+{
+    "PRK.4.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Jangpung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 511.1189091451051
+            }
+        }
+    },
+    "PRK.4.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Goksan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.164257049560547,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0056656951223860354,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 520.1996126146187
+            }
+        }
+    },
+    "PRK.9.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Bongcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.837449073791504,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0011942125731445724,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 500.8075905105253
+            }
+        }
+    },
+    "PRK.2.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Beopdong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 41.09963607788086,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.015110160322750315,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 848.2967426218479
+            }
+        }
+    },
+    "PRK.9.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Byeokseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.262963056564331,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0009008295695893944,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 442.0159683785383
+            }
+        }
+    },
+    "PRK.2.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Pyeonggang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15.845104217529297,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004583484008541885,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 732.6752064034166
+            }
+        }
+    },
+    "PRK.10.19_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Ryonggang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26.12474822998047,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.029720987747418052,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 157.39187830248815
+            }
+        }
+    },
+    "PRK.9.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Ryongyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.6562013626098633,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0004970592324759494,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 461.8444871367028
+            }
+        }
+    },
+    "PRK.9.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Samcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 20.927799224853516,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.01887087396289767,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 346.41807854919733
+            }
+        }
+    },
+    "PRK.2.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Sepo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 35.287235260009766,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005423798841071283,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 962.7357677877383
+            }
+        }
+    },
+    "PRK.9.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Sincheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.422398567199707,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0066554269266920225,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 479.0770917404146
+            }
+        }
+    },
+    "PRK.9.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Sinwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 484.5965190025481
+            }
+        }
+    },
+    "PRK.4.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Geumcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 447.8220876373762
+            }
+        }
+    },
+    "PRK.9.19_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Songhwa County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 194.40664713531774
+            }
+        }
+    },
+    "PRK.9.20_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Taetan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 337.7633043495374
+            }
+        }
+    },
+    "PRK.2.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Tongcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 73.57518005371094,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.010686300661395923,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 596.1115195465491
+            }
+        }
+    },
+    "PRK.9.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Euncheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.501919746398926,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0032887808530090673,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 455.43345325509625
+            }
+        }
+    },
+    "PRK.9.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Eunryul County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8.5320405960083,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.002918932807392508,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 405.4308414790517
+            }
+        }
+    },
+    "PRK.2.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Wonsan City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 540.5704345703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.1206361157264701,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 315.1642544053834
+            }
+        }
+    },
+    "PRK.9.21_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Yeonan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4.729949951171875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0018025723899283061,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 477.19651253016036
+            }
+        }
+    },
+    "PRK.6.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Gangdong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 66.98973846435547,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.012850515723068381,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 530.1888891508693
+            }
+        }
+    },
+    "PRK.6.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Gangnam County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.76045036315918,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0077528100494944725,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 158.1692040046126
+            }
+        }
+    },
+    "PRK.3.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Raseon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 295.5718688964844,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.025502318282699256,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 729.3052585209579
+            }
+        }
+    },
+    "PRK.3.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Gyeongheung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18.00714111328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00279744308113737,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 907.0833396235231
+            }
+        }
+    },
+    "PRK.10.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Anju City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 64.52523803710938,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.021740309311694534,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 376.9186126247963
+            }
+        }
+    },
+    "PRK.5.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Cheonrima County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 142.572998046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.17777181801355985,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 99.60296584541281
+            }
+        }
+    },
+    "PRK.10.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Cheongnamgu",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.4240506887435913,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.017800633609294892,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 16.418798251596048
+            }
+        }
+    },
+    "PRK.10.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Jeungsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.267632007598877,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.001204265537758299,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 326.5561278429461
+            }
+        }
+    },
+    "PRK.10.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Hoechang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 60.96406555175781,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.013454880942784775,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 688.1382706698489
+            }
+        }
+    },
+    "PRK.7.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Hyesan City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 153.20086669921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.10811634911730328,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 249.17911214598237
+            }
+        }
+    },
+    "PRK.10.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Gaecheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 91.38029479980469,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.028672825478445147,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 664.7136275081787
+            }
+        }
+    },
+    "PRK.10.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Daedong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3.2171974182128906,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0025312332165325652,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 296.0626244162917
+            }
+        }
+    },
+    "PRK.7.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Gapsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42.034523010253906,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.007173126793558687,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1158.4501065389213
+            }
+        }
+    },
+    "PRK.7.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Gimhyeonggwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.502809524536133,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00021725777122709485,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1271.6172537146572
+            }
+        }
+    },
+    "PRK.3.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Gyeongseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 51.586204528808594,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.008312311396843151,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1190.7450144249392
+            }
+        }
+    },
+    "PRK.7.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Gimhyeongjik County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13.226560592651367,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0011602246133904709,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1311.6953777320714
+            }
+        }
+    },
+    "PRK.7.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Gimjeongsuk County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.3536376953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0007008203943649349,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1134.9070364320887
+            }
+        }
+    },
+    "PRK.10.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Maengsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5.136911392211914,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0012633820443216709,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 707.9228986147992
+            }
+        }
+    },
+    "PRK.10.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Mundeok County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 306.64012762882703
+            }
+        }
+    },
+    "PRK.10.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Nyeongwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.7155866622924805,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.001132480061983338,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1189.8364586705363
+            }
+        }
+    },
+    "PRK.10.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Oncheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.9661865234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004432573372448464,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 346.75677280432944
+            }
+        }
+    },
+    "PRK.7.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Baekam County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 21.426870346069336,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0014451251329378387,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2262.974022144083
+            }
+        }
+    },
+    "PRK.7.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Bocheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 750.558400884092
+            }
+        }
+    },
+    "PRK.10.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Bukchang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 151.62619018554688,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.04053092493599222,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 669.8801926991499
+            }
+        }
+    },
+    "PRK.7.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Pungseo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42.078369140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003182932612755295,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1821.1992989296891
+            }
+        }
+    },
+    "PRK.3.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Gyeongwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.04726791381836,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.001731690436714643,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 822.4792299672566
+            }
+        }
+    },
+    "PRK.10.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Pyeongseong City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 99.00918579101562,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.06694333048750212,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 349.8058639800494
+            }
+        }
+    },
+    "PRK.10.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Pyeongwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 448.64879286128127
+            }
+        }
+    },
+    "PRK.7.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Samjiyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 251.0585479736328,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.028101471678266488,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1075.5462969352861
+            }
+        }
+    },
+    "PRK.7.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Samsu County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 854.6123172687229
+            }
+        }
+    },
+    "PRK.10.23_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Sinyang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.21256685256958,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0013693116271918846,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 744.1596651732652
+            }
+        }
+    },
+    "PRK.10.22_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Seongcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.631437301635742,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0032482240457182227,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 652.0146663233467
+            }
+        }
+    },
+    "PRK.10.24_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Sukcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.996271014213562,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0009020655283387086,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 418.7132950709844
+            }
+        }
+    },
+    "PRK.10.26_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Suncheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 221.1761932373047,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.09865129047158996,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 311.9858663879587
+            }
+        }
+    },
+    "PRK.10.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Daean County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28.33260154724121,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.04454811564031637,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 85.98068092559615
+            }
+        }
+    },
+    "PRK.7.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Daehongdan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14.36190414428711,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0020008225333361814,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 449.44468325781224
+            }
+        }
+    },
+    "PRK.3.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Musan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 20.667762756347656,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.001967608792493113,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1273.3317516369223
+            }
+        }
+    },
+    "PRK.10.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Daeheung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1234.7203445558355
+            }
+        }
+    },
+    "PRK.10.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Deokcheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 57.683799743652344,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.022203156175385815,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 698.6822124786092
+            }
+        }
+    },
+    "PRK.7.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "Ryanggang Province",
+        "ADM2": "Unheung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 947.8043633511384
+            }
+        }
+    },
+    "PRK.5.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Eunsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 97.80315399169922,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.02074298069813345,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 503.31936839606624
+            }
+        }
+    },
+    "PRK.10.27_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Yangdeok County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3.7745590209960938,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0008645348192844924,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 771.626317958178
+            }
+        }
+    },
+    "PRK.8.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Geumya County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 71.27327728271484,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0074491301507854145,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 793.6967068218605
+            }
+        }
+    },
+    "PRK.8.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Dancheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 76.65399932861328,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0036845798562109826,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2164.9661231728296
+            }
+        }
+    },
+    "PRK.8.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Heocheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 59.55921936035156,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0073757547195481814,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1617.9622687494225
+            }
+        }
+    },
+    "PRK.1.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Janggang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.762235641479492,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0007567768880765732,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 718.4243181982588
+            }
+        }
+    },
+    "PRK.3.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Myeongcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22.953882217407227,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005532389061799765,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 601.6138515923725
+            }
+        }
+    },
+    "PRK.8.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Jangjin County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.863156318664551,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0008961883198842661,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1882.158344790525
+            }
+        }
+    },
+    "PRK.1.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Jaseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3.0447912216186523,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0004624531017039265,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 779.8898635234794
+            }
+        }
+    },
+    "PRK.1.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Jeoncheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15.221195220947266,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0040514227364778456,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 991.290936141831
+            }
+        }
+    },
+    "PRK.8.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Jeongpyeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8.586181640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0020423838345920552,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 760.7712536524734
+            }
+        }
+    },
+    "PRK.1.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Chosan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 475.924857426898
+            }
+        }
+    },
+    "PRK.1.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Junggang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30.920988082885742,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.008754526637283619,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 504.2455406540301
+            }
+        }
+    },
+    "PRK.8.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Hamju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.210493087768555,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0017311788890757129,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 759.351435441772
+            }
+        }
+    },
+    "PRK.8.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Hongwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.8391236066818237,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0005238176037259538,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 875.2819511879381
+            }
+        }
+    },
+    "PRK.1.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Huicheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 46.68513488769531,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.007150426541230711,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 994.1290696379837
+            }
+        }
+    },
+    "PRK.3.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Myeonggan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 44.714237213134766,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.01091656181961298,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1139.4140773047163
+            }
+        }
+    },
+    "PRK.1.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Hwapyeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1232.3481562967252
+            }
+        }
+    },
+    "PRK.1.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Ganggye City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 122.35221862792969,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.05127921987758998,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 369.14003930221463
+            }
+        }
+    },
+    "PRK.1.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Gopung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 703.338997190664
+            }
+        }
+    },
+    "PRK.8.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Gowon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42.907196044921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0362698191419458,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 256.8952780450971
+            }
+        }
+    },
+    "PRK.8.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Geumhojigu",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 102.1387097878619
+            }
+        }
+    },
+    "PRK.1.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Manpo City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 69.96900939941406,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.007786446628022931,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 531.3750471120711
+            }
+        }
+    },
+    "PRK.8.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Bujeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.199088096618652,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0012210089903769486,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1776.0630101371771
+            }
+        }
+    },
+    "PRK.8.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Bukcheong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.992794513702393,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.002314739216247435,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 592.4536984205661
+            }
+        }
+    },
+    "PRK.8.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Rakwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18.397754669189453,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.017194163242233135,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 178.5172129890815
+            }
+        }
+    },
+    "PRK.1.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Rangrim County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2040.9817112238784
+            }
+        }
+    },
+    "PRK.3.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Onseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 53.742584228515625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.015302558151627456,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 558.1486921490234
+            }
+        }
+    },
+    "PRK.8.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Riwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15.646141052246094,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003989327142337097,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 471.5389475336655
+            }
+        }
+    },
+    "PRK.1.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Ryongrim County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1201.1944512535872
+            }
+        }
+    },
+    "PRK.1.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Sijung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 490.1983548996864
+            }
+        }
+    },
+    "PRK.8.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Sinheung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22.751630783081055,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003399825281392865,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1129.4994684558699
+            }
+        }
+    },
+    "PRK.8.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Sinpo City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25.744409561157227,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.024173154517518523,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 116.78895751653117
+            }
+        }
+    },
+    "PRK.1.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Seonggan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 66.61267852783203,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.01687251229175077,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 956.3030404432387
+            }
+        }
+    },
+    "PRK.1.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Songwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.5122919678688049,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 6.140380772729294e-05,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1148.392349231
+            }
+        }
+    },
+    "PRK.8.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Sudonggu",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18.437156677246094,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004405533256211731,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 783.9787939396956
+            }
+        }
+    },
+    "PRK.8.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Deokseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.882522583007812,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0022020482766102415,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1574.3014384797473
+            }
+        }
+    },
+    "PRK.1.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Dongsin County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.1401374340057373,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00037632098364792285,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1212.804226224048
+            }
+        }
+    },
+    "PRK.3.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Eorang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 44.047664642333984,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0044398412097907455,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1344.7829288677235
+            }
+        }
+    },
+    "PRK.1.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Usi County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9.914751052856445,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0024047419483037703,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 625.5944891747031
+            }
+        }
+    },
+    "PRK.1.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "Chagang Province",
+        "ADM2": "Wiwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1124.6093168105356
+            }
+        }
+    },
+    "PRK.8.20_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Yodeok County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1312.107795461587
+            }
+        }
+    },
+    "PRK.8.19_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Yeonggwang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5.504968643188477,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.001419904215421325,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 772.2026661699663
+            }
+        }
+    },
+    "PRK.10.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Nampo City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 152.90380859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.04100397119703674,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 363.4041865665789
+            }
+        }
+    },
+    "PRK.5.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Gangseo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22.03008270263672,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.02092125612786013,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 241.29349009490957
+            }
+        }
+    },
+    "PRK.2.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Changdo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 861.4738662138185
+            }
+        }
+    },
+    "PRK.8.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hamgyong Province",
+        "ADM2": "Hamheung City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 328.1285095214844,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.08192971523632568,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 612.6554109885074
+            }
+        }
+    },
+    "PRK.3.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Hoeryeong City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 50.039974212646484,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003944192812536177,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1569.802729580857
+            }
+        }
+    },
+    "PRK.4.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Bongsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 3.9119608402252197,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0024495684660145395,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 426.40828748082197
+            }
+        }
+    },
+    "PRK.3.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Buryeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 39.8733024597168,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.012771717636039973,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 793.2844922744365
+            }
+        }
+    },
+    "PRK.4.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Pyeongsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25.19298553466797,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.006577803011662655,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 544.5306669443571
+            }
+        }
+    },
+    "PRK.4.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Rinsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.7061308026313782,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00025382128060078295,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 499.07942291454475
+            }
+        }
+    },
+    "PRK.6.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Sangwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 96.45683288574219,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.045953707901735204,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 503.4491603521054
+            }
+        }
+    },
+    "PRK.4.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Sariwon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 66.25917053222656,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.05309228408030975,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 212.5926077567614
+            }
+        }
+    },
+    "PRK.4.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Singye County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 730.5222648514258
+            }
+        }
+    },
+    "PRK.4.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Sinpyeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16.385631561279297,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003460534648633431,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1081.0059356530985
+            }
+        }
+    },
+    "PRK.4.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Songrim City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 67.22073364257812,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.17551105389707083,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 67.22326085170583
+            }
+        }
+    },
+    "PRK.4.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Seoheung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 564.8353068417334
+            }
+        }
+    },
+    "PRK.3.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Cheongjin City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 422.3271789550781,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.01954675455683968,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1467.7676875345157
+            }
+        }
+    },
+    "PRK.4.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Suan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.951251029968262,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004678022652698959,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 667.3107766793382
+            }
+        }
+    },
+    "PRK.9.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Seungho County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 39.00188446044922,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.06321213040591446,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 163.27256057020608
+            }
+        }
+    },
+    "PRK.4.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Tosan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17.85694122314453,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00923316505850286,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 406.916220610594
+            }
+        }
+    },
+    "PRK.4.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Eunpa County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5.742464065551758,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0025855308714776036,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 387.4619640198778
+            }
+        }
+    },
+    "PRK.3.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Yeonsa County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4.363454818725586,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.000583427573034575,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1223.5592667446992
+            }
+        }
+    },
+    "PRK.4.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Yeonsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 50.177764892578125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.017386612921891243,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 517.7210841402225
+            }
+        }
+    },
+    "PRK.4.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Yeontan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4.114931106567383,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0017859944038920933,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 543.9092939218518
+            }
+        }
+    },
+    "PRK.6.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Jung District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 721.9232177734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.3893108815654345,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 12.581479268193334
+            }
+        }
+    },
+    "PRK.6.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Hyeongjesan District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 173.89920043945312,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.441368529034145,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 78.29842786020974
+            }
+        }
+    },
+    "PRK.6.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Mangyeongdae District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 474.0329284667969,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.2280645815201991,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 94.89731054757964
+            }
+        }
+    },
+    "PRK.6.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Junghwa County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5.084776878356934,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0031999854489345083,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 247.51446217073894
+            }
+        }
+    },
+    "PRK.6.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Moranbong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 323.0499572753906,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 10.768331909179688,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4.201671265694535
+            }
+        }
+    },
+    "PRK.6.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Pyeongcheon District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 212.77114868164062,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.732827169853344,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 8.330077019860987
+            }
+        }
+    },
+    "PRK.6.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Botonggang District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 175.31167602539062,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.811123391856318,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7.330926035187343
+            }
+        }
+    },
+    "PRK.6.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Rakrang District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 411.3916015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6733086768617021,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 90.4665002767421
+            }
+        }
+    },
+    "PRK.6.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Ryeokpo District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 61.92690658569336,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.09630934150185592,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 117.80368190075757
+            }
+        }
+    },
+    "PRK.10.20_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Ryongseong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 189.29139709472656,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.3612431242265774,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 134.8352840373761
+            }
+        }
+    },
+    "PRK.6.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Sadong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 195.51962280273438,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.20012243889737397,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 126.19462870464697
+            }
+        }
+    },
+    "PRK.10.21_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Samseok District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24.757509231567383,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.02214446264004238,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 157.71440404944468
+            }
+        }
+    },
+    "PRK.6.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Seongyo District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 144.45584106445312,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.006331125895182,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 9.175212657878246
+            }
+        }
+    },
+    "PRK.6.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Seoseong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 165.71438598632812,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9523815286570582,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 10.079632039718982
+            }
+        }
+    },
+    "PRK.3.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Hwadae County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19.512983322143555,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005241198850965231,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 489.4113705634646
+            }
+        }
+    },
+    "PRK.10.25_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Sunan District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 77.78209686279297,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.10127877195676167,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 144.4295391265914
+            }
+        }
+    },
+    "PRK.6.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Daedonggang District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 312.2840881347656,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.864991634263905,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 13.756150034711457
+            }
+        }
+    },
+    "PRK.6.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Daeseong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 668.3169555664062,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.6840038376160895,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 49.46419132536995
+            }
+        }
+    },
+    "PRK.10.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Pyongan Province",
+        "ADM2": "Dongdaewon District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 155.483154296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.7922720560213414,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5.229329857029846
+            }
+        }
+    },
+    "PRK.6.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "Pyongyang Directly Governed City",
+        "ADM2": "Eunjeong District",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17.481393814086914,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.1106417330005501,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 25.82442151391522
+            }
+        }
+    },
+    "PRK.5.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Changseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 559.597675702885
+            }
+        }
+    },
+    "PRK.5.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Cheolsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5.567294597625732,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0006144916774421339,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 335.25110707667085
+            }
+        }
+    },
+    "PRK.5.16_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Jeongju City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26.5963191986084,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.006394883192740658,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 437.8511251256143
+            }
+        }
+    },
+    "PRK.5.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Cheonma County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13.505542755126953,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003765135978568986,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 769.5628290804966
+            }
+        }
+    },
+    "PRK.5.15_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Hyangsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14.687670707702637,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003446192094721407,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 485.51549163406133
+            }
+        }
+    },
+    "PRK.4.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Hwangju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.459554672241211,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004828972609529645,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 496.3506591941516
+            }
+        }
+    },
+    "PRK.5.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Gujang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 31.360870361328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.010847758686035325,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 579.9359360018726
+            }
+        }
+    },
+    "PRK.5.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Guseong City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19.202726364135742,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0071491907535873945,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 637.4721881860602
+            }
+        }
+    },
+    "PRK.5.14_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Gwaksan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17.60763168334961,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.006160822842319667,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 366.37226109914116
+            }
+        }
+    },
+    "PRK.5.17_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Nyeongbyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 33.72212219238281,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.013219177652835284,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 504.4465914520969
+            }
+        }
+    },
+    "PRK.5.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Bakcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 124.20226287841797,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.047568848287406346,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 344.5626232989206
+            }
+        }
+    },
+    "PRK.5.18_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Pihyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 87.92227935791016,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.04920105168321777,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 440.96292759236485
+            }
+        }
+    },
+    "PRK.5.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Byeokdong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 568.6551602145793
+            }
+        }
+    },
+    "PRK.5.19_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Ryongcheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 56.94333267211914,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.04061578649937171,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 195.2892943700967
+            }
+        }
+    },
+    "PRK.5.20_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Sakju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25.59845542907715,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.007019044537723375,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 671.2606726076937
+            }
+        }
+    },
+    "PRK.5.22_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Sindo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 147.23599243164062,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0770465685147256,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 71.86330742943005
+            }
+        }
+    },
+    "PRK.4.3_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Gaeseong City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 136.25657653808594,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.03859959675299885,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 698.1721507832463
+            }
+        }
+    },
+    "PRK.5.23_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Sinuiju City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 690.6966552734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7708668027605329,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 156.9344436772651
+            }
+        }
+    },
+    "PRK.5.21_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Seoncheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13.059487342834473,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0019611784566503187,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 490.7341929406244
+            }
+        }
+    },
+    "PRK.5.24_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Taecheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 140.36618041992188,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.055789419880732063,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 748.5765006251729
+            }
+        }
+    },
+    "PRK.5.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Daegwan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16.32709503173828,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.004802086774040671,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 848.3869240146731
+            }
+        }
+    },
+    "PRK.5.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Dongchang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 677.941093764619
+            }
+        }
+    },
+    "PRK.5.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Dongrim County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17.603506088256836,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005337630712024511,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 443.53117286290745
+            }
+        }
+    },
+    "PRK.5.25_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Uiju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 32.60162353515625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.019121186824138565,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 368.77184418186283
+            }
+        }
+    },
+    "PRK.5.26_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Unjeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1.4500856399536133,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0006667060413579831,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 349.52137172425086
+            }
+        }
+    },
+    "PRK.5.27_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Unsan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 40.808292388916016,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.011472671461601355,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 867.9251233734439
+            }
+        }
+    },
+    "PRK.5.28_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Pyongan Province",
+        "ADM2": "Yeomju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.217729568481445,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00392038434330482,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 301.50574514483395
+            }
+        }
+    },
+    "PRK.3.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Gilju County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18.197410583496094,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0027156261130422466,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1033.2212994169408
+            }
+        }
+    },
+    "PRK.9.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Anak County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6.495975494384766,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0026798578772214377,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 389.6837037134202
+            }
+        }
+    },
+    "PRK.2.1_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Anbyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 163.96336364746094,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.043457027205794044,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 499.1951474292667
+            }
+        }
+    },
+    "PRK.9.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Jaeryeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9.009065628051758,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0033703949225782855,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 336.5203725319059
+            }
+        }
+    },
+    "PRK.9.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Jangyeon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.5650872588157654,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00023027190660789134,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 396.3127131442743
+            }
+        }
+    },
+    "PRK.9.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Cheongdan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.713135004043579,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0007625449702202302,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 491.48014323487695
+            }
+        }
+    },
+    "PRK.2.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Cheonnae County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 56.7120475769043,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.013278400275557082,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 367.8201908166597
+            }
+        }
+    },
+    "PRK.2.4_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Cheolwon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 490.7866445713476
+            }
+        }
+    },
+    "PRK.9.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Haeju City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 75.43008422851562,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.07956759939716838,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 219.30097308766543
+            }
+        }
+    },
+    "PRK.2.10_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Hoeyang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11.066902160644531,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0029590647488354363,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 596.7407264267736
+            }
+        }
+    },
+    "PRK.2.11_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Icheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 21.12531280517578,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.008762054253494725,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 603.2634151438682
+            }
+        }
+    },
+    "PRK.3.5_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hamgyong Province",
+        "ADM2": "Gimchaek City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 118.88050842285156,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.02070007111663792,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 852.4414426606511
+            }
+        }
+    },
+    "PRK.9.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Gangryeong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8.505064010620117,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0006952557844044893,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 557.0867825640926
+            }
+        }
+    },
+    "PRK.2.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Gimhwa County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 2.521738052368164,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0006301194533653583,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 688.5600843906984
+            }
+        }
+    },
+    "PRK.2.8_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Gosan County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9.94005298614502,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005212403243914535,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 430.46233733625775
+            }
+        }
+    },
+    "PRK.2.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Goseong County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30.05828094482422,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.003400258025432604,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 812.5237659701493
+            }
+        }
+    },
+    "PRK.2.6_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Geumgang County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11.957900047302246,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0016619735993470808,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 916.1004333466924
+            }
+        }
+    },
+    "PRK.9.9_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Gwail County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 339.25338686630397
+            }
+        }
+    },
+    "PRK.2.12_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Muncheon City",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 122.0197525024414,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0426941051443112,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 275.2458749235399
+            }
+        }
+    },
+    "PRK.9.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Ongjin County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 35.55936813354492,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.007680209100117694,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 652.9873632329534
+            }
+        }
+    },
+    "PRK.9.2_1": {
+        "ADM0": "PRK",
+        "ADM1": "South Hwanghae Province",
+        "ADM2": "Baecheon County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 10.687491416931152,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.005455585205171594,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 460.4004167383019
+            }
+        }
+    },
+    "PRK.2.13_1": {
+        "ADM0": "PRK",
+        "ADM1": "Kangwon Province",
+        "ADM2": "Pangyo County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9.73196029663086,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0015413304239199968,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 831.4635462060635
+            }
+        }
+    }
+}

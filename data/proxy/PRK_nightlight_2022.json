@@ -1,0 +1,21 @@
+{
+    "PRK.4.7_1": {
+        "ADM0": "PRK",
+        "ADM1": "North Hwanghae Province",
+        "ADM2": "Jangpung County",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 0.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 511.1189091451051
+            }
+        }
+    }
+}

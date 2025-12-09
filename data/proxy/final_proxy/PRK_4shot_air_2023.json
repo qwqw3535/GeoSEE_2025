@@ -1,0 +1,246 @@
+{
+    "1 North_Hamgyong_Province cheongjin": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "cheongjin",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.002783239580783,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.4884570552822204e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.017325075578701,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 9.265329207182504e-05,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 7.529303167898961,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0402661865654593,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 472710.5409184378,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 21.876200136439238,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "2 pyeongyang pyeongyang": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "pyeongyang",
+        "ADM2": "pyeongyang",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0240696553470132,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 5.3435037204767166e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.071627297021024,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.00015901379666702475,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 19.77087603276118,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0438916752712259,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 1271804.0902906214,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 22.80820776249117,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "3 North_Hamgyong_Province rason": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "rason",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0022804764869911,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.4197995609716111e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0153291206113208,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 9.543741774224386e-05,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.161074221536865,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0383581699910127,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 337369.8330129622,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 17.598976869587823,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "4 North_Pyongan_Province shinuiju": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Pyongan_Province",
+        "ADM2": "shinuiju",
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0065764169102093,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 4.150339830974079e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "so2": {
+      "SO2_Sum": {
+        "val": 0.0273988271596183,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "SO2_Average": {
+        "val": 0.00017291246165675075,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Sum": {
+        "val": 6.805898600272093,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      },
+      "CO_Average": {
+        "val": 0.0429516443862145,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Sum": {
+        "val": 353042.05024814105,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      },
+      "LST_Average": {
+        "val": 17.94191009471736,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  }
+}

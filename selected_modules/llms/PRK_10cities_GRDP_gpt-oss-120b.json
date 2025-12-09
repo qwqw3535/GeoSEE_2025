@@ -1,0 +1,21 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_address(Loc)",
+        "get_area(Loc)",
+        "get_night_light(Loc)",
+        "get_distance_to_nearest_target(Loc, target_name='airport')",
+        "get_distance_to_nearest_target(Loc, target_name='port')",
+        "get_landuse_sum(Loc, 'Agricultural')",
+        "get_landuse_sum(Loc, 'Mining')",
+        "get_landuse_sum(Loc, 'Factory')",
+        "get_landuse_sum(Loc, 'Commercial')",
+        "get_landuse_sum(Loc, 'Residential')",
+        "get_landuse_sum(Loc, 'Transportation')",
+        "get_landuse_sum(Loc, 'Power station')",
+        "get_landuse_sum(Loc, 'Others')",
+        "get_landuse_sum(Loc, 'Sports')",
+        "get_landuse_sum(Loc, 'Religious')",
+        "get_landuse_sum(Loc, 'Water')"
+    ]
+}

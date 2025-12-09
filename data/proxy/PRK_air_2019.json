@@ -1,0 +1,4076 @@
+{
+  "PRK.1.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Janggang County",
+    "no2": {
+      "NO2_Sum": 0.009853469724489089,
+      "NO2_Average": 1.2801408103530278e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07135359891764996,
+      "SO2_Average": 9.270100431021678e-05
+    },
+    "co": {
+      "CO_Sum": 27.98953149702573,
+      "CO_Average": 0.03636337506873698
+    },
+    "lst": {
+      "LST_Sum": 1358480.274475889,
+      "LST_Average": 14.257412681896957
+    }
+  },
+  "PRK.1.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Jaseong County",
+    "no2": {
+      "NO2_Sum": 0.012446875247470561,
+      "NO2_Average": 1.4810655934638931e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06432960290397392,
+      "SO2_Average": 7.654640992857438e-05
+    },
+    "co": {
+      "CO_Sum": 31.653187995754674,
+      "CO_Average": 0.03766443121817547
+    },
+    "lst": {
+      "LST_Sum": 1727867.7840443328,
+      "LST_Average": 16.606614657646283
+    }
+  },
+  "PRK.1.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Jeoncheon County",
+    "no2": {
+      "NO2_Sum": 0.013102009317242374,
+      "NO2_Average": 1.2427743321728215e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10740964345616603,
+      "SO2_Average": 0.00010188204319125981
+    },
+    "co": {
+      "CO_Sum": 38.20597525312508,
+      "CO_Average": 0.03623978905107927
+    },
+    "lst": {
+      "LST_Sum": 2227038.50051116,
+      "LST_Average": 17.05470353226121
+    }
+  },
+  "PRK.1.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Chosan County",
+    "no2": {
+      "NO2_Sum": 0.008072264192621855,
+      "NO2_Average": 1.590747580462576e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06738737844197348,
+      "SO2_Average": 0.0001327958385062074
+    },
+    "co": {
+      "CO_Sum": 19.95206356753073,
+      "CO_Average": 0.03931820873045082
+    },
+    "lst": {
+      "LST_Sum": 1347742.8462297532,
+      "LST_Average": 21.429800538284514
+    }
+  },
+  "PRK.1.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Junggang County",
+    "no2": {
+      "NO2_Sum": 0.008161106696532848,
+      "NO2_Average": 1.4969337502541851e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.03913728452297335,
+      "SO2_Average": 7.178673711082483e-05
+    },
+    "co": {
+      "CO_Sum": 20.265205763138646,
+      "CO_Average": 0.037171025438958685
+    },
+    "lst": {
+      "LST_Sum": 1010622.7420454832,
+      "LST_Average": 14.99797526807155
+    }
+  },
+  "PRK.1.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Huicheon City",
+    "no2": {
+      "NO2_Sum": 0.01732562671920091,
+      "NO2_Average": 1.648385137561928e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1160637311594618,
+      "SO2_Average": 0.0001104247093360349
+    },
+    "co": {
+      "CO_Sum": 40.881155634714936,
+      "CO_Average": 0.03889492163647874
+    },
+    "lst": {
+      "LST_Sum": 1770877.0215623588,
+      "LST_Average": 13.600203222821964
+    }
+  },
+  "PRK.1.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Hwapyeong County",
+    "no2": {
+      "NO2_Sum": 0.01558501306411349,
+      "NO2_Average": 1.17702166207576e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11418918268135389,
+      "SO2_Average": 8.623870961017055e-05
+    },
+    "co": {
+      "CO_Sum": 46.78491678949578,
+      "CO_Average": 0.035333214218759325
+    },
+    "lst": {
+      "LST_Sum": 1557182.2259562467,
+      "LST_Average": 9.75398442499808
+    }
+  },
+  "PRK.1.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Ganggye City",
+    "no2": {
+      "NO2_Sum": 0.005903080196286282,
+      "NO2_Average": 1.4947623232969912e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04118126149133317,
+      "SO2_Average": 0.00010427809898603789
+    },
+    "co": {
+      "CO_Sum": 15.26698998575625,
+      "CO_Average": 0.03865866744486658
+    },
+    "lst": {
+      "LST_Sum": 761269.2833751666,
+      "LST_Average": 15.5742925741237
+    }
+  },
+  "PRK.1.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Gopung County",
+    "no2": {
+      "NO2_Sum": 0.010404579387494206,
+      "NO2_Average": 1.3908188400324073e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.071402912761661,
+      "SO2_Average": 9.544693024445802e-05
+    },
+    "co": {
+      "CO_Sum": 27.92341723047866,
+      "CO_Average": 0.03732627078506867
+    },
+    "lst": {
+      "LST_Sum": 1763988.9114430589,
+      "LST_Average": 19.03376211760672
+    }
+  },
+  "PRK.1.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Manpo City",
+    "no2": {
+      "NO2_Sum": 0.009340278514670172,
+      "NO2_Average": 1.639581612644919e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06196894167130016,
+      "SO2_Average": 0.00010877955851075293
+    },
+    "co": {
+      "CO_Sum": 22.21014685393331,
+      "CO_Average": 0.03898743312488725
+    },
+    "lst": {
+      "LST_Sum": 1104485.9976444903,
+      "LST_Average": 15.634063297608098
+    }
+  },
+  "PRK.1.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Rangrim County",
+    "no2": {
+      "NO2_Sum": 0.02066687934016849,
+      "NO2_Average": 9.47520870729092e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.1769219789543774,
+      "SO2_Average": 8.111397216324922e-05
+    },
+    "co": {
+      "CO_Sum": 70.77826112671018,
+      "CO_Average": 0.032449930397147574
+    },
+    "lst": {
+      "LST_Sum": 3232397.1107771974,
+      "LST_Average": 11.991036737025853
+    }
+  },
+  "PRK.1.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Ryongrim County",
+    "no2": {
+      "NO2_Sum": 0.013358048555704818,
+      "NO2_Average": 1.0461873699921161e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1036183072609884,
+      "SO2_Average": 8.115269524912178e-05
+    },
+    "co": {
+      "CO_Sum": 43.53272454697559,
+      "CO_Average": 0.03409434125985522
+    },
+    "lst": {
+      "LST_Sum": 2135461.182303852,
+      "LST_Average": 13.53796161365751
+    }
+  },
+  "PRK.1.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Sijung County",
+    "no2": {
+      "NO2_Sum": 0.008153951478945862,
+      "NO2_Average": 1.5532960512256706e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.050424096007594885,
+      "SO2_Average": 9.6055942223177e-05
+    },
+    "co": {
+      "CO_Sum": 20.507618380452296,
+      "CO_Average": 0.039066215604360764
+    },
+    "lst": {
+      "LST_Sum": 1032330.8252047007,
+      "LST_Average": 15.873645392905049
+    }
+  },
+  "PRK.1.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Seonggan County",
+    "no2": {
+      "NO2_Sum": 0.012584599984608657,
+      "NO2_Average": 1.2333907273246937e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09528463460887363,
+      "SO2_Average": 9.338650805495662e-05
+    },
+    "co": {
+      "CO_Sum": 35.87800776360215,
+      "CO_Average": 0.03516329652482502
+    },
+    "lst": {
+      "LST_Sum": 1793775.5232038773,
+      "LST_Average": 14.28937024581213
+    }
+  },
+  "PRK.1.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Songwon County",
+    "no2": {
+      "NO2_Sum": 0.018061025261975606,
+      "NO2_Average": 1.4830290167488675e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.13507891278410616,
+      "SO2_Average": 0.00011091615470549778
+    },
+    "co": {
+      "CO_Sum": 45.89611595720391,
+      "CO_Average": 0.03768627236456166
+    },
+    "lst": {
+      "LST_Sum": 2287730.402873973,
+      "LST_Average": 15.162361119296857
+    }
+  },
+  "PRK.1.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Dongsin County",
+    "no2": {
+      "NO2_Sum": 0.0166779786740045,
+      "NO2_Average": 1.2982418653525608e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.12308194148495893,
+      "SO2_Average": 9.580905002217579e-05
+    },
+    "co": {
+      "CO_Sum": 47.56851123576638,
+      "CO_Average": 0.03702812790798327
+    },
+    "lst": {
+      "LST_Sum": 1669609.5109838846,
+      "LST_Average": 10.50300746628983
+    }
+  },
+  "PRK.1.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Usi County",
+    "no2": {
+      "NO2_Sum": 0.010823955789630949,
+      "NO2_Average": 1.6263102632373452e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0740297604165725,
+      "SO2_Average": 0.00011123046092428523
+    },
+    "co": {
+      "CO_Sum": 26.321893857530068,
+      "CO_Average": 0.039548910731281486
+    },
+    "lst": {
+      "LST_Sum": 1713628.4512542356,
+      "LST_Average": 20.780945308342258
+    }
+  },
+  "PRK.1.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Wiwon County",
+    "no2": {
+      "NO2_Sum": 0.017389087437161,
+      "NO2_Average": 1.4489059552789193e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11623095756347597,
+      "SO2_Average": 9.684678808480733e-05
+    },
+    "co": {
+      "CO_Sum": 44.76640512191661,
+      "CO_Average": 0.03730058360564741
+    },
+    "lst": {
+      "LST_Sum": 2927570.675117276,
+      "LST_Average": 19.689390401700035
+    }
+  },
+  "PRK.2.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Beopdong County",
+    "no2": {
+      "NO2_Sum": 0.015794606887630507,
+      "NO2_Average": 1.7903976121417783e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10650276398699929,
+      "SO2_Average": 0.00012072620463770778
+    },
+    "co": {
+      "CO_Sum": 32.44759730761411,
+      "CO_Average": 0.036780972867888534
+    },
+    "lst": {
+      "LST_Sum": 1355147.4843104773,
+      "LST_Average": 12.397943889185541
+    }
+  },
+  "PRK.2.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Pyeonggang County",
+    "no2": {
+      "NO2_Sum": 0.01688571052725827,
+      "NO2_Average": 2.2324941849780467e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08410220450377319,
+      "SO2_Average": 0.00011119323773519308
+    },
+    "co": {
+      "CO_Sum": 29.576821001933105,
+      "CO_Average": 0.03910411752609472
+    },
+    "lst": {
+      "LST_Sum": 1305361.7824170524,
+      "LST_Average": 13.927652868677821
+    }
+  },
+  "PRK.2.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Sepo County",
+    "no2": {
+      "NO2_Sum": 0.019084326566114772,
+      "NO2_Average": 1.91457431067474e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10976016902651423,
+      "SO2_Average": 0.00011011339552667433
+    },
+    "co": {
+      "CO_Sum": 37.24288711966733,
+      "CO_Average": 0.037362740931754304
+    },
+    "lst": {
+      "LST_Sum": 1867525.6284693822,
+      "LST_Average": 15.122108695344199
+    }
+  },
+  "PRK.2.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Tongcheon County",
+    "no2": {
+      "NO2_Sum": 0.012481186708040534,
+      "NO2_Average": 2.014725780866442e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08004022870930652,
+      "SO2_Average": 0.00012920174664417212
+    },
+    "co": {
+      "CO_Sum": 25.078173130564938,
+      "CO_Average": 0.04048144068755259
+    },
+    "lst": {
+      "LST_Sum": 1090469.8941551142,
+      "LST_Average": 14.217597692784857
+    }
+  },
+  "PRK.2.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Wonsan City",
+    "no2": {
+      "NO2_Sum": 0.007304880781692974,
+      "NO2_Average": 2.224305450273698e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05304197075311397,
+      "SO2_Average": 0.00016151056829714086
+    },
+    "co": {
+      "CO_Sum": 13.340499443265534,
+      "CO_Average": 0.04062125927557121
+    },
+    "lst": {
+      "LST_Sum": 519825.6420276676,
+      "LST_Average": 12.77677489671103
+    }
+  },
+  "PRK.2.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Changdo County",
+    "no2": {
+      "NO2_Sum": 0.017794226175124207,
+      "NO2_Average": 1.999007738109191e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09825935219746659,
+      "SO2_Average": 0.00011038479754681493
+    },
+    "co": {
+      "CO_Sum": 33.76990097386229,
+      "CO_Average": 0.03793718968027033
+    },
+    "lst": {
+      "LST_Sum": 1402803.1289396419,
+      "LST_Average": 13.094830983717124
+    }
+  },
+  "PRK.2.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Anbyeon County",
+    "no2": {
+      "NO2_Sum": 0.010373521639383073,
+      "NO2_Average": 1.998495049971053e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0737841425261579,
+      "SO2_Average": 0.0001421477187120947
+    },
+    "co": {
+      "CO_Sum": 20.859724330676677,
+      "CO_Average": 0.04018698496791039
+    },
+    "lst": {
+      "LST_Sum": 851423.1730860958,
+      "LST_Average": 13.234443345348529
+    }
+  },
+  "PRK.2.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Cheonnae County",
+    "no2": {
+      "NO2_Sum": 0.008438904533468131,
+      "NO2_Average": 2.19615113999385e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06817095190967414,
+      "SO2_Average": 0.00017740894349158973
+    },
+    "co": {
+      "CO_Sum": 15.567661821713902,
+      "CO_Average": 0.04051347911474135
+    },
+    "lst": {
+      "LST_Sum": 530891.1001377612,
+      "LST_Average": 11.154023467854127
+    }
+  },
+  "PRK.2.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Cheolwon County",
+    "no2": {
+      "NO2_Sum": 0.012447327139097578,
+      "NO2_Average": 2.461224087893336e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06280976850156467,
+      "SO2_Average": 0.00012419446638104722
+    },
+    "co": {
+      "CO_Sum": 20.540336719789806,
+      "CO_Average": 0.04061464035069285
+    },
+    "lst": {
+      "LST_Sum": 907955.0809835021,
+      "LST_Average": 14.489700354318234
+    }
+  },
+  "PRK.2.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Hoeyang County",
+    "no2": {
+      "NO2_Sum": 0.01168951675964697,
+      "NO2_Average": 1.8895052350830557e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07211007989291349,
+      "SO2_Average": 0.00011655945772734605
+    },
+    "co": {
+      "CO_Sum": 23.250830707303248,
+      "CO_Average": 0.03758287638813064
+    },
+    "lst": {
+      "LST_Sum": 962683.3710992314,
+      "LST_Average": 12.560172951128132
+    }
+  },
+  "PRK.2.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Icheon County",
+    "no2": {
+      "NO2_Sum": 0.014124608311356293,
+      "NO2_Average": 2.2666073775665213e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07862949282419303,
+      "SO2_Average": 0.0001261784996801205
+    },
+    "co": {
+      "CO_Sum": 24.929657042675085,
+      "CO_Average": 0.04000517630474714
+    },
+    "lst": {
+      "LST_Sum": 1228556.751734267,
+      "LST_Average": 15.913889357523326
+    }
+  },
+  "PRK.2.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Gimhwa County",
+    "no2": {
+      "NO2_Sum": 0.014952292276602401,
+      "NO2_Average": 2.1045617544480944e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0739767407803703,
+      "SO2_Average": 0.00010412357950540612
+    },
+    "co": {
+      "CO_Sum": 27.536487364197153,
+      "CO_Average": 0.038758096141029284
+    },
+    "lst": {
+      "LST_Sum": 1275848.184252006,
+      "LST_Average": 14.497493739497793
+    }
+  },
+  "PRK.2.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Gosan County",
+    "no2": {
+      "NO2_Sum": 0.008398629205529369,
+      "NO2_Average": 1.8783606369313257e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06133901526205385,
+      "SO2_Average": 0.00013718523458627866
+    },
+    "co": {
+      "CO_Sum": 17.455521503621345,
+      "CO_Average": 0.03903942380016527
+    },
+    "lst": {
+      "LST_Sum": 661049.3133309077,
+      "LST_Average": 11.9341422192855
+    }
+  },
+  "PRK.2.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Goseong County",
+    "no2": {
+      "NO2_Sum": 0.01606038112675207,
+      "NO2_Average": 1.9100062435624704e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08920121896224152,
+      "SO2_Average": 0.00010608396139956341
+    },
+    "co": {
+      "CO_Sum": 32.09409431095594,
+      "CO_Average": 0.03816840959851209
+    },
+    "lst": {
+      "LST_Sum": 1235782.535199881,
+      "LST_Average": 14.302218067916288
+    }
+  },
+  "PRK.2.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Geumgang County",
+    "no2": {
+      "NO2_Sum": 0.017035551756751543,
+      "NO2_Average": 1.798271176339531e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09153644319024272,
+      "SO2_Average": 9.662577985383838e-05
+    },
+    "co": {
+      "CO_Sum": 34.31682984100015,
+      "CO_Average": 0.03622481199762815
+    },
+    "lst": {
+      "LST_Sum": 726764.2557125974,
+      "LST_Average": 10.247493514158537
+    }
+  },
+  "PRK.2.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Muncheon City",
+    "no2": {
+      "NO2_Sum": 0.006528648270912865,
+      "NO2_Average": 2.274168853333488e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05521465916182397,
+      "SO2_Average": 0.0001923330112187024
+    },
+    "co": {
+      "CO_Sum": 11.793148337968363,
+      "CO_Average": 0.041079882879337906
+    },
+    "lst": {
+      "LST_Sum": 411501.5936754446,
+      "LST_Average": 11.558711393837378
+    }
+  },
+  "PRK.2.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Pangyo County",
+    "no2": {
+      "NO2_Sum": 0.018434837927955406,
+      "NO2_Average": 2.1404039920722632e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10481855965742076,
+      "SO2_Average": 0.0001217011315265146
+    },
+    "co": {
+      "CO_Sum": 33.451987270299085,
+      "CO_Average": 0.038839922203774906
+    },
+    "lst": {
+      "LST_Sum": 1614787.167019259,
+      "LST_Average": 15.12960143489049
+    }
+  },
+  "PRK.3.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Raseon City",
+    "no2": {
+      "NO2_Sum": 0.012099244985842379,
+      "NO2_Average": 1.519212290059288e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07368300399108196,
+      "SO2_Average": 9.251827313416925e-05
+    },
+    "co": {
+      "CO_Sum": 31.002784532557342,
+      "CO_Average": 0.038927892891691795
+    },
+    "lst": {
+      "LST_Sum": 1604107.8193642907,
+      "LST_Average": 16.294094165817903
+    }
+  },
+  "PRK.3.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongheung County",
+    "no2": {
+      "NO2_Sum": 0.014064080630291896,
+      "NO2_Average": 1.4167251556331531e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10047465970990242,
+      "SO2_Average": 0.00010121171917068658
+    },
+    "co": {
+      "CO_Sum": 37.73223361278501,
+      "CO_Average": 0.038009028775277905
+    },
+    "lst": {
+      "LST_Sum": 1883284.3257436338,
+      "LST_Average": 15.336342913539843
+    }
+  },
+  "PRK.3.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongseong County",
+    "no2": {
+      "NO2_Sum": 0.014521039983408441,
+      "NO2_Average": 1.1282446810205925e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10025357474632787,
+      "SO2_Average": 7.789425729154629e-05
+    },
+    "co": {
+      "CO_Sum": 45.96731362619495,
+      "CO_Average": 0.03571533248225827
+    },
+    "lst": {
+      "LST_Sum": 1840223.5606737402,
+      "LST_Average": 11.55622303529051
+    }
+  },
+  "PRK.3.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongwon County",
+    "no2": {
+      "NO2_Sum": 0.015101545794317547,
+      "NO2_Average": 1.671728807639969e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09396956719063698,
+      "SO2_Average": 0.000104023544777223
+    },
+    "co": {
+      "CO_Sum": 35.14297280441165,
+      "CO_Average": 0.038902984385445746
+    },
+    "lst": {
+      "LST_Sum": 2017759.6820870128,
+      "LST_Average": 18.027551811942462
+    }
+  },
+  "PRK.3.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Musan County",
+    "no2": {
+      "NO2_Sum": 0.014926828532274691,
+      "NO2_Average": 1.0774351291985478e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.13401865003786279,
+      "SO2_Average": 9.673615611403769e-05
+    },
+    "co": {
+      "CO_Sum": 46.251091747768726,
+      "CO_Average": 0.03338455379525763
+    },
+    "lst": {
+      "LST_Sum": 2207487.9282144313,
+      "LST_Average": 12.866156989508625
+    }
+  },
+  "PRK.3.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Myeongcheon County",
+    "no2": {
+      "NO2_Sum": 0.008262904486999713,
+      "NO2_Average": 1.282169632690087e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06241423737157219,
+      "SO2_Average": 9.684928578231477e-05
+    },
+    "co": {
+      "CO_Sum": 24.213480539676528,
+      "CO_Average": 0.037572489792845776
+    },
+    "lst": {
+      "LST_Sum": 990027.0494031694,
+      "LST_Average": 13.242686708928884
+    }
+  },
+  "PRK.3.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Myeonggan County",
+    "no2": {
+      "NO2_Sum": 0.015067205938077421,
+      "NO2_Average": 1.2308191972122538e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09847280844463274,
+      "SO2_Average": 8.044107416807787e-05
+    },
+    "co": {
+      "CO_Sum": 45.07848231055766,
+      "CO_Average": 0.03682398822784463
+    },
+    "lst": {
+      "LST_Sum": 1917970.4372489883,
+      "LST_Average": 12.788956490375618
+    }
+  },
+  "PRK.3.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Onseong County",
+    "no2": {
+      "NO2_Sum": 0.01103702128864034,
+      "NO2_Average": 1.7979049626953404e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05700209450345242,
+      "SO2_Average": 9.285507920263423e-05
+    },
+    "co": {
+      "CO_Sum": 23.686827852597716,
+      "CO_Average": 0.038585288759501825
+    },
+    "lst": {
+      "LST_Sum": 1436545.0388551035,
+      "LST_Average": 18.874145492389054
+    }
+  },
+  "PRK.3.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Eorang County",
+    "no2": {
+      "NO2_Sum": 0.015313633343788638,
+      "NO2_Average": 1.0569072900425749e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11376017493170686,
+      "SO2_Average": 7.851432478668274e-05
+    },
+    "co": {
+      "CO_Sum": 50.88605629811911,
+      "CO_Average": 0.03512023740911455
+    },
+    "lst": {
+      "LST_Sum": 2209876.022124758,
+      "LST_Average": 12.331828089154287
+    }
+  },
+  "PRK.3.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Hoeryeong City",
+    "no2": {
+      "NO2_Sum": 0.0218740451758549,
+      "NO2_Average": 1.2746792141161503e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.18390009529127976,
+      "SO2_Average": 0.00010716519375233122
+    },
+    "co": {
+      "CO_Sum": 62.155838525329905,
+      "CO_Average": 0.03622044060311829
+    },
+    "lst": {
+      "LST_Sum": 3285245.5415244196,
+      "LST_Average": 15.465441405707786
+    }
+  },
+  "PRK.3.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Buryeong County",
+    "no2": {
+      "NO2_Sum": 0.010682265259840592,
+      "NO2_Average": 1.237957826038843e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0855417341186966,
+      "SO2_Average": 9.913352330173708e-05
+    },
+    "co": {
+      "CO_Sum": 31.608668802902653,
+      "CO_Average": 0.036630993486307696
+    },
+    "lst": {
+      "LST_Sum": 1699199.5533855006,
+      "LST_Average": 15.916545161992978
+    }
+  },
+  "PRK.3.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Cheongjin City",
+    "no2": {
+      "NO2_Sum": 0.02104895280569011,
+      "NO2_Average": 1.3204302550956296e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.16483853371979434,
+      "SO2_Average": 0.00010340551814548166
+    },
+    "co": {
+      "CO_Sum": 60.802739644959104,
+      "CO_Average": 0.03814240915500701
+    },
+    "lst": {
+      "LST_Sum": 3158580.2944434425,
+      "LST_Average": 16.021712575933748
+    }
+  },
+  "PRK.3.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Yeonsa County",
+    "no2": {
+      "NO2_Sum": 0.01276946076907158,
+      "NO2_Average": 9.631428162733458e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.10423805088380575,
+      "SO2_Average": 7.862205907256365e-05
+    },
+    "co": {
+      "CO_Sum": 41.95600391028725,
+      "CO_Average": 0.03164552090061952
+    },
+    "lst": {
+      "LST_Sum": 1536649.5895264512,
+      "LST_Average": 9.35679359188374
+    }
+  },
+  "PRK.3.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Hwadae County",
+    "no2": {
+      "NO2_Sum": 0.007346351227858826,
+      "NO2_Average": 1.4049931848109625e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04616303716079161,
+      "SO2_Average": 8.828702928758718e-05
+    },
+    "co": {
+      "CO_Sum": 20.484918908685188,
+      "CO_Average": 0.039177505356623815
+    },
+    "lst": {
+      "LST_Sum": 1058803.7725403002,
+      "LST_Average": 17.516397243086683
+    }
+  },
+  "PRK.3.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gilju County",
+    "no2": {
+      "NO2_Sum": 0.013439503520739535,
+      "NO2_Average": 1.2143871490289294e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11099793034658248,
+      "SO2_Average": 0.00010029720217989173
+    },
+    "co": {
+      "CO_Sum": 39.731628804213656,
+      "CO_Average": 0.035901310904355256
+    },
+    "lst": {
+      "LST_Sum": 1880217.5882353154,
+      "LST_Average": 13.783790275583392
+    }
+  },
+  "PRK.3.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gimchaek City",
+    "no2": {
+      "NO2_Sum": 0.012484436854618537,
+      "NO2_Average": 1.3728331347927845e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1052280155831144,
+      "SO2_Average": 0.00011571247320422681
+    },
+    "co": {
+      "CO_Sum": 34.532762033879344,
+      "CO_Average": 0.0379734548767297
+    },
+    "lst": {
+      "LST_Sum": 1622156.025100115,
+      "LST_Average": 14.420467599217305
+    }
+  },
+  "PRK.4.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Jangpung County",
+    "no2": {
+      "NO2_Sum": 0.014553031309288434,
+      "NO2_Average": 2.7716333070948816e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06425714232896848,
+      "SO2_Average": 0.0001223781026184114
+    },
+    "co": {
+      "CO_Sum": 21.409013749616708,
+      "CO_Average": 0.04077359164521117
+    },
+    "lst": {
+      "LST_Sum": 793877.1160895857,
+      "LST_Average": 12.20028392803547
+    }
+  },
+  "PRK.4.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Goksan County",
+    "no2": {
+      "NO2_Sum": 0.013090171391574633,
+      "NO2_Average": 2.4270669406767386e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07185066640811338,
+      "SO2_Average": 0.00013321932302350664
+    },
+    "co": {
+      "CO_Sum": 21.806816506934368,
+      "CO_Average": 0.040432322726843675
+    },
+    "lst": {
+      "LST_Sum": 1201558.465325865,
+      "LST_Average": 17.986735882808123
+    }
+  },
+  "PRK.4.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Geumcheon County",
+    "no2": {
+      "NO2_Sum": 0.012600017708013611,
+      "NO2_Average": 2.7361951488967274e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.060678384001961384,
+      "SO2_Average": 0.00013176798937628936
+    },
+    "co": {
+      "CO_Sum": 19.144815620500736,
+      "CO_Average": 0.04157450635487616
+    },
+    "lst": {
+      "LST_Sum": 735009.6351342427,
+      "LST_Average": 12.879412482420145
+    }
+  },
+  "PRK.4.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Bongsan County",
+    "no2": {
+      "NO2_Sum": 0.012466920718377326,
+      "NO2_Average": 2.8303387462595764e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06044979731388228,
+      "SO2_Average": 0.00013723790132780144
+    },
+    "co": {
+      "CO_Sum": 18.481872892216234,
+      "CO_Average": 0.041959006664071194
+    },
+    "lst": {
+      "LST_Sum": 1232376.2589274214,
+      "LST_Average": 22.628951694600424
+    }
+  },
+  "PRK.4.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Pyeongsan County",
+    "no2": {
+      "NO2_Sum": 0.015229477331564236,
+      "NO2_Average": 2.7136585280894983e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07434270202003981,
+      "SO2_Average": 0.00013246725606254038
+    },
+    "co": {
+      "CO_Sum": 23.48401782962718,
+      "CO_Average": 0.041844906341659785
+    },
+    "lst": {
+      "LST_Sum": 1147119.933509382,
+      "LST_Average": 16.51061624298971
+    }
+  },
+  "PRK.4.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Rinsan County",
+    "no2": {
+      "NO2_Sum": 0.013781421007550587,
+      "NO2_Average": 2.681455811110653e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.056440014720631496,
+      "SO2_Average": 0.00010981553017565528
+    },
+    "co": {
+      "CO_Sum": 21.30636035462747,
+      "CO_Average": 0.04145585840185265
+    },
+    "lst": {
+      "LST_Sum": 1246911.2486654397,
+      "LST_Average": 19.837701434815326
+    }
+  },
+  "PRK.4.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Sariwon City",
+    "no2": {
+      "NO2_Sum": 0.006740616682170584,
+      "NO2_Average": 3.069223530799242e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.03120426341420801,
+      "SO2_Average": 0.00014208323073090808
+    },
+    "co": {
+      "CO_Sum": 9.40213490349658,
+      "CO_Average": 0.04281099941773885
+    },
+    "lst": {
+      "LST_Sum": 675148.7084709617,
+      "LST_Average": 24.805975444301268
+    }
+  },
+  "PRK.4.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Singye County",
+    "no2": {
+      "NO2_Sum": 0.018899662339296085,
+      "NO2_Average": 2.503916818558514e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09048268395297378,
+      "SO2_Average": 0.00011987574702173428
+    },
+    "co": {
+      "CO_Sum": 31.094211187645403,
+      "CO_Average": 0.04119508431146681
+    },
+    "lst": {
+      "LST_Sum": 1580257.6464188169,
+      "LST_Average": 16.90268400711426
+    }
+  },
+  "PRK.4.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Sinpyeong County",
+    "no2": {
+      "NO2_Sum": 0.024647598798035065,
+      "NO2_Average": 2.193275391709686e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1525964532506605,
+      "SO2_Average": 0.00013578849952861646
+    },
+    "co": {
+      "CO_Sum": 43.76329308701259,
+      "CO_Average": 0.038942922827669264
+    },
+    "lst": {
+      "LST_Sum": 2188693.1517255525,
+      "LST_Average": 15.716696414383636
+    }
+  },
+  "PRK.4.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Songrim City",
+    "no2": {
+      "NO2_Sum": 0.0023171225868349496,
+      "NO2_Average": 3.3262005158911975e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.009159745416502177,
+      "SO2_Average": 0.00013148700074352938
+    },
+    "co": {
+      "CO_Sum": 3.061157855489638,
+      "CO_Average": 0.04394253845698367
+    },
+    "lst": {
+      "LST_Sum": 244213.61516760915,
+      "LST_Average": 28.287792455891957
+    }
+  },
+  "PRK.4.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Seoheung County",
+    "no2": {
+      "NO2_Sum": 0.015369022711527989,
+      "NO2_Average": 2.6358236763647137e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06755508082506083,
+      "SO2_Average": 0.00011585855837395933
+    },
+    "co": {
+      "CO_Sum": 24.1197285556715,
+      "CO_Average": 0.04136590386247686
+    },
+    "lst": {
+      "LST_Sum": 1407227.3947703005,
+      "LST_Average": 20.294308324467053
+    }
+  },
+  "PRK.4.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Suan County",
+    "no2": {
+      "NO2_Sum": 0.018438834222844626,
+      "NO2_Average": 2.6688061793764203e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08765705625033388,
+      "SO2_Average": 0.00012687336442181364
+    },
+    "co": {
+      "CO_Sum": 28.28720073087959,
+      "CO_Average": 0.04094242358028319
+    },
+    "lst": {
+      "LST_Sum": 1597295.6166618466,
+      "LST_Average": 18.653211215179287
+    }
+  },
+  "PRK.4.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Tosan County",
+    "no2": {
+      "NO2_Sum": 0.010634811039361845,
+      "NO2_Average": 2.537713535121857e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05964035392312153,
+      "SO2_Average": 0.000142315771131224
+    },
+    "co": {
+      "CO_Sum": 17.273291621442258,
+      "CO_Average": 0.04121809572506644
+    },
+    "lst": {
+      "LST_Sum": 662156.6363028792,
+      "LST_Average": 12.752854968096631
+    }
+  },
+  "PRK.4.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Eunpa County",
+    "no2": {
+      "NO2_Sum": 0.011370417810590418,
+      "NO2_Average": 2.8480492526895104e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.055526211453740454,
+      "SO2_Average": 0.00013908141958355496
+    },
+    "co": {
+      "CO_Sum": 16.862640521802764,
+      "CO_Average": 0.042237349177935306
+    },
+    "lst": {
+      "LST_Sum": 1276727.54568186,
+      "LST_Average": 25.834601062225154
+    }
+  },
+  "PRK.4.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Yeonsan County",
+    "no2": {
+      "NO2_Sum": 0.015410315050241047,
+      "NO2_Average": 2.8668366535918852e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07161131607845028,
+      "SO2_Average": 0.0001332211217462708
+    },
+    "co": {
+      "CO_Sum": 22.144441765746105,
+      "CO_Average": 0.04119610606298339
+    },
+    "lst": {
+      "LST_Sum": 1353960.91336048,
+      "LST_Average": 20.333868167152936
+    }
+  },
+  "PRK.4.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Yeontan County",
+    "no2": {
+      "NO2_Sum": 0.016326075011433874,
+      "NO2_Average": 2.9012503069205467e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06416530530139693,
+      "SO2_Average": 0.00011402594412248663
+    },
+    "co": {
+      "CO_Sum": 23.791111504082554,
+      "CO_Average": 0.0422783611522426
+    },
+    "lst": {
+      "LST_Sum": 1408817.9266581894,
+      "LST_Average": 20.233547106579316
+    }
+  },
+  "PRK.4.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Hwangju County",
+    "no2": {
+      "NO2_Sum": 0.016503847833479388,
+      "NO2_Average": 3.20858870072905e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07283534036393273,
+      "SO2_Average": 0.00014160252352266148
+    },
+    "co": {
+      "CO_Sum": 22.557476014626324,
+      "CO_Average": 0.043855023015101156
+    },
+    "lst": {
+      "LST_Sum": 1576417.2586047507,
+      "LST_Average": 24.74530866287535
+    }
+  },
+  "PRK.4.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Gaeseong City",
+    "no2": {
+      "NO2_Sum": 0.02375458645767802,
+      "NO2_Average": 3.3191521853313696e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0893224907818655,
+      "SO2_Average": 0.000124807451818233
+    },
+    "co": {
+      "CO_Sum": 30.02994677573851,
+      "CO_Average": 0.041959881576410396
+    },
+    "lst": {
+      "LST_Sum": 1184599.3288295215,
+      "LST_Average": 13.35755873019204
+    }
+  },
+  "PRK.5.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheonrima County",
+    "no2": {
+      "NO2_Sum": 0.003711003490357222,
+      "NO2_Average": 3.586529808759111e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.014040866352231297,
+      "SO2_Average": 0.00013569910630354296
+    },
+    "co": {
+      "CO_Sum": 4.566260009747589,
+      "CO_Average": 0.04413099497766289
+    },
+    "lst": {
+      "LST_Sum": 353174.87033424305,
+      "LST_Average": 27.537235346654565
+    }
+  },
+  "PRK.5.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Eunsan County",
+    "no2": {
+      "NO2_Sum": 0.02461944867724154,
+      "NO2_Average": 4.678341043204208e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07214294254954441,
+      "SO2_Average": 0.00013709051471126312
+    },
+    "co": {
+      "CO_Sum": 23.26047625059201,
+      "CO_Average": 0.044201006348373685
+    },
+    "lst": {
+      "LST_Sum": 1279264.389223567,
+      "LST_Average": 19.642911205379097
+    }
+  },
+  "PRK.5.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gangseo County",
+    "no2": {
+      "NO2_Sum": 0.008028317026686285,
+      "NO2_Average": 3.200332726484707e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.044182862415574585,
+      "SO2_Average": 0.00017612640366382963
+    },
+    "co": {
+      "CO_Sum": 10.877544176903415,
+      "CO_Average": 0.04336121816990058
+    },
+    "lst": {
+      "LST_Sum": 834962.0911560258,
+      "LST_Average": 26.870611138673627
+    }
+  },
+  "PRK.5.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Changseong County",
+    "no2": {
+      "NO2_Sum": 0.011175047664569001,
+      "NO2_Average": 1.8817435447747524e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06348249682103808,
+      "SO2_Average": 0.0001068968850825742
+    },
+    "co": {
+      "CO_Sum": 23.341029961160558,
+      "CO_Average": 0.03930348556549262
+    },
+    "lst": {
+      "LST_Sum": 1484841.7492594896,
+      "LST_Average": 20.256814612652754
+    }
+  },
+  "PRK.5.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheolsan County",
+    "no2": {
+      "NO2_Sum": 0.01015724838514457,
+      "NO2_Average": 2.8880594295595206e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.047459545234167275,
+      "SO2_Average": 0.00013494401430274024
+    },
+    "co": {
+      "CO_Sum": 15.596135373561117,
+      "CO_Average": 0.044345244029058845
+    },
+    "lst": {
+      "LST_Sum": 1033264.5083660387,
+      "LST_Average": 23.68169126341205
+    }
+  },
+  "PRK.5.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Jeongju City",
+    "no2": {
+      "NO2_Sum": 0.013001052395193535,
+      "NO2_Average": 2.8284618003210895e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08030861470662119,
+      "SO2_Average": 0.00017471650911764602
+    },
+    "co": {
+      "CO_Sum": 20.13538696045401,
+      "CO_Average": 0.043805817499345395
+    },
+    "lst": {
+      "LST_Sum": 1286921.2056080876,
+      "LST_Average": 22.58882756542336
+    }
+  },
+  "PRK.5.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheonma County",
+    "no2": {
+      "NO2_Sum": 0.018142082277430756,
+      "NO2_Average": 2.232920162728044e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10597695958814624,
+      "SO2_Average": 0.00013043601403096437
+    },
+    "co": {
+      "CO_Sum": 33.20470736512767,
+      "CO_Average": 0.04086821977723827
+    },
+    "lst": {
+      "LST_Sum": 2191190.8052131585,
+      "LST_Average": 21.763862577516075
+    }
+  },
+  "PRK.5.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Hyangsan County",
+    "no2": {
+      "NO2_Sum": 0.010111721103445276,
+      "NO2_Average": 1.97355484904827e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.062229242651113396,
+      "SO2_Average": 0.00012145590481610628
+    },
+    "co": {
+      "CO_Sum": 20.65711789314951,
+      "CO_Average": 0.04031752336552924
+    },
+    "lst": {
+      "LST_Sum": 907897.999399885,
+      "LST_Average": 14.301728331826173
+    }
+  },
+  "PRK.5.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gujang County",
+    "no2": {
+      "NO2_Sum": 0.013489577130537205,
+      "NO2_Average": 2.2082403037028156e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06518396020274782,
+      "SO2_Average": 0.0001067059750515217
+    },
+    "co": {
+      "CO_Sum": 25.241151962260496,
+      "CO_Average": 0.04131970078496546
+    },
+    "lst": {
+      "LST_Sum": 1166323.671890329,
+      "LST_Average": 15.437119711220394
+    }
+  },
+  "PRK.5.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Guseong City",
+    "no2": {
+      "NO2_Sum": 0.016899354545559526,
+      "NO2_Average": 2.5151518423659386e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09079718783764013,
+      "SO2_Average": 0.0001351345778655747
+    },
+    "co": {
+      "CO_Sum": 28.340351595401525,
+      "CO_Average": 0.042179295863818786
+    },
+    "lst": {
+      "LST_Sum": 1761214.6214756886,
+      "LST_Average": 21.156771649103327
+    }
+  },
+  "PRK.5.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gwaksan County",
+    "no2": {
+      "NO2_Sum": 0.010819117303014462,
+      "NO2_Average": 2.8131690754243774e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06440206629775098,
+      "SO2_Average": 0.00016745719288188533
+    },
+    "co": {
+      "CO_Sum": 16.901995026084826,
+      "CO_Average": 0.04394828930000642
+    },
+    "lst": {
+      "LST_Sum": 1135407.6845904482,
+      "LST_Average": 23.82084301804528
+    }
+  },
+  "PRK.5.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Nyeongbyeon County",
+    "no2": {
+      "NO2_Sum": 0.014074665414036673,
+      "NO2_Average": 2.651222681464806e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06807969734933242,
+      "SO2_Average": 0.00012824065968900568
+    },
+    "co": {
+      "CO_Sum": 22.948017516792767,
+      "CO_Average": 0.04322682120350554
+    },
+    "lst": {
+      "LST_Sum": 1237756.198823762,
+      "LST_Average": 18.82095507686628
+    }
+  },
+  "PRK.5.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Bakcheon County",
+    "no2": {
+      "NO2_Sum": 0.011075594005437502,
+      "NO2_Average": 3.060352026728393e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0534357191377871,
+      "SO2_Average": 0.0001476508720730741
+    },
+    "co": {
+      "CO_Sum": 16.106067153309745,
+      "CO_Average": 0.04450346882619235
+    },
+    "lst": {
+      "LST_Sum": 885371.4078639516,
+      "LST_Average": 19.747074867750552
+    }
+  },
+  "PRK.5.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Pihyeon County",
+    "no2": {
+      "NO2_Sum": 0.01282598405325824,
+      "NO2_Average": 2.756346755870529e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07421702128106551,
+      "SO2_Average": 0.00015949485434333727
+    },
+    "co": {
+      "CO_Sum": 20.184683551247957,
+      "CO_Average": 0.04337755823937898
+    },
+    "lst": {
+      "LST_Sum": 1338040.1369118735,
+      "LST_Average": 23.207041966119885
+    }
+  },
+  "PRK.5.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Byeokdong County",
+    "no2": {
+      "NO2_Sum": 0.010380667675442063,
+      "NO2_Average": 1.7170927978968136e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07798676213761238,
+      "SO2_Average": 0.00012899989845025408
+    },
+    "co": {
+      "CO_Sum": 23.636097311268053,
+      "CO_Average": 0.03909707326396833
+    },
+    "lst": {
+      "LST_Sum": 1594455.789172807,
+      "LST_Average": 21.289969002779692
+    }
+  },
+  "PRK.5.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Ryongcheon County",
+    "no2": {
+      "NO2_Sum": 0.0070748016047087504,
+      "NO2_Average": 3.4389523621821025e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.025329174598810525,
+      "SO2_Average": 0.0001231212261284156
+    },
+    "co": {
+      "CO_Sum": 9.29449679554749,
+      "CO_Average": 0.04517912090858958
+    },
+    "lst": {
+      "LST_Sum": 558700.5275071778,
+      "LST_Average": 21.903515452501004
+    }
+  },
+  "PRK.5.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sakju County",
+    "no2": {
+      "NO2_Sum": 0.01587381009609529,
+      "NO2_Average": 2.2317540410997707e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09447561883299144,
+      "SO2_Average": 0.00013282655067657333
+    },
+    "co": {
+      "CO_Sum": 29.116134993813418,
+      "CO_Average": 0.04093538447309107
+    },
+    "lst": {
+      "LST_Sum": 2002764.07588155,
+      "LST_Average": 22.752600111485126
+    }
+  },
+  "PRK.5.22_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sindo County",
+    "no2": {
+      "NO2_Sum": 0.003061966915299717,
+      "NO2_Average": 4.0458135830946044e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.01124686004113326,
+      "SO2_Average": 0.00014860610966832379
+    },
+    "co": {
+      "CO_Sum": 3.4442506609413015,
+      "CO_Average": 0.04550929677910937
+    },
+    "lst": {
+      "LST_Sum": 155512.108791722,
+      "LST_Average": 16.595636084872773
+    }
+  },
+  "PRK.5.23_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sinuiju City",
+    "no2": {
+      "NO2_Sum": 0.006057312372077509,
+      "NO2_Average": 3.6555465870207915e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.019619514069887673,
+      "SO2_Average": 0.00011840242551761627
+    },
+    "co": {
+      "CO_Sum": 7.54005801553596,
+      "CO_Average": 0.0455037344147695
+    },
+    "lst": {
+      "LST_Sum": 412841.7909217103,
+      "LST_Average": 20.10585841744199
+    }
+  },
+  "PRK.5.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Seoncheon County",
+    "no2": {
+      "NO2_Sum": 0.014144266564762354,
+      "NO2_Average": 2.74247085830956e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.059140138716188805,
+      "SO2_Average": 0.00011466844621664396
+    },
+    "co": {
+      "CO_Sum": 22.46676795917408,
+      "CO_Average": 0.04356143609590766
+    },
+    "lst": {
+      "LST_Sum": 1426418.0628762909,
+      "LST_Average": 22.31896313682438
+    }
+  },
+  "PRK.5.24_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Taecheon County",
+    "no2": {
+      "NO2_Sum": 0.019155546151433743,
+      "NO2_Average": 2.428272436898162e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10377717495217703,
+      "SO2_Average": 0.0001315541992503661
+    },
+    "co": {
+      "CO_Sum": 33.16752935041013,
+      "CO_Average": 0.042045158454322384
+    },
+    "lst": {
+      "LST_Sum": 1911946.6470145592,
+      "LST_Average": 19.56010814882869
+    }
+  },
+  "PRK.5.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Daegwan County",
+    "no2": {
+      "NO2_Sum": 0.018210870018662784,
+      "NO2_Average": 2.0288402427208994e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10522616271778211,
+      "SO2_Average": 0.00011723057343781436
+    },
+    "co": {
+      "CO_Sum": 36.27559269504594,
+      "CO_Average": 0.04041398473155744
+    },
+    "lst": {
+      "LST_Sum": 2396968.6707976377,
+      "LST_Average": 21.554552367609254
+    }
+  },
+  "PRK.5.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Dongchang County",
+    "no2": {
+      "NO2_Sum": 0.013148604852703208,
+      "NO2_Average": 1.8324029322865692e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0851982055322019,
+      "SO2_Average": 0.00011873308491027059
+    },
+    "co": {
+      "CO_Sum": 28.30033759442829,
+      "CO_Average": 0.03943963802522279
+    },
+    "lst": {
+      "LST_Sum": 1616920.4962876402,
+      "LST_Average": 18.185427599789175
+    }
+  },
+  "PRK.5.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Dongrim County",
+    "no2": {
+      "NO2_Sum": 0.012490907963819112,
+      "NO2_Average": 2.6745329538880324e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06128362291249407,
+      "SO2_Average": 0.000131219499405389
+    },
+    "co": {
+      "CO_Sum": 20.120851371401542,
+      "CO_Average": 0.04308244061118113
+    },
+    "lst": {
+      "LST_Sum": 1286379.0271954609,
+      "LST_Average": 22.23102405430723
+    }
+  },
+  "PRK.5.25_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Uiju County",
+    "no2": {
+      "NO2_Sum": 0.01039748913210012,
+      "NO2_Average": 2.6648170548123336e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04850931095857246,
+      "SO2_Average": 0.0001243265922351473
+    },
+    "co": {
+      "CO_Sum": 16.808989128695487,
+      "CO_Average": 0.04308047869558621
+    },
+    "lst": {
+      "LST_Sum": 1145906.9924160533,
+      "LST_Average": 23.708755244584673
+    }
+  },
+  "PRK.5.26_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Unjeon County",
+    "no2": {
+      "NO2_Sum": 0.010461512441344746,
+      "NO2_Average": 2.8509748453504923e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04851152271047364,
+      "SO2_Average": 0.00013220376282363952
+    },
+    "co": {
+      "CO_Sum": 16.060221126836208,
+      "CO_Average": 0.043767367959551905
+    },
+    "lst": {
+      "LST_Sum": 917795.6566104578,
+      "LST_Average": 20.185038583894045
+    }
+  },
+  "PRK.5.27_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Unsan County",
+    "no2": {
+      "NO2_Sum": 0.018819937210449965,
+      "NO2_Average": 2.0529171911864873e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.12205627138503246,
+      "SO2_Average": 0.00013314147386173217
+    },
+    "co": {
+      "CO_Sum": 37.51433284129889,
+      "CO_Average": 0.040921400504477554
+    },
+    "lst": {
+      "LST_Sum": 1937100.800117305,
+      "LST_Average": 17.052974447258016
+    }
+  },
+  "PRK.5.28_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Yeomju County",
+    "no2": {
+      "NO2_Sum": 0.00978039451090366,
+      "NO2_Average": 3.0809910069185555e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.033513743319252845,
+      "SO2_Average": 0.0001055740048723807
+    },
+    "co": {
+      "CO_Sum": 14.130790007150793,
+      "CO_Average": 0.04451439753697992
+    },
+    "lst": {
+      "LST_Sum": 924654.2022218358,
+      "LST_Average": 23.509048355428025
+    }
+  },
+  "PRK.6.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Gangdong County",
+    "no2": {
+      "NO2_Sum": 0.01734325951539185,
+      "NO2_Average": 3.142743264326064e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07252460836280646,
+      "SO2_Average": 0.00013142063879504026
+    },
+    "co": {
+      "CO_Sum": 23.608127116690103,
+      "CO_Average": 0.04277989521720825
+    },
+    "lst": {
+      "LST_Sum": 1465565.6582292677,
+      "LST_Average": 21.690778031331153
+    }
+  },
+  "PRK.6.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Gangnam County",
+    "no2": {
+      "NO2_Sum": 0.005715707522267941,
+      "NO2_Average": 3.484187746649276e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.026241402690065006,
+      "SO2_Average": 0.00015996265265745308
+    },
+    "co": {
+      "CO_Sum": 7.280597512857692,
+      "CO_Average": 0.04438115236610039
+    },
+    "lst": {
+      "LST_Sum": 561469.7212563365,
+      "LST_Average": 27.60201655918538
+    }
+  },
+  "PRK.6.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Sangwon County",
+    "no2": {
+      "NO2_Sum": 0.01850521384858336,
+      "NO2_Average": 3.541548108996231e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06708656630194143,
+      "SO2_Average": 0.00012839100589149869
+    },
+    "co": {
+      "CO_Sum": 22.29209397515771,
+      "CO_Average": 0.04266285378233003
+    },
+    "lst": {
+      "LST_Sum": 1432312.199051857,
+      "LST_Average": 22.554703319450407
+    }
+  },
+  "PRK.6.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Jung District",
+    "no2": {
+      "NO2_Sum": 0.0007674334696142496,
+      "NO2_Average": 5.864415185844581e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.002549381185414769,
+      "SO2_Average": 0.00019481336598165005
+    },
+    "co": {
+      "CO_Sum": 0.6071844212125602,
+      "CO_Average": 0.04639856979598528
+    },
+    "lst": {
+      "LST_Sum": 41773.44766620325,
+      "LST_Average": 25.765371705339273
+    }
+  },
+  "PRK.6.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Hyeongjesan District",
+    "no2": {
+      "NO2_Sum": 0.0031374937426225775,
+      "NO2_Average": 3.8455222512317095e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.010732097767530209,
+      "SO2_Average": 0.00013153977076280716
+    },
+    "co": {
+      "CO_Sum": 3.669357030759003,
+      "CO_Average": 0.04497409482545281
+    },
+    "lst": {
+      "LST_Sum": 272315.3623302361,
+      "LST_Average": 26.951682643597255
+    }
+  },
+  "PRK.6.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Mangyeongdae District",
+    "no2": {
+      "NO2_Sum": 0.004080681982475453,
+      "NO2_Average": 4.1359907211385206e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.013204734721864354,
+      "SO2_Average": 0.00013383709026890616
+    },
+    "co": {
+      "CO_Sum": 4.435445891095681,
+      "CO_Average": 0.04495563028059139
+    },
+    "lst": {
+      "LST_Sum": 327626.61696594796,
+      "LST_Average": 26.78461845850008
+    }
+  },
+  "PRK.6.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Junghwa County",
+    "no2": {
+      "NO2_Sum": 0.009313984330211742,
+      "NO2_Average": 3.6264978992915086e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.03697372708361061,
+      "SO2_Average": 0.00014396110068894992
+    },
+    "co": {
+      "CO_Sum": 11.404241448345422,
+      "CO_Average": 0.044403615240458126
+    },
+    "lst": {
+      "LST_Sum": 879355.3382630856,
+      "LST_Average": 27.779543164386144
+    }
+  },
+  "PRK.6.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Pyeongcheon District",
+    "no2": {
+      "NO2_Sum": 0.0005207861727516873,
+      "NO2_Average": 6.0117914917012344e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0016666810909670491,
+      "SO2_Average": 0.00019239641385088166
+    },
+    "co": {
+      "CO_Sum": 0.40275287986022273,
+      "CO_Average": 0.04649252347865858
+    },
+    "lst": {
+      "LST_Sum": 32601.83241329601,
+      "LST_Average": 30.375154882991115
+    }
+  },
+  "PRK.6.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Botonggang District",
+    "no2": {
+      "NO2_Sum": 0.0004175299298826826,
+      "NO2_Average": 5.50233240930667e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0012600895020383016,
+      "SO2_Average": 0.0001660583064701638
+    },
+    "co": {
+      "CO_Sum": 0.3495987603879406,
+      "CO_Average": 0.046071154469728606
+    },
+    "lst": {
+      "LST_Sum": 27401.62653625393,
+      "LST_Average": 28.99955910480954
+    }
+  },
+  "PRK.6.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Rakrang District",
+    "no2": {
+      "NO2_Sum": 0.004265341155910875,
+      "NO2_Average": 4.537975612305046e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.016234179550225557,
+      "SO2_Average": 0.00017271844898646187
+    },
+    "co": {
+      "CO_Sum": 4.268171637324812,
+      "CO_Average": 0.045409870140096266
+    },
+    "lst": {
+      "LST_Sum": 317447.7436717392,
+      "LST_Average": 27.251274337889427
+    }
+  },
+  "PRK.6.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Ryeokpo District",
+    "no2": {
+      "NO2_Sum": 0.005268534493089445,
+      "NO2_Average": 4.304909945327507e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.01823458099110265,
+      "SO2_Average": 0.00014899442940051192
+    },
+    "co": {
+      "CO_Sum": 5.569765060737095,
+      "CO_Average": 0.045510448938988694
+    },
+    "lst": {
+      "LST_Sum": 440418.68218655966,
+      "LST_Average": 29.042281504277007
+    }
+  },
+  "PRK.6.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Sadong District",
+    "no2": {
+      "NO2_Sum": 0.005504474726423922,
+      "NO2_Average": 4.197365674585389e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.016652169030883613,
+      "SO2_Average": 0.00012697895107428967
+    },
+    "co": {
+      "CO_Sum": 5.9741235870831035,
+      "CO_Average": 0.0455549031041593
+    },
+    "lst": {
+      "LST_Sum": 444186.6686639575,
+      "LST_Average": 27.32493661583109
+    }
+  },
+  "PRK.6.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Seongyo District",
+    "no2": {
+      "NO2_Sum": 0.0005568399196530145,
+      "NO2_Average": 5.8433818729020053e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0016706985354692548,
+      "SO2_Average": 0.0001753202166850453
+    },
+    "co": {
+      "CO_Sum": 0.443981922430733,
+      "CO_Average": 0.0465906955637189
+    },
+    "lst": {
+      "LST_Sum": 34004.09507238221,
+      "LST_Average": 28.768269942793754
+    }
+  },
+  "PRK.6.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Seoseong District",
+    "no2": {
+      "NO2_Sum": 0.0004944630517636333,
+      "NO2_Average": 4.7383719729322246e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0015710105258934899,
+      "SO2_Average": 0.00015054779560422395
+    },
+    "co": {
+      "CO_Sum": 0.47610908571745947,
+      "CO_Average": 0.04562488420065846
+    },
+    "lst": {
+      "LST_Sum": 38591.188851169965,
+      "LST_Average": 29.690993386560855
+    }
+  },
+  "PRK.6.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Daedonggang District",
+    "no2": {
+      "NO2_Sum": 0.0007302108008383656,
+      "NO2_Average": 5.115487753125912e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0024051841592851435,
+      "SO2_Average": 0.00016849504412574495
+    },
+    "co": {
+      "CO_Sum": 0.661913649371001,
+      "CO_Average": 0.04637032433780364
+    },
+    "lst": {
+      "LST_Sum": 49403.810129922036,
+      "LST_Average": 27.865022180877812
+    }
+  },
+  "PRK.6.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Daeseong District",
+    "no2": {
+      "NO2_Sum": 0.002267987436731675,
+      "NO2_Average": 4.408054850355008e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.008182347140272488,
+      "SO2_Average": 0.00015903189944889358
+    },
+    "co": {
+      "CO_Sum": 2.3505979884518315,
+      "CO_Average": 0.045686165171891537
+    },
+    "lst": {
+      "LST_Sum": 170600.20552976633,
+      "LST_Average": 26.74510470440459
+    }
+  },
+  "PRK.6.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Eunjeong District",
+    "no2": {
+      "NO2_Sum": 0.000925716543500156,
+      "NO2_Average": 3.440071678702125e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0029616032818801943,
+      "SO2_Average": 0.00011005666524037446
+    },
+    "co": {
+      "CO_Sum": 1.1841418416228922,
+      "CO_Average": 0.04400410516086236
+    },
+    "lst": {
+      "LST_Sum": 83216.82407864768,
+      "LST_Average": 24.93902261998967
+    }
+  },
+  "PRK.7.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Hyesan City",
+    "no2": {
+      "NO2_Sum": 0.003021423206727583,
+      "NO2_Average": 1.1258481423203875e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.01923474814266821,
+      "SO2_Average": 7.167286402052189e-05
+    },
+    "co": {
+      "CO_Sum": 9.290608355606501,
+      "CO_Average": 0.03461883173100592
+    },
+    "lst": {
+      "LST_Sum": 555163.545966514,
+      "LST_Average": 16.71289816941997
+    }
+  },
+  "PRK.7.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gapsan County",
+    "no2": {
+      "NO2_Sum": 0.011549870082065533,
+      "NO2_Average": 9.298061823380497e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.09073983243612274,
+      "SO2_Average": 7.304883655309234e-05
+    },
+    "co": {
+      "CO_Sum": 40.02991897545237,
+      "CO_Average": 0.03222552797339391
+    },
+    "lst": {
+      "LST_Sum": 2270461.0461597443,
+      "LST_Average": 14.752387103600316
+    }
+  },
+  "PRK.7.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimhyeonggwon County",
+    "no2": {
+      "NO2_Sum": 0.012435080693339083,
+      "NO2_Average": 9.178934625531439e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.13326318912360685,
+      "SO2_Average": 9.836800669983916e-05
+    },
+    "co": {
+      "CO_Sum": 42.36698827869423,
+      "CO_Average": 0.031273123615442135
+    },
+    "lst": {
+      "LST_Sum": 2187943.2993750563,
+      "LST_Average": 13.034299251022086
+    }
+  },
+  "PRK.7.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimhyeongjik County",
+    "no2": {
+      "NO2_Sum": 0.01599926240078862,
+      "NO2_Average": 1.1330733566071494e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11298981416509239,
+      "SO2_Average": 8.001978140701583e-05
+    },
+    "co": {
+      "CO_Sum": 48.70753426560117,
+      "CO_Average": 0.03449484604969172
+    },
+    "lst": {
+      "LST_Sum": 1756196.9526776462,
+      "LST_Average": 10.161264193164067
+    }
+  },
+  "PRK.7.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimjeongsuk County",
+    "no2": {
+      "NO2_Sum": 0.012914803704990678,
+      "NO2_Average": 1.0591419976884853e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09861470475982112,
+      "SO2_Average": 8.087383888027319e-05
+    },
+    "co": {
+      "CO_Sum": 40.204260113752376,
+      "CO_Average": 0.03297148090296733
+    },
+    "lst": {
+      "LST_Sum": 1438637.5848719263,
+      "LST_Average": 9.522923805473749
+    }
+  },
+  "PRK.7.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Baekam County",
+    "no2": {
+      "NO2_Sum": 0.019293327267386483,
+      "NO2_Average": 7.899762761663954e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.18515404751515924,
+      "SO2_Average": 7.581237955798954e-05
+    },
+    "co": {
+      "CO_Sum": 75.20692785550035,
+      "CO_Average": 0.030793905056300305
+    },
+    "lst": {
+      "LST_Sum": 2833154.5288776713,
+      "LST_Average": 9.373695204553504
+    }
+  },
+  "PRK.7.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Bocheon County",
+    "no2": {
+      "NO2_Sum": 0.007401871397830853,
+      "NO2_Average": 9.136078174054034e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.05611375858819298,
+      "SO2_Average": 6.926082034496895e-05
+    },
+    "co": {
+      "CO_Sum": 26.41818567899962,
+      "CO_Average": 0.032607782087479435
+    },
+    "lst": {
+      "LST_Sum": 1075464.28427631,
+      "LST_Average": 10.71168436772195
+    }
+  },
+  "PRK.7.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Pungseo County",
+    "no2": {
+      "NO2_Sum": 0.017580934914809377,
+      "NO2_Average": 9.033740782718124e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.17203877870774298,
+      "SO2_Average": 8.83999479522564e-05
+    },
+    "co": {
+      "CO_Sum": 59.54338620006001,
+      "CO_Average": 0.030595615014962354
+    },
+    "lst": {
+      "LST_Sum": 2610629.598806148,
+      "LST_Average": 10.828160045567785
+    }
+  },
+  "PRK.7.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Samjiyeon County",
+    "no2": {
+      "NO2_Sum": 0.010126306412026803,
+      "NO2_Average": 8.682726516385009e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.10111594877962768,
+      "SO2_Average": 8.670112220340916e-05
+    },
+    "co": {
+      "CO_Sum": 36.48097311646459,
+      "CO_Average": 0.03128034050457462
+    },
+    "lst": {
+      "LST_Sum": 1478367.1429272108,
+      "LST_Average": 10.233073156227206
+    }
+  },
+  "PRK.7.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Samsu County",
+    "no2": {
+      "NO2_Sum": 0.00896763945869298,
+      "NO2_Average": 9.773847746966264e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.06058273062518576,
+      "SO2_Average": 6.60292363395637e-05
+    },
+    "co": {
+      "CO_Sum": 29.829954473729124,
+      "CO_Average": 0.032511725596030716
+    },
+    "lst": {
+      "LST_Sum": 1140633.6123267575,
+      "LST_Average": 10.031718114841933
+    }
+  },
+  "PRK.7.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Daehongdan County",
+    "no2": {
+      "NO2_Sum": 0.004635744787983909,
+      "NO2_Average": 9.503448250119765e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.034858977982607287,
+      "SO2_Average": 7.14621939862757e-05
+    },
+    "co": {
+      "CO_Sum": 16.047287710114162,
+      "CO_Average": 0.03289753325143192
+    },
+    "lst": {
+      "LST_Sum": 805551.1230850486,
+      "LST_Average": 13.326336544518298
+    }
+  },
+  "PRK.7.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Unheung County",
+    "no2": {
+      "NO2_Sum": 0.008397044220923897,
+      "NO2_Average": 8.238414360107703e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.08184934607057935,
+      "SO2_Average": 8.030311741755889e-05
+    },
+    "co": {
+      "CO_Sum": 32.01927149764287,
+      "CO_Average": 0.03141439048862656
+    },
+    "lst": {
+      "LST_Sum": 1255349.1754166938,
+      "LST_Average": 9.944629690667135
+    }
+  },
+  "PRK.8.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Geumya County",
+    "no2": {
+      "NO2_Sum": 0.019370058196213694,
+      "NO2_Average": 2.3302847842249114e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1483403308233921,
+      "SO2_Average": 0.0001784585323921278
+    },
+    "co": {
+      "CO_Sum": 34.508914914212404,
+      "CO_Average": 0.04151541442473326
+    },
+    "lst": {
+      "LST_Sum": 1210965.6373563479,
+      "LST_Average": 11.753844007760557
+    }
+  },
+  "PRK.8.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Dancheon City",
+    "no2": {
+      "NO2_Sum": 0.02799141493188984,
+      "NO2_Average": 1.212552374483048e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.2630533468209788,
+      "SO2_Average": 0.00011395135297004995
+    },
+    "co": {
+      "CO_Sum": 82.67889723335502,
+      "CO_Average": 0.035815443200668526
+    },
+    "lst": {
+      "LST_Sum": 3768209.0909558334,
+      "LST_Average": 13.823997665711168
+    }
+  },
+  "PRK.8.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Heocheon County",
+    "no2": {
+      "NO2_Sum": 0.01890607112853557,
+      "NO2_Average": 1.0956130776344836e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.21046213868834826,
+      "SO2_Average": 0.00012196350575760128
+    },
+    "co": {
+      "CO_Sum": 58.77413891637872,
+      "CO_Average": 0.03405980797686662
+    },
+    "lst": {
+      "LST_Sum": 2613015.3553665956,
+      "LST_Average": 12.473090219092636
+    }
+  },
+  "PRK.8.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Jangjin County",
+    "no2": {
+      "NO2_Sum": 0.018556835374386873,
+      "NO2_Average": 9.283132062103407e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.1875018999895233,
+      "SO2_Average": 9.379858496241904e-05
+    },
+    "co": {
+      "CO_Sum": 63.66169587729758,
+      "CO_Average": 0.03184702122982237
+    },
+    "lst": {
+      "LST_Sum": 3490628.503339969,
+      "LST_Average": 14.099360973385652
+    }
+  },
+  "PRK.8.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Jeongpyeong County",
+    "no2": {
+      "NO2_Sum": 0.01656606918829118,
+      "NO2_Average": 2.072353548080756e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.11632184362179994,
+      "SO2_Average": 0.00014551429346879225
+    },
+    "co": {
+      "CO_Sum": 32.54966153674144,
+      "CO_Average": 0.04071841413180279
+    },
+    "lst": {
+      "LST_Sum": 1283336.1252447157,
+      "LST_Average": 12.958360135165892
+    }
+  },
+  "PRK.8.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hamju County",
+    "no2": {
+      "NO2_Sum": 0.013642319714587278,
+      "NO2_Average": 1.7051729426508747e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10661626257533685,
+      "SO2_Average": 0.00013326118284387784
+    },
+    "co": {
+      "CO_Sum": 30.375576774639303,
+      "CO_Average": 0.037966865399105064
+    },
+    "lst": {
+      "LST_Sum": 1221657.7939904248,
+      "LST_Average": 12.321459166720324
+    }
+  },
+  "PRK.8.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hongwon County",
+    "no2": {
+      "NO2_Sum": 0.015258448799815912,
+      "NO2_Average": 1.649205447450921e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.13272011136483874,
+      "SO2_Average": 0.0001434501852192378
+    },
+    "co": {
+      "CO_Sum": 35.37859023591435,
+      "CO_Average": 0.03823885671845479
+    },
+    "lst": {
+      "LST_Sum": 1409701.4818510266,
+      "LST_Average": 12.298772259727198
+    }
+  },
+  "PRK.8.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Gowon County",
+    "no2": {
+      "NO2_Sum": 0.00631828995499057,
+      "NO2_Average": 2.3515492060462604e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05004375755142622,
+      "SO2_Average": 0.00018625349449921457
+    },
+    "co": {
+      "CO_Sum": 11.075285776939113,
+      "CO_Average": 0.04122013972297269
+    },
+    "lst": {
+      "LST_Sum": 345086.9436697661,
+      "LST_Average": 10.36144113391136
+    }
+  },
+  "PRK.8.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Geumhojigu",
+    "no2": {
+      "NO2_Sum": 0.0018367927887120166,
+      "NO2_Average": 1.702898240761913e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.014804539137983814,
+      "SO2_Average": 0.0001372534986433693
+    },
+    "co": {
+      "CO_Sum": 4.428330776261368,
+      "CO_Average": 0.041055238972792174
+    },
+    "lst": {
+      "LST_Sum": 191566.5115216781,
+      "LST_Average": 14.329439487744878
+    }
+  },
+  "PRK.8.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Bujeon County",
+    "no2": {
+      "NO2_Sum": 0.017574819674533754,
+      "NO2_Average": 9.278823613337968e-06
+    },
+    "so2": {
+      "SO2_Sum": 0.16905155330829008,
+      "SO2_Average": 8.925266795091813e-05
+    },
+    "co": {
+      "CO_Sum": 58.584553775302936,
+      "CO_Average": 0.030930373740040668
+    },
+    "lst": {
+      "LST_Sum": 2677991.866791234,
+      "LST_Average": 11.412489335079378
+    }
+  },
+  "PRK.8.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Bukcheong County",
+    "no2": {
+      "NO2_Sum": 0.010216966749552652,
+      "NO2_Average": 1.630030419960788e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07615888106740754,
+      "SO2_Average": 0.00012150503758415924
+    },
+    "co": {
+      "CO_Sum": 24.76943999269547,
+      "CO_Average": 0.03951754142221785
+    },
+    "lst": {
+      "LST_Sum": 1109178.3623412477,
+      "LST_Average": 14.573691769264403
+    }
+  },
+  "PRK.8.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Rakwon County",
+    "no2": {
+      "NO2_Sum": 0.0037663521553235263,
+      "NO2_Average": 2.0042149407502076e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.028145794076004694,
+      "SO2_Average": 0.00014977415461980798
+    },
+    "co": {
+      "CO_Sum": 7.6601215515766174,
+      "CO_Average": 0.04076233296435805
+    },
+    "lst": {
+      "LST_Sum": 332919.19368605403,
+      "LST_Average": 14.285278240560757
+    }
+  },
+  "PRK.8.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Riwon County",
+    "no2": {
+      "NO2_Sum": 0.007881999972247042,
+      "NO2_Average": 1.5770555547976772e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07512002860551784,
+      "SO2_Average": 0.0001503025359122384
+    },
+    "co": {
+      "CO_Sum": 19.68358984570964,
+      "CO_Average": 0.03938355089296695
+    },
+    "lst": {
+      "LST_Sum": 811564.6358271521,
+      "LST_Average": 14.513799162250818
+    }
+  },
+  "PRK.8.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sinheung County",
+    "no2": {
+      "NO2_Sum": 0.01680893101341569,
+      "NO2_Average": 1.404784153258062e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.13993203214442315,
+      "SO2_Average": 0.0001169463430677369
+    },
+    "co": {
+      "CO_Sum": 43.22799000060367,
+      "CO_Average": 0.036127220274495046
+    },
+    "lst": {
+      "LST_Sum": 1529101.3419166594,
+      "LST_Average": 10.315334539945537
+    }
+  },
+  "PRK.8.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sinpo City",
+    "no2": {
+      "NO2_Sum": 0.0021549134433599126,
+      "NO2_Average": 1.7493407871411484e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.014652352933724102,
+      "SO2_Average": 0.00011894658086398972
+    },
+    "co": {
+      "CO_Sum": 5.005654409496412,
+      "CO_Average": 0.04063548562401581
+    },
+    "lst": {
+      "LST_Sum": 238315.45603907126,
+      "LST_Average": 15.599155513483197
+    }
+  },
+  "PRK.8.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sudonggu",
+    "no2": {
+      "NO2_Sum": 0.017246070774602735,
+      "NO2_Average": 2.1041856686716257e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1366845830178204,
+      "SO2_Average": 0.00016676827114614455
+    },
+    "co": {
+      "CO_Sum": 31.45706015731789,
+      "CO_Average": 0.038380623636918965
+    },
+    "lst": {
+      "LST_Sum": 933122.9653360057,
+      "LST_Average": 9.186846649536466
+    }
+  },
+  "PRK.8.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Deokseong County",
+    "no2": {
+      "NO2_Sum": 0.0213912654194633,
+      "NO2_Average": 1.2797330822941706e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1833608846962052,
+      "SO2_Average": 0.00010969570314945308
+    },
+    "co": {
+      "CO_Sum": 59.51152159417214,
+      "CO_Average": 0.0356027852809639
+    },
+    "lst": {
+      "LST_Sum": 2650469.0093925945,
+      "LST_Average": 12.798966745999184
+    }
+  },
+  "PRK.8.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Yodeok County",
+    "no2": {
+      "NO2_Sum": 0.027727167094548512,
+      "NO2_Average": 2.0123888511605043e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.19018578392903868,
+      "SO2_Average": 0.0001380334853261179
+    },
+    "co": {
+      "CO_Sum": 51.53562609572659,
+      "CO_Average": 0.037403647851571215
+    },
+    "lst": {
+      "LST_Sum": 1879761.0327670127,
+      "LST_Average": 11.0128998118606
+    }
+  },
+  "PRK.8.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Yeonggwang County",
+    "no2": {
+      "NO2_Sum": 0.013148912027257754,
+      "NO2_Average": 1.6116961002454954e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10087279260635856,
+      "SO2_Average": 0.00012364238663055877
+    },
+    "co": {
+      "CO_Sum": 30.95416379678587,
+      "CO_Average": 0.037941317862816765
+    },
+    "lst": {
+      "LST_Sum": 1237723.2609790973,
+      "LST_Average": 12.245749279439442
+    }
+  },
+  "PRK.8.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hamheung City",
+    "no2": {
+      "NO2_Sum": 0.012962811958748637,
+      "NO2_Average": 2.00605487991704e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09784376383847773,
+      "SO2_Average": 0.0001514177329288178
+    },
+    "co": {
+      "CO_Sum": 25.855196950322178,
+      "CO_Average": 0.04001210862154398
+    },
+    "lst": {
+      "LST_Sum": 890918.9230798,
+      "LST_Average": 11.128720982459004
+    }
+  },
+  "PRK.9.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Bongcheon County",
+    "no2": {
+      "NO2_Sum": 0.014857809372855689,
+      "NO2_Average": 2.886308252006003e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06942697504351789,
+      "SO2_Average": 0.0001348702530441779
+    },
+    "co": {
+      "CO_Sum": 21.716351911572527,
+      "CO_Average": 0.04218662667751736
+    },
+    "lst": {
+      "LST_Sum": 1084114.5071672508,
+      "LST_Average": 19.039639019771457
+    }
+  },
+  "PRK.9.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Byeokseong County",
+    "no2": {
+      "NO2_Sum": 0.012553787431613658,
+      "NO2_Average": 2.7653902859895327e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06155822488646421,
+      "SO2_Average": 0.0001356025168110606
+    },
+    "co": {
+      "CO_Sum": 18.902477241919645,
+      "CO_Average": 0.04163900912827842
+    },
+    "lst": {
+      "LST_Sum": 1500751.96656176,
+      "LST_Average": 26.679670397061514
+    }
+  },
+  "PRK.9.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Ryongyeon County",
+    "no2": {
+      "NO2_Sum": 0.012261459152162443,
+      "NO2_Average": 2.5837062213786904e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06946575463524433,
+      "SO2_Average": 0.00014637662630241955
+    },
+    "co": {
+      "CO_Sum": 20.083561620873333,
+      "CO_Average": 0.04231961503386108
+    },
+    "lst": {
+      "LST_Sum": 1534887.4418205232,
+      "LST_Average": 26.095624745382484
+    }
+  },
+  "PRK.9.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Samcheon County",
+    "no2": {
+      "NO2_Sum": 0.009556506576455882,
+      "NO2_Average": 2.6774808295294735e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05422254429971884,
+      "SO2_Average": 0.00015191725316077905
+    },
+    "co": {
+      "CO_Sum": 14.916578479793184,
+      "CO_Average": 0.04179231458932332
+    },
+    "lst": {
+      "LST_Sum": 1239339.1414023102,
+      "LST_Average": 28.018083078248388
+    }
+  },
+  "PRK.9.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Sincheon County",
+    "no2": {
+      "NO2_Sum": 0.013914442635776528,
+      "NO2_Average": 2.818859383762215e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07720943840497164,
+      "SO2_Average": 0.00015641485301270136
+    },
+    "co": {
+      "CO_Sum": 20.628203644082745,
+      "CO_Average": 0.04178967633440927
+    },
+    "lst": {
+      "LST_Sum": 1705446.6974262586,
+      "LST_Average": 27.88833657724597
+    }
+  },
+  "PRK.9.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Sinwon County",
+    "no2": {
+      "NO2_Sum": 0.014070399922152189,
+      "NO2_Average": 2.8240249822109296e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.054900615469668346,
+      "SO2_Average": 0.00011018927001570573
+    },
+    "co": {
+      "CO_Sum": 20.4802228686606,
+      "CO_Average": 0.04110520052190422
+    },
+    "lst": {
+      "LST_Sum": 1406351.8076137484,
+      "LST_Average": 24.409406902493696
+    }
+  },
+  "PRK.9.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Songhwa County",
+    "no2": {
+      "NO2_Sum": 0.005542987112440299,
+      "NO2_Average": 2.766124021355166e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.03254831864284828,
+      "SO2_Average": 0.00016242629511196524
+    },
+    "co": {
+      "CO_Sum": 8.372110719033916,
+      "CO_Average": 0.041779452305400276
+    },
+    "lst": {
+      "LST_Sum": 690523.3188440881,
+      "LST_Average": 27.80639596259956
+    }
+  },
+  "PRK.9.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Taetan County",
+    "no2": {
+      "NO2_Sum": 0.009216059119418283,
+      "NO2_Average": 2.65631507759705e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0378968018815742,
+      "SO2_Average": 0.0001092287331562689
+    },
+    "co": {
+      "CO_Sum": 14.498516649873546,
+      "CO_Average": 0.04178860821183825
+    },
+    "lst": {
+      "LST_Sum": 1188612.1244071703,
+      "LST_Average": 27.63698302048204
+    }
+  },
+  "PRK.9.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Euncheon County",
+    "no2": {
+      "NO2_Sum": 0.014183896162209485,
+      "NO2_Average": 3.0096387173614066e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06643566402744426,
+      "SO2_Average": 0.00014096785846708006
+    },
+    "co": {
+      "CO_Sum": 20.08057255477702,
+      "CO_Average": 0.04260836933413331
+    },
+    "lst": {
+      "LST_Sum": 1465511.941041775,
+      "LST_Average": 25.10204531719478
+    }
+  },
+  "PRK.9.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Eunryul County",
+    "no2": {
+      "NO2_Sum": 0.011377024048991978,
+      "NO2_Average": 2.716627774077604e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.061966652760569986,
+      "SO2_Average": 0.00014796517018077522
+    },
+    "co": {
+      "CO_Sum": 17.61365677708735,
+      "CO_Average": 0.04205822981269453
+    },
+    "lst": {
+      "LST_Sum": 1382938.491273351,
+      "LST_Average": 26.635202998156466
+    }
+  },
+  "PRK.9.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Yeonan County",
+    "no2": {
+      "NO2_Sum": 0.015401361306070002,
+      "NO2_Average": 3.149916292817551e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06907967854268018,
+      "SO2_Average": 0.00014128309869493707
+    },
+    "co": {
+      "CO_Sum": 20.888554592105095,
+      "CO_Average": 0.04272167708782252
+    },
+    "lst": {
+      "LST_Sum": 937859.6544708232,
+      "LST_Average": 18.095240796392954
+    }
+  },
+  "PRK.9.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Seungho County",
+    "no2": {
+      "NO2_Sum": 0.006286100566193922,
+      "NO2_Average": 3.704200315153326e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.023044846750857786,
+      "SO2_Average": 0.0001357959957819646
+    },
+    "co": {
+      "CO_Sum": 7.530668311044833,
+      "CO_Average": 0.044375847375246864
+    },
+    "lst": {
+      "LST_Sum": 546273.3180703965,
+      "LST_Average": 26.06926731873373
+    }
+  },
+  "PRK.9.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Anak County",
+    "no2": {
+      "NO2_Sum": 0.011517779662122817,
+      "NO2_Average": 2.8633037424726487e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.048599394486497326,
+      "SO2_Average": 0.00012081740769248668
+    },
+    "co": {
+      "CO_Sum": 17.031291055858432,
+      "CO_Average": 0.04233954881056692
+    },
+    "lst": {
+      "LST_Sum": 1341767.1434420543,
+      "LST_Average": 26.908041009126705
+    }
+  },
+  "PRK.9.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Jaeryeong County",
+    "no2": {
+      "NO2_Sum": 0.010288112236609106,
+      "NO2_Average": 2.9657452835045866e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0482150350281685,
+      "SO2_Average": 0.00013898906761531293
+    },
+    "co": {
+      "CO_Sum": 14.714805652508598,
+      "CO_Average": 0.04241824394792721
+    },
+    "lst": {
+      "LST_Sum": 1121030.9723926128,
+      "LST_Average": 26.080420410008976
+    }
+  },
+  "PRK.9.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Jangyeon County",
+    "no2": {
+      "NO2_Sum": 0.010574250175232102,
+      "NO2_Average": 2.5915536196951255e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05108226092816463,
+      "SO2_Average": 0.00012519319669651203
+    },
+    "co": {
+      "CO_Sum": 17.11822234194311,
+      "CO_Average": 0.041953604594034376
+    },
+    "lst": {
+      "LST_Sum": 1380031.6644822336,
+      "LST_Average": 27.29892132893355
+    }
+  },
+  "PRK.9.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Cheongdan County",
+    "no2": {
+      "NO2_Sum": 0.015175910675570874,
+      "NO2_Average": 3.0107419942199194e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05552305911540733,
+      "SO2_Average": 0.00011015194362958626
+    },
+    "co": {
+      "CO_Sum": 21.27863891261825,
+      "CO_Average": 0.042214594645175664
+    },
+    "lst": {
+      "LST_Sum": 471548.60792859073,
+      "LST_Average": 20.92988964245714
+    }
+  },
+  "PRK.9.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Haeju City",
+    "no2": {
+      "NO2_Sum": 0.00692735334494553,
+      "NO2_Average": 3.0781799065312875e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.031678294555959226,
+      "SO2_Average": 0.000140762979625518
+    },
+    "co": {
+      "CO_Sum": 9.3700838591438,
+      "CO_Average": 0.0416361089459576
+    },
+    "lst": {
+      "LST_Sum": 626565.1225581913,
+      "LST_Average": 25.189476888746572
+    }
+  },
+  "PRK.9.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Gangryeong County",
+    "no2": {
+      "NO2_Sum": 0.016411939451399682,
+      "NO2_Average": 2.8786934654745623e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.07830531251206803,
+      "SO2_Average": 0.00013734939256140698
+    },
+    "co": {
+      "CO_Sum": 23.9726438008093,
+      "CO_Average": 0.04204859106621524
+    },
+    "lst": {
+      "LST_Sum": 1804526.5145247406,
+      "LST_Average": 26.018011274563666
+    }
+  },
+  "PRK.9.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Gwail County",
+    "no2": {
+      "NO2_Sum": 0.009386178982763001,
+      "NO2_Average": 2.6816151931035432e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05155329885408355,
+      "SO2_Average": 0.00014728688821680932
+    },
+    "co": {
+      "CO_Sum": 14.74371882906191,
+      "CO_Average": 0.04212255113339074
+    },
+    "lst": {
+      "LST_Sum": 1184859.980487684,
+      "LST_Average": 27.314557509225413
+    }
+  },
+  "PRK.9.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Ongjin County",
+    "no2": {
+      "NO2_Sum": 0.01824546785772773,
+      "NO2_Average": 2.7275944914088037e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09816010386303461,
+      "SO2_Average": 0.00014674381641549935
+    },
+    "co": {
+      "CO_Sum": 28.006842107655324,
+      "CO_Average": 0.04186864861469794
+    },
+    "lst": {
+      "LST_Sum": 2230617.958837151,
+      "LST_Average": 26.898179900057823
+    }
+  },
+  "PRK.9.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Baecheon County",
+    "no2": {
+      "NO2_Sum": 0.014913895018259366,
+      "NO2_Average": 3.159172319266444e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06478470956519436,
+      "SO2_Average": 0.00013723179687097267
+    },
+    "co": {
+      "CO_Sum": 20.23478704407901,
+      "CO_Average": 0.04286283297397552
+    },
+    "lst": {
+      "LST_Sum": 992406.8127449431,
+      "LST_Average": 17.097388970797144
+    }
+  },
+  "PRK.10.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Ryonggang County",
+    "no2": {
+      "NO2_Sum": 0.005073046778419682,
+      "NO2_Average": 3.103190271540334e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.024621270759903953,
+      "SO2_Average": 0.000150608680014765
+    },
+    "co": {
+      "CO_Sum": 7.025734617602403,
+      "CO_Average": 0.04297652331634833
+    },
+    "lst": {
+      "LST_Sum": 562720.3739039632,
+      "LST_Average": 27.79989614694152
+    }
+  },
+  "PRK.10.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Anju City",
+    "no2": {
+      "NO2_Sum": 0.012999651011631374,
+      "NO2_Average": 3.2912469424497855e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06392061781781504,
+      "SO2_Average": 0.00016183398905412913
+    },
+    "co": {
+      "CO_Sum": 17.416504931305795,
+      "CO_Average": 0.04409504420698157
+    },
+    "lst": {
+      "LST_Sum": 918643.2481557542,
+      "LST_Average": 18.764913305966605
+    }
+  },
+  "PRK.10.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Cheongnamgu",
+    "no2": {
+      "NO2_Sum": 0.0004944902080106256,
+      "NO2_Average": 2.8769108611158924e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0013248939243524333,
+      "SO2_Average": 7.708143981516555e-05
+    },
+    "co": {
+      "CO_Sum": 0.7615385756330061,
+      "CO_Average": 0.04430580351047607
+    },
+    "lst": {
+      "LST_Sum": 58215.73249285584,
+      "LST_Average": 27.32997123530312
+    }
+  },
+  "PRK.10.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Jeungsan County",
+    "no2": {
+      "NO2_Sum": 0.009963015126785879,
+      "NO2_Average": 2.9309070595168535e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04600433130484776,
+      "SO2_Average": 0.00013533495400124798
+    },
+    "co": {
+      "CO_Sum": 14.735753256959931,
+      "CO_Average": 0.04334945064171088
+    },
+    "lst": {
+      "LST_Sum": 1055955.0366823575,
+      "LST_Average": 25.066299811966903
+    }
+  },
+  "PRK.10.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Hoechang County",
+    "no2": {
+      "NO2_Sum": 0.018012930264433152,
+      "NO2_Average": 2.513913590800128e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0988184780719085,
+      "SO2_Average": 0.0001379126612940189
+    },
+    "co": {
+      "CO_Sum": 28.277187486253503,
+      "CO_Average": 0.0394640987822272
+    },
+    "lst": {
+      "LST_Sum": 1138339.9453856635,
+      "LST_Average": 15.421359734116336
+    }
+  },
+  "PRK.10.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Gaecheon City",
+    "no2": {
+      "NO2_Sum": 0.02131903948200681,
+      "NO2_Average": 3.055299253597856e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10694711657103455,
+      "SO2_Average": 0.0001532693092058416
+    },
+    "co": {
+      "CO_Sum": 30.036407189117703,
+      "CO_Average": 0.04304612904494422
+    },
+    "lst": {
+      "LST_Sum": 1496697.796943736,
+      "LST_Average": 17.309257927915276
+    }
+  },
+  "PRK.10.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daedong County",
+    "no2": {
+      "NO2_Sum": 0.00993798965943899,
+      "NO2_Average": 3.222721896301829e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.04428716755149852,
+      "SO2_Average": 0.0001436157910044144
+    },
+    "co": {
+      "CO_Sum": 13.564489249205907,
+      "CO_Average": 0.04398734353083878
+    },
+    "lst": {
+      "LST_Sum": 1034789.9145908683,
+      "LST_Average": 27.080868001487648
+    }
+  },
+  "PRK.10.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Maengsan County",
+    "no2": {
+      "NO2_Sum": 0.022523043863857554,
+      "NO2_Average": 3.0310772920439717e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10329564001587171,
+      "SO2_Average": 0.00013901188077055618
+    },
+    "co": {
+      "CO_Sum": 29.437701170366392,
+      "CO_Average": 0.039616291690776656
+    },
+    "lst": {
+      "LST_Sum": 697604.3443608199,
+      "LST_Average": 10.705514183629234
+    }
+  },
+  "PRK.10.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Mundeok County",
+    "no2": {
+      "NO2_Sum": 0.009671270949908712,
+      "NO2_Average": 3.0118267433126783e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.044645638250349604,
+      "SO2_Average": 0.0001390354255930919
+    },
+    "co": {
+      "CO_Sum": 14.166777078016082,
+      "CO_Average": 0.04411817049807774
+    },
+    "lst": {
+      "LST_Sum": 877918.3164901035,
+      "LST_Average": 22.062075077062964
+    }
+  },
+  "PRK.10.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Nyeongwon County",
+    "no2": {
+      "NO2_Sum": 0.01941129385095277,
+      "NO2_Average": 1.5473113428465455e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.12004359705688572,
+      "SO2_Average": 9.568904617509693e-05
+    },
+    "co": {
+      "CO_Sum": 46.56721452531937,
+      "CO_Average": 0.037119616957557125
+    },
+    "lst": {
+      "LST_Sum": 1347625.7641960827,
+      "LST_Average": 9.382916266012709
+    }
+  },
+  "PRK.10.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Oncheon County",
+    "no2": {
+      "NO2_Sum": 0.010573448448570225,
+      "NO2_Average": 2.9370690134917287e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0479746788645807,
+      "SO2_Average": 0.00013326299684605748
+    },
+    "co": {
+      "CO_Sum": 15.653149262990194,
+      "CO_Average": 0.04348097017497275
+    },
+    "lst": {
+      "LST_Sum": 1141346.1801114015,
+      "LST_Average": 25.595278850618115
+    }
+  },
+  "PRK.10.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Bukchang County",
+    "no2": {
+      "NO2_Sum": 0.03795727833968271,
+      "NO2_Average": 5.404845811761701e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.1339872080572783,
+      "SO2_Average": 0.00019078823139458996
+    },
+    "co": {
+      "CO_Sum": 30.09994083088102,
+      "CO_Average": 0.04286016970926536
+    },
+    "lst": {
+      "LST_Sum": 1238793.2357940853,
+      "LST_Average": 15.54240176312376
+    }
+  },
+  "PRK.10.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Pyeongseong City",
+    "no2": {
+      "NO2_Sum": 0.012656416164871762,
+      "NO2_Average": 3.464830989771329e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.047434045669725936,
+      "SO2_Average": 0.00012985583696501353
+    },
+    "co": {
+      "CO_Sum": 16.098298051227054,
+      "CO_Average": 0.04407083430559115
+    },
+    "lst": {
+      "LST_Sum": 1021136.9197355119,
+      "LST_Average": 22.55981850014504
+    }
+  },
+  "PRK.10.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Pyeongwon County",
+    "no2": {
+      "NO2_Sum": 0.014602467177785705,
+      "NO2_Average": 3.1178078809817855e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.06374915280873973,
+      "SO2_Average": 0.00013611234910725556
+    },
+    "co": {
+      "CO_Sum": 20.385580731601816,
+      "CO_Average": 0.04352574362232976
+    },
+    "lst": {
+      "LST_Sum": 1430710.6406391505,
+      "LST_Average": 24.653239641219503
+    }
+  },
+  "PRK.10.23_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sinyang County",
+    "no2": {
+      "NO2_Sum": 0.020538370749968258,
+      "NO2_Average": 2.6403991596968545e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10121277024665976,
+      "SO2_Average": 0.0001301184581597273
+    },
+    "co": {
+      "CO_Sum": 30.286487408079104,
+      "CO_Average": 0.03893610495008959
+    },
+    "lst": {
+      "LST_Sum": 1004785.1007943873,
+      "LST_Average": 12.0105382852867
+    }
+  },
+  "PRK.10.22_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Seongcheon County",
+    "no2": {
+      "NO2_Sum": 0.02315406091230634,
+      "NO2_Average": 3.4008510544421555e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.08897419097934256,
+      "SO2_Average": 0.00013068462260519057
+    },
+    "co": {
+      "CO_Sum": 28.905417379918045,
+      "CO_Average": 0.04245605967259809
+    },
+    "lst": {
+      "LST_Sum": 1280240.6150801368,
+      "LST_Average": 17.137465029812738
+    }
+  },
+  "PRK.10.24_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sukcheon County",
+    "no2": {
+      "NO2_Sum": 0.013431666366141952,
+      "NO2_Average": 3.06730452371955e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.058855365364202245,
+      "SO2_Average": 0.00013440426787390364
+    },
+    "co": {
+      "CO_Sum": 19.305845530497887,
+      "CO_Average": 0.04408753591378567
+    },
+    "lst": {
+      "LST_Sum": 1394116.8190389914,
+      "LST_Average": 25.694096162105104
+    }
+  },
+  "PRK.10.26_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Suncheon City",
+    "no2": {
+      "NO2_Sum": 0.012990667721319968,
+      "NO2_Average": 3.976448597864008e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.05314830555866333,
+      "SO2_Average": 0.00016268717640337003
+    },
+    "co": {
+      "CO_Sum": 14.574895731893537,
+      "CO_Average": 0.04461381427067499
+    },
+    "lst": {
+      "LST_Sum": 880941.5831517056,
+      "LST_Average": 21.773300319008644
+    }
+  },
+  "PRK.10.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daean County",
+    "no2": {
+      "NO2_Sum": 0.0029522108694661517,
+      "NO2_Average": 3.3154838884606225e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.013572813523869144,
+      "SO2_Average": 0.00015242964188261397
+    },
+    "co": {
+      "CO_Sum": 3.8952959202229827,
+      "CO_Average": 0.043746166636873994
+    },
+    "lst": {
+      "LST_Sum": 321572.7101765293,
+      "LST_Average": 29.109247427241996
+    }
+  },
+  "PRK.10.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daeheung County",
+    "no2": {
+      "NO2_Sum": 0.01586994444866411,
+      "NO2_Average": 1.2169068306543496e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.15975287090985932,
+      "SO2_Average": 0.00012249845010844684
+    },
+    "co": {
+      "CO_Sum": 44.14867495396072,
+      "CO_Average": 0.03385318977618464
+    },
+    "lst": {
+      "LST_Sum": 2025631.6510522214,
+      "LST_Average": 12.5368517903514
+    }
+  },
+  "PRK.10.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Deokcheon City",
+    "no2": {
+      "NO2_Sum": 0.02054117664725197,
+      "NO2_Average": 2.7972999193863082e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.09587596506256836,
+      "SO2_Average": 0.00013056400514256149
+    },
+    "co": {
+      "CO_Sum": 30.5683556209854,
+      "CO_Average": 0.04162802364381301
+    },
+    "lst": {
+      "LST_Sum": 1249873.6301251485,
+      "LST_Average": 13.792008622917828
+    }
+  },
+  "PRK.10.27_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Yangdeok County",
+    "no2": {
+      "NO2_Sum": 0.017185411948152228,
+      "NO2_Average": 2.135697320937862e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.10155513701705819,
+      "SO2_Average": 0.00012620647948920931
+    },
+    "co": {
+      "CO_Sum": 30.858774431067886,
+      "CO_Average": 0.03834938730516936
+    },
+    "lst": {
+      "LST_Sum": 1321796.9738337395,
+      "LST_Average": 13.257341964388573
+    }
+  },
+  "PRK.10.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Nampo City",
+    "no2": {
+      "NO2_Sum": 0.011753954483716099,
+      "NO2_Average": 3.123673458201e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.056419566015048404,
+      "SO2_Average": 0.0001499378793142199
+    },
+    "co": {
+      "CO_Sum": 16.24962450771507,
+      "CO_Average": 0.04318420736680815
+    },
+    "lst": {
+      "LST_Sum": 1146192.6941032964,
+      "LST_Average": 24.575804784420875
+    }
+  },
+  "PRK.10.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Ryongseong District",
+    "no2": {
+      "NO2_Sum": 0.005073482372386892,
+      "NO2_Average": 3.6107675270964476e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.016878084616827074,
+      "SO2_Average": 0.0001201203342810746
+    },
+    "co": {
+      "CO_Sum": 6.195871890831747,
+      "CO_Average": 0.044095655377116814
+    },
+    "lst": {
+      "LST_Sum": 448783.8865396076,
+      "LST_Average": 25.776782194001772
+    }
+  },
+  "PRK.10.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Samseok District",
+    "no2": {
+      "NO2_Sum": 0.0058567367851692816,
+      "NO2_Average": 3.562237042857881e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.021006920666264414,
+      "SO2_Average": 0.00012777017936547227
+    },
+    "co": {
+      "CO_Sum": 7.361016552396154,
+      "CO_Average": 0.04477183591797302
+    },
+    "lst": {
+      "LST_Sum": 522694.6845865178,
+      "LST_Average": 25.673334076107448
+    }
+  },
+  "PRK.10.25_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sunan District",
+    "no2": {
+      "NO2_Sum": 0.004939596291133972,
+      "NO2_Average": 3.2799444164236195e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.018193296951680177,
+      "SO2_Average": 0.00012080542464595069
+    },
+    "co": {
+      "CO_Sum": 6.643560105144099,
+      "CO_Average": 0.04411394492127555
+    },
+    "lst": {
+      "LST_Sum": 436781.6076248607,
+      "LST_Average": 23.40186618208513
+    }
+  },
+  "PRK.10.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Dongdaewon District",
+    "no2": {
+      "NO2_Sum": 0.0003013558996459499,
+      "NO2_Average": 5.556453681107536e-05
+    },
+    "so2": {
+      "SO2_Sum": 0.0009340185607420983,
+      "SO2_Average": 0.00017221600360754522
+    },
+    "co": {
+      "CO_Sum": 0.2529704691391921,
+      "CO_Average": 0.04664314506904843
+    },
+    "lst": {
+      "LST_Sum": 18702.89554261069,
+      "LST_Average": 27.752817118516624
+    }
+  }
+}

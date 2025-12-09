@@ -1,0 +1,174 @@
+{
+    "1 North_Hamgyong_Province cheongjin": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "cheongjin",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.4922369541145599,
+          "Agricultural": 2.3602878633524256,
+          "Commercial": 0.543349105649213,
+          "Factory": 0.13523680742866873,
+          "Mining": 14.768695570248383,
+          "Power station": 0.459118618939101,
+          "Transportation": 7.065391731080581,
+          "Sports": 0.5053079181851672,
+          "Religious": 2.1312787850874884,
+          "Water": 1.9694823856812036,
+          "Others": 20.07074489092338
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.009466095271433845,
+          "Agricultural": 0.045390151218315876,
+          "Commercial": 0.010449021262484866,
+          "Factory": 0.0026007078351667065,
+          "Mining": 0.28401337635093044,
+          "Power station": 0.008829204210367326,
+          "Transportation": 0.1358729179053958,
+          "Sports": 0.00971745996509937,
+          "Religious": 0.0409861304824517,
+          "Water": 0.037874661263100066,
+          "Others": 0.3859758632869881
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 52.0
+      }
+    }
+  },
+    "2 pyeongyang pyeongyang": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "pyeongyang",
+        "ADM2": "pyeongyang",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.609839285081307,
+          "Agricultural": 4.172216187073559,
+          "Commercial": 8.208845187941051,
+          "Factory": 3.0122277370539905,
+          "Mining": 25.041224669432268,
+          "Power station": 5.096551154187182,
+          "Transportation": 25.821129269783114,
+          "Sports": 7.71214379705998,
+          "Religious": 2.6001611243674176,
+          "Water": 6.69329568429248,
+          "Others": 23.740246906549146
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.013415327375677558,
+          "Agricultural": 0.03476846822561299,
+          "Commercial": 0.0684070432328421,
+          "Factory": 0.025101897808783254,
+          "Mining": 0.2086768722452689,
+          "Power station": 0.042471259618226516,
+          "Transportation": 0.21517607724819263,
+          "Sports": 0.06426786497549983,
+          "Religious": 0.02166800936972848,
+          "Water": 0.05577746403577066,
+          "Others": 0.19783539088790955
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 120.0
+      }
+    }
+  },
+    "3 North_Hamgyong_Province rason": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "rason",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.2287882929394982,
+          "Agricultural": 0.5686922353091859,
+          "Commercial": 0.5287109096703659,
+          "Factory": 0.7003682065235353,
+          "Mining": 14.964558509454946,
+          "Power station": 1.3797811732874834,
+          "Transportation": 3.1373569120091815,
+          "Sports": 1.0396202206788985,
+          "Religious": 0.9457551227128533,
+          "Water": 1.9050210988141316,
+          "Others": 18.70193246449344
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.005084184287544404,
+          "Agricultural": 0.01263760522909302,
+          "Commercial": 0.011749131326008131,
+          "Factory": 0.015563737922745229,
+          "Mining": 0.33254574465455433,
+          "Power station": 0.030661803850832964,
+          "Transportation": 0.06971904248909293,
+          "Sports": 0.023102671570642188,
+          "Religious": 0.021016780504730073,
+          "Water": 0.04233380219586959,
+          "Others": 0.4155984992109653
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 45.0
+      }
+    }
+  },
+    "4 North_Pyongan_Province shinuiju": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Pyongan_Province",
+        "ADM2": "shinuiju",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.9250720845739124,
+          "Agricultural": 4.163431990272784,
+          "Commercial": 1.8015391800613543,
+          "Factory": 0.17922364482592457,
+          "Mining": 3.358995493967086,
+          "Power station": 0.5236553050053772,
+          "Transportation": 4.496584981689011,
+          "Sports": 2.889453238196438,
+          "Religious": 0.9276946856371069,
+          "Water": 9.245477230953838,
+          "Others": 12.717834482900798
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.021513304292416567,
+          "Agricultural": 0.09682399977378567,
+          "Commercial": 0.04189626000142684,
+          "Factory": 0.00416799174013778,
+          "Mining": 0.07811617427830432,
+          "Power station": 0.01217803034896226,
+          "Transportation": 0.10457174376020957,
+          "Sports": 0.06719658693480089,
+          "Religious": 0.02157429501481644,
+          "Water": 0.21501109839427532,
+          "Others": 0.2957635926256
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 43.0
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+    "1": {
+        "ADM0": "SVK",
+        "ADM1": "Bratislavsk\u00fd",
+        "ADM2": "Bratislavsk\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 51618.5703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.348291661401736,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            }
+        }
+    },
+    "2": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Trnavsk\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38185.703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9641150080793799,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            }
+        }
+    },
+    "3": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Tren\u010diansky",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 27116.33984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6884940927700901,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            }
+        }
+    },
+    "4": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Nitriansky",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 36653.30078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0838720401351392,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            }
+        }
+    },
+    "5": {
+        "ADM0": "SVK",
+        "ADM1": "Central Slovakia",
+        "ADM2": "\u017dilinsk\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 31048.021484375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7832695447507505,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            }
+        }
+    },
+    "6": {
+        "ADM0": "SVK",
+        "ADM1": "Central Slovakia",
+        "ADM2": "Banskobystrick\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24572.361328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.669619613258257,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            }
+        }
+    },
+    "7": {
+        "ADM0": "SVK",
+        "ADM1": "Eastern Slovakia",
+        "ADM2": "Pre\u0161ovsk\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 23646.72265625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5214041862817517,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            }
+        }
+    },
+    "8": {
+        "ADM0": "SVK",
+        "ADM1": "Eastern Slovakia",
+        "ADM2": "Ko\u0161ick\u00fd",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 29737.490234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7318196194013781,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            }
+        }
+    }
+}

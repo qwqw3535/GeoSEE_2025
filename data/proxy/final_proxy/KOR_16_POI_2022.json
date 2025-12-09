@@ -1,0 +1,5727 @@
+{
+  "11110": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Jongno-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11140": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11170": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Yongsan-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11200": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Seongdong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11215": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gwangjin-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11230": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Dongdaemun-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11260": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Jungnang-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11290": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Seongbuk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11305": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gangbuk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11320": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Dobong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11350": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Nowon-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11380": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Eunpyeong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11410": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Seodaemun-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11440": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Mapo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11470": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Yangcheon-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11500": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gangseo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11530": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Guro-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11545": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Geumcheon-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11560": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Yeongdeungpo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11590": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Dongjak-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11620": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gwanak-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11650": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Seocho-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11680": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gangnam-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11710": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Songpa-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "11740": {
+    "ADM0": "KOR",
+    "ADM1": "Seoul_teugbyeol-si",
+    "ADM2": "Gangdong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26110": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26140": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Seo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26170": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26200": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Yeongdo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26230": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Busanjin-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26260": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Dongnae-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26290": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Nam-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26320": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Buk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26350": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Haeundae-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26380": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Saha-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26410": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Geumjeong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26440": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Gangseo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26470": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Yeonje-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26500": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Suyeong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26530": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Sasang-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "26710": {
+    "ADM0": "KOR",
+    "ADM1": "Busan_Gwangyeog-si",
+    "ADM2": "Gijang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 10,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27110": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27140": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27170": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Seo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27200": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Nam-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27230": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Buk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27260": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Suseong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27290": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Dalseo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "27710": {
+    "ADM0": "KOR",
+    "ADM1": "Daegu_Gwangyeog-si",
+    "ADM2": "Dalseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28110": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28140": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28177": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Michuhol-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28185": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Yeonsu-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28200": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Namdong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28237": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Bupyeong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28245": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Gyeyang-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28260": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Seo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28710": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Ganghwa-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "28720": {
+    "ADM0": "KOR",
+    "ADM1": "Incheon_Gwangyeog-si",
+    "ADM2": "Ongjin-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "29110": {
+    "ADM0": "KOR",
+    "ADM1": "Gwangju_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "29140": {
+    "ADM0": "KOR",
+    "ADM1": "Gwangju_Gwangyeog-si",
+    "ADM2": "Seo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "29155": {
+    "ADM0": "KOR",
+    "ADM1": "Gwangju_Gwangyeog-si",
+    "ADM2": "Nam-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "29170": {
+    "ADM0": "KOR",
+    "ADM1": "Gwangju_Gwangyeog-si",
+    "ADM2": "Buk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "29200": {
+    "ADM0": "KOR",
+    "ADM1": "Gwangju_Gwangyeog-si",
+    "ADM2": "Gwangsan_gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "30110": {
+    "ADM0": "KOR",
+    "ADM1": "Daejeon_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "30140": {
+    "ADM0": "KOR",
+    "ADM1": "Daejeon_Gwangyeog-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "30170": {
+    "ADM0": "KOR",
+    "ADM1": "Daejeon_Gwangyeog-si",
+    "ADM2": "Seo-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "30200": {
+    "ADM0": "KOR",
+    "ADM1": "Daejeon_Gwangyeog-si",
+    "ADM2": "Yuseong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "30230": {
+    "ADM0": "KOR",
+    "ADM1": "Daejeon_Gwangyeog-si",
+    "ADM2": "Daedeok-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "31110": {
+    "ADM0": "KOR",
+    "ADM1": "Ulsan_Gwangyeog-si",
+    "ADM2": "Jung-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "31140": {
+    "ADM0": "KOR",
+    "ADM1": "Ulsan_Gwangyeog-si",
+    "ADM2": "Nam-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "31170": {
+    "ADM0": "KOR",
+    "ADM1": "Ulsan_Gwangyeog-si",
+    "ADM2": "Dong-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "31200": {
+    "ADM0": "KOR",
+    "ADM1": "Ulsan_Gwangyeog-si",
+    "ADM2": "Buk-gu",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "31710": {
+    "ADM0": "KOR",
+    "ADM1": "Ulsan_Gwangyeog-si",
+    "ADM2": "Ulju-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 8,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "36110": {
+    "ADM0": "KOR",
+    "ADM1": "Sejong_teugbyeoljachi-si",
+    "ADM2": "Sejong_teugbyeoljachi-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41110": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Suwon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 6,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41130": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Seongnam-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41150": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Uijeongbu-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41170": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Anyang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 2,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41190": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Bucheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41210": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gwangmyeong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41220": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Pyeongtaek-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 14,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41250": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Dongducheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41270": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Ansan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41280": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Goyang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41290": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gwacheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41310": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Guri-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41360": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Namyangju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41370": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Osan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41390": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Siheung-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41410": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gunpo-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41430": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Uiwang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41450": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Hanam-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41460": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Yongin-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41480": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Paju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 17,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41500": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Icheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 9,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41550": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Anseong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 21,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41570": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gimpo-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 10,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41590": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Hwaseong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 13,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41610": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gwangju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41630": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Yangju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 8,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41650": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Pocheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41670": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Yeoju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41800": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Yeoncheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41820": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Gapyeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "41830": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeonggi-do",
+    "ADM2": "Yangpyeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42110": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Chuncheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 5,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42130": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Wonju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 7,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42150": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Gangneung-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42170": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Donghae-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42190": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Taebaek-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42210": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Sokcho-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42230": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Samcheok-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42720": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Hongcheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42730": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Hoengseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42750": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Yeongwol-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42760": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Pyeongchang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42770": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Jeongseon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42780": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Cheorwon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42790": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Hwacheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42800": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Yanggu-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42810": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Inje-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42820": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Goseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "42830": {
+    "ADM0": "KOR",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Yangyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43110": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Cheongju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 10,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43130": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Chungju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 12,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43150": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Jecheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 11,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43720": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Boeun-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43730": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Okcheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43740": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Yeongdong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43745": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Jeungpyeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43750": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Jincheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 8,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 12,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43760": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Goesan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43770": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Eumseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 11,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "43800": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongbuk-do",
+    "ADM2": "Danyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44130": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Cheonan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 9,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44150": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Gongju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 11,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44180": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Boryeong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 8,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44200": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Asan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 9,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 7,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44210": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Seosan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 11,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44230": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Nonsan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 9,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44250": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Gyeryong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44270": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Dangjin-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44710": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Geumsan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44760": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Buyeo-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 11,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44770": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Seocheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44790": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Cheongyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44800": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Hongseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44810": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Yesan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 8,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "44825": {
+    "ADM0": "KOR",
+    "ADM1": "Chungcheongnam-do",
+    "ADM2": "Taean-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45110": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Jeonju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 6,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45130": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Gunsan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45140": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Iksan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 8,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45180": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Jeongeup-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45190": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Namwon_si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45210": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Gimje-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45710": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Wanju-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45720": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Jinan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45730": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Muju-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45740": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Jangsu-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45750": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Imsil-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45770": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Sunchang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45790": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Gochang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "45800": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollabuk-do",
+    "ADM2": "Buan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46110": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Mokpo-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46130": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Yeosu-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46150": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Suncheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46170": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Naju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46230": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Gwangyang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46710": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Damyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46720": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Gokseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46730": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Gurye-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46770": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Goheung-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46780": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Boseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46790": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Hwasun-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46800": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Jangheung-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46810": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Gangjin-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46820": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Haenam-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46830": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Yeongam-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46840": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Muan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46860": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Hampyeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46870": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Yeonggwang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46880": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Jangseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46890": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Wando-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46900": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Jindo-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "46910": {
+    "ADM0": "KOR",
+    "ADM1": "Jeollanam-do",
+    "ADM2": "Sinan-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47110": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Pohang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47130": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Gyeongju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 16,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47150": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Gimcheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47170": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Andong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47190": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Gumi-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47210": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Yeongju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 6,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47230": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Yeongcheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47250": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Sangju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47280": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Mungyeong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47290": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Gyeongsan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47720": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Gunwi-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47730": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Uiseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47750": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Cheongsong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47760": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Yeongyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47770": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Yeongdeok-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47820": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Cheongdo-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47830": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Goryeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 6,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47840": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Seongju-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47850": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Chilgok-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 4,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47900": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Yecheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47920": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Bonghwa-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47930": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Uljin-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "47940": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangbuk-do",
+    "ADM2": "Ulleung-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48120": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Changwon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 9,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 1,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48170": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Jinju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 6,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48220": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Tongyeong-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48240": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Sacheon-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 5,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48250": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Gimhae-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 8,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 10,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48270": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Miryang-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48310": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Geoje-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48330": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Yangsan-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 8,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48720": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Uiryeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48730": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Haman-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 10,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 10,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48740": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Changnyeong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 5,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48820": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Goseong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 0,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48840": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Namhae-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48850": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Hadong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48860": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Sancheong-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 4,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 3,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48870": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Hamyang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 6,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48880": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Geochang-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 7,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 1,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "48890": {
+    "ADM0": "KOR",
+    "ADM1": "Gyeongsangnam-do",
+    "ADM2": "Hapcheon-gun",
+    "POI": {
+      "agri-industrial": {
+        "val": 3,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "50110": {
+    "ADM0": "KOR",
+    "ADM1": "Jeju_teugbyeoljachi-do",
+    "ADM2": "Jeju-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 2,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 2,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  },
+  "50130": {
+    "ADM0": "KOR",
+    "ADM1": "Jeju_teugbyeoljachi-do",
+    "ADM2": "Seogwipo-si",
+    "POI": {
+      "agri-industrial": {
+        "val": 1,
+        "desc": "Count of agri-industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "general": {
+        "val": 0,
+        "desc": "Count of general industrial complexes",
+        "type": "count",
+        "weight": null
+      },
+      "urban_high-tech": {
+        "val": 0,
+        "desc": "Count of urban high-tech industrial complexes",
+        "type": "count",
+        "weight": null
+      }
+    }
+  }
+}

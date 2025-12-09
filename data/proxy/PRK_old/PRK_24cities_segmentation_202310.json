@@ -1,0 +1,1466 @@
+{
+    "03005": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hamgyeongnam-do",
+        "ADM2": "Hamju-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012978871663411459,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "bareland": {
+                "val": 0.011871465047200524,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "rangeland": {
+                "val": 0.33583526611328124,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "development": {
+                "val": 0.23699735005696615,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "road": {
+                "val": 0.020687103271484375,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "tree": {
+                "val": 0.026109186808268226,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "water": {
+                "val": 0.14262301127115887,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "agricultural": {
+                "val": 0.19722251892089845,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            },
+            "building": {
+                "val": 0.02735621134440104,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 596.6751447394101
+            }
+        }
+    },
+    "03011": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hamgyeongnam-do",
+        "ADM2": "Geumya-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.006978133629108298,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "bareland": {
+                "val": 0.003976493046201507,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "rangeland": {
+                "val": 0.5048676852522225,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "development": {
+                "val": 0.188891575254243,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "road": {
+                "val": 0.015818760312836747,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "tree": {
+                "val": 0.013771977917901404,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "water": {
+                "val": 0.17215649834994612,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "agricultural": {
+                "val": 0.0774096784920528,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            },
+            "building": {
+                "val": 0.01612919774548761,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 681.3923289175417
+            }
+        }
+    },
+    "10019": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyongannam-do",
+        "ADM2": "Seongcheon-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.011213684082031248,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "bareland": {
+                "val": 0.025332217746310767,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "rangeland": {
+                "val": 0.4145994398328993,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "development": {
+                "val": 0.1524209764268663,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "road": {
+                "val": 0.008381059434678819,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "tree": {
+                "val": 0.008187950981987846,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "water": {
+                "val": 0.3392804463704428,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "agricultural": {
+                "val": 0.03332951863606772,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            },
+            "building": {
+                "val": 0.007254706488715279,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 834.8000041979652
+            }
+        }
+    },
+    "10020": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyongannam-do",
+        "ADM2": "Sukcheon-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.010161384703621032,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "bareland": {
+                "val": 0.007356976705884175,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "rangeland": {
+                "val": 0.517689175075955,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "development": {
+                "val": 0.1969797043573288,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "road": {
+                "val": 0.016337863982669894,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "tree": {
+                "val": 0.03345525832403274,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "water": {
+                "val": 0.1255965459914434,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "agricultural": {
+                "val": 0.06736852252294145,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            },
+            "building": {
+                "val": 0.025054568336123514,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 428.00772430557555
+            }
+        }
+    },
+    "10013": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Nampo-si",
+        "ADM2": "Oncheon-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.006400410721941691,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "bareland": {
+                "val": 0.017209215861995045,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "rangeland": {
+                "val": 0.4375484745676924,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "development": {
+                "val": 0.182931760462319,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "road": {
+                "val": 0.020650258878382243,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "tree": {
+                "val": 0.036723718410584985,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "water": {
+                "val": 0.12141986009551257,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "agricultural": {
+                "val": 0.1525764465332031,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            },
+            "building": {
+                "val": 0.024539854468368896,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 319.58494551617014
+            }
+        }
+    },
+    "07006": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Gangwon-do",
+        "ADM2": "Icheon-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.024770736694335938,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "bareland": {
+                "val": 0.012926101684570312,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "rangeland": {
+                "val": 0.6366564432779949,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "development": {
+                "val": 0.14220428466796872,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "road": {
+                "val": 0.004713694254557291,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "tree": {
+                "val": 0.016199747721354168,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "water": {
+                "val": 0.0965728759765625,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "agricultural": {
+                "val": 0.04263559977213542,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 629.803838770644
+            },
+            "building": {
+                "val": 0.023320515950520832,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 629.803838770644
+            }
+        }
+    },
+    "07008": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Gangwon-do",
+        "ADM2": "Gosan-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0034977948224103,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "bareland": {
+                "val": 0.01176650435836227,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "rangeland": {
+                "val": 0.35352480853045426,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "development": {
+                "val": 0.21803997181080004,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "road": {
+                "val": 0.028126045509620952,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "tree": {
+                "val": 0.036892643681278925,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "water": {
+                "val": 0.13880411783854163,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "agricultural": {
+                "val": 0.1840075740107784,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            },
+            "building": {
+                "val": 0.025340539437753187,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 386.17974879121715
+            }
+        }
+    },
+    "09009": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Gujang-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0062656402587890625,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "bareland": {
+                "val": 0.011060224260602679,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "rangeland": {
+                "val": 0.5438785552978518,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "development": {
+                "val": 0.17459967476981034,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "road": {
+                "val": 0.01715954371861049,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "tree": {
+                "val": 0.024707303728376106,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "water": {
+                "val": 0.18803215026855477,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "agricultural": {
+                "val": 0.013182885306222098,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            },
+            "building": {
+                "val": 0.02111402239118304,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 696.8254881950083
+            }
+        }
+    },
+    "09010": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Guseong-si",
+        "segmentation": {
+            "nodata": {
+                "val": 0.014466397397153018,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "bareland": {
+                "val": 0.020949011450415257,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "rangeland": {
+                "val": 0.41267491246128946,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "development": {
+                "val": 0.14916256741360506,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "road": {
+                "val": 0.01705454920863246,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "tree": {
+                "val": 0.01976525246560036,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "water": {
+                "val": 0.29240475903760205,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "agricultural": {
+                "val": 0.06328266590565176,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            },
+            "building": {
+                "val": 0.010239884660050675,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 524.1773503813192
+            }
+        }
+    },
+    "09023": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Unsan-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.007084556247877039,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "bareland": {
+                "val": 0.02552878338357677,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "rangeland": {
+                "val": 0.4110996412194292,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "development": {
+                "val": 0.18402353922526046,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "road": {
+                "val": 0.01767305014789968,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "tree": {
+                "val": 0.02371929002844769,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "water": {
+                "val": 0.2570040606070256,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "agricultural": {
+                "val": 0.05920924311098845,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            },
+            "building": {
+                "val": 0.014657836029495011,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 869.3038256530001
+            }
+        }
+    },
+    "01016": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Jagang-do",
+        "ADM2": "Dongsin-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.024704456329345703,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "bareland": {
+                "val": 0.019788583119710285,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "rangeland": {
+                "val": 0.42439889907836914,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "development": {
+                "val": 0.15456867218017578,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "road": {
+                "val": 0.012568632761637371,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "tree": {
+                "val": 0.006463209788004557,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "water": {
+                "val": 0.313265323638916,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "agricultural": {
+                "val": 0.035162607828776046,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            },
+            "building": {
+                "val": 0.009079615275065107,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1306.2327290966634
+            }
+        }
+    },
+    "01017": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Jagang-do",
+        "ADM2": "Wusi-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.012457132339477539,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "bareland": {
+                "val": 0.021244406700134277,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "rangeland": {
+                "val": 0.3231532573699951,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "development": {
+                "val": 0.10573232173919678,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "road": {
+                "val": 0.004837751388549805,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "tree": {
+                "val": 0.005261540412902832,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "water": {
+                "val": 0.4875762462615967,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "agricultural": {
+                "val": 0.030350327491760254,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            },
+            "building": {
+                "val": 0.009387016296386719,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 503.6570164048292
+            }
+        }
+    },
+    "05003": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hwanghaenam-do",
+        "ADM2": "Jaeryeong-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.01647346898129112,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "bareland": {
+                "val": 0.008239946867290297,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "rangeland": {
+                "val": 0.5391766062954015,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "development": {
+                "val": 0.19036684538188733,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "road": {
+                "val": 0.019146500972279327,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "tree": {
+                "val": 0.03593310975191886,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "water": {
+                "val": 0.12139256795247395,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "agricultural": {
+                "val": 0.04046403316029331,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            },
+            "building": {
+                "val": 0.02880692063716419,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 394.8848743876371
+            }
+        }
+    },
+    "05018": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hwanghaenam-do",
+        "ADM2": "Euncheon-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.006034264197716347,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "bareland": {
+                "val": 0.015613115750826318,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "rangeland": {
+                "val": 0.5154025004460264,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "development": {
+                "val": 0.17844302837665266,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "road": {
+                "val": 0.01133617987999549,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "tree": {
+                "val": 0.03200927147498497,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "water": {
+                "val": 0.16908917060265174,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "agricultural": {
+                "val": 0.05552335885854868,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            },
+            "building": {
+                "val": 0.01654911041259765,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 476.6553330620163
+            }
+        }
+    },
+    "04015": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hwanghaebuk-do",
+        "ADM2": "Eunpa-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.01647346898129112,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "bareland": {
+                "val": 0.008239946867290297,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "rangeland": {
+                "val": 0.5391766062954015,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "development": {
+                "val": 0.19036684538188733,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "road": {
+                "val": 0.019146500972279327,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "tree": {
+                "val": 0.03593310975191886,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "water": {
+                "val": 0.12139256795247395,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "agricultural": {
+                "val": 0.04046403316029331,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            },
+            "building": {
+                "val": 0.02880692063716419,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 308.64592166309905
+            }
+        }
+    },
+    "04017": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hwanghaebuk-do",
+        "ADM2": "Yeontan-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.007834867997602982,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "bareland": {
+                "val": 0.01745472532330137,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "rangeland": {
+                "val": 0.5089750000924774,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "development": {
+                "val": 0.157924594301166,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "road": {
+                "val": 0.010057796131480824,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "tree": {
+                "val": 0.01900493737423059,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "water": {
+                "val": 0.22129411408395483,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "agricultural": {
+                "val": 0.04740246859463777,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            },
+            "building": {
+                "val": 0.010051496101148201,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 504.6888764858067
+            }
+        }
+    },
+    "02007": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hamgyeongbuk-do",
+        "ADM2": "Gyeongseong-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.005903956866023515,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "bareland": {
+                "val": 0.057655604198725514,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "rangeland": {
+                "val": 0.3013579243361348,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "development": {
+                "val": 0.23073735863271375,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "road": {
+                "val": 0.032994164360894085,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "tree": {
+                "val": 0.017048729790581592,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "water": {
+                "val": 0.1884768707583649,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "agricultural": {
+                "val": 0.1316168813994437,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            },
+            "building": {
+                "val": 0.034208509657118066,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1330.7180103775904
+            }
+        }
+    },
+    "02011": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hamgyeongbuk-do",
+        "ADM2": "Eorang-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.006072556345086348,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "bareland": {
+                "val": 0.03127341019479853,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "rangeland": {
+                "val": 0.24520046836451484,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "development": {
+                "val": 0.08406657168739719,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "road": {
+                "val": 0.01372700741416529,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "tree": {
+                "val": 0.00876814189710115,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "water": {
+                "val": 0.49566959581877046,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "agricultural": {
+                "val": 0.10692797209087174,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            },
+            "building": {
+                "val": 0.008294276187294405,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1931.171779648014
+            }
+        }
+    },
+    "13004": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Yanggang-do",
+        "ADM2": "Kimhyongjik-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.01445562189275568,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "bareland": {
+                "val": 0.012679591323390152,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "rangeland": {
+                "val": 0.22692940451882107,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "development": {
+                "val": 0.12411394986239345,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "road": {
+                "val": 0.005371440540660511,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "tree": {
+                "val": 0.009197581898082388,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "water": {
+                "val": 0.48764847264145367,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "agricultural": {
+                "val": 0.10364474672259706,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            },
+            "building": {
+                "val": 0.01595919059984612,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1195.1554906937504
+            }
+        }
+    },
+    "06001": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Gaeseong-si",
+        "ADM2": "Jangpung-gun",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0036773681640624996,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "bareland": {
+                "val": 0.010251437916475184,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "rangeland": {
+                "val": 0.6938897301169,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "development": {
+                "val": 0.11771706973805146,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "road": {
+                "val": 0.005657981423770679,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "tree": {
+                "val": 0.01926366020651425,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "water": {
+                "val": 0.11568136776194853,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "agricultural": {
+                "val": 0.026931874892290895,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            },
+            "building": {
+                "val": 0.006929509779986215,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 610.5495578078644
+            }
+        }
+    },
+    "11001": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Pyeongyang",
+        "ADM2": "Pyeongyang",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009054039038863836,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "bareland": {
+                "val": 0.001996783649220185,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "rangeland": {
+                "val": 0.5009955331390985,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "development": {
+                "val": 0.2205261249168246,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "road": {
+                "val": 0.03111737148434512,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "tree": {
+                "val": 0.055593226470199306,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "water": {
+                "val": 0.0693687013551301,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "agricultural": {
+                "val": 0.03504192829132083,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            },
+            "building": {
+                "val": 0.08445492678997568,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2714.6123624640654
+            }
+        }
+    },
+    "12001": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Rason",
+        "ADM2": "Rason",
+        "segmentation": {
+            "nodata": {
+                "val": 0.010832811013246192,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "bareland": {
+                "val": 0.08932553804837741,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "rangeland": {
+                "val": 0.2038446817642605,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "development": {
+                "val": 0.21918291923327324,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "road": {
+                "val": 0.013394355773925781,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "tree": {
+                "val": 0.0034422752184745603,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "water": {
+                "val": 0.39217457404503464,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "agricultural": {
+                "val": 0.04891351553109974,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            },
+            "building": {
+                "val": 0.018889329372308198,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 856.1613071263654
+            }
+        }
+    },
+    "14001": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Shinuiju",
+        "ADM2": "Shinuiju",
+        "segmentation": {
+            "nodata": {
+                "val": 0.009533895573145903,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "bareland": {
+                "val": 0.044747688400913296,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "rangeland": {
+                "val": 0.16810124356981743,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "development": {
+                "val": 0.3414259091229506,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "road": {
+                "val": 0.025546758947238107,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "tree": {
+                "val": 0.004115373315945476,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "water": {
+                "val": 0.23840428741884892,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "agricultural": {
+                "val": 0.137888814362002,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            },
+            "building": {
+                "val": 0.03023602928913814,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 108.9894742049771
+            }
+        }
+    },
+    "02001": {
+        "ADM0": "PRK_24cities",
+        "ADM1": "Hamgyeongbuk-do",
+        "ADM2": "Cheongjin",
+        "segmentation": {
+            "nodata": {
+                "val": 0.007556575919690203,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "bareland": {
+                "val": 0.062407598856842696,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "rangeland": {
+                "val": 0.3087704327000425,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "development": {
+                "val": 0.27836293404341933,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "road": {
+                "val": 0.016210320361167246,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "tree": {
+                "val": 0.006956713203543296,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "water": {
+                "val": 0.24899393801241387,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "agricultural": {
+                "val": 0.04472311481808904,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            },
+            "building": {
+                "val": 0.026018372084792022,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1512.6782871780842
+            }
+        }
+    }
+}

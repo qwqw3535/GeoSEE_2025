@@ -1,0 +1,79 @@
+{
+    "3 North_Hamgyong_Province rason": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "rason",
+        "POI":{
+    "production_facilities": {
+      "val": [
+        "가축사육업"
+      ],
+      "desc": "List of production facilities",
+      "type": "default",
+      "weight": null
+    }}
+  },
+    "1 North_Hamgyong_Province cheongjin": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "cheongjin",
+        "POI":{
+    "production_facilities": {
+      "val": [
+        "가축사육업",
+        "금바위광산",
+        "낙산광산(락산광산)",
+        "부윤광산",
+        "삼해광산"
+      ],
+      "desc": "List of production facilities",
+      "type": "default",
+      "weight": null
+    }}
+  },
+    "4 North_Pyongan_Province shinuiju": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Pyongan_Province",
+        "ADM2": "shinuiju",
+        "POI":{
+    "production_facilities": {
+      "val": [
+        "가축사육업",
+        "도립극장",
+        "신의주극장"
+      ],
+      "desc": "List of production facilities",
+      "type": "default",
+      "weight": null
+    }}
+  },
+    "2 pyeongyang pyeongyang": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "pyeongyang",
+        "ADM2": "pyeongyang",
+        "POI":{
+    "production_facilities": {
+      "val": [
+        "가축사육업",
+        "강동청년탄광",
+        "고비탄광",
+        "낙원영화관",
+        "대동문영화관",
+        "동평양대극장",
+        "만수대예술극장",
+        "모란봉극장",
+        "봉화예술극장",
+        "선교영화관",
+        "조선4.26아동영화촬영소",
+        "조선예술영화촬영소",
+        "조선인민군4.25예술영화촬영소",
+        "평양교예극장",
+        "평양국제영화회관",
+        "평양대극장"
+      ],
+      "desc": "List of production facilities",
+      "type": "default",
+      "weight": null
+    }
+  }}
+}

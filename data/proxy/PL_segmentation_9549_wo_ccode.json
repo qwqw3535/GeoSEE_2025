@@ -1,0 +1,4455 @@
+{
+    "922": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ciechanowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006493301776703991,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "bareland": {
+                "val": 0.006716465437617986,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "rangeland": {
+                "val": 0.435126588242469,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "development": {
+                "val": 0.03102218374635501,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "road": {
+                "val": 0.00560473398257362,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "tree": {
+                "val": 0.07461808490450404,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "water": {
+                "val": 0.11681001131905579,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "agricultural": {
+                "val": 0.32116444882439754,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            },
+            "building": {
+                "val": 0.00828815336535615,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            }
+        }
+    },
+    "622": {
+        "ADM0": "PL",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "Olszty\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006840712301496611,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "bareland": {
+                "val": 0.011583612271080634,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "rangeland": {
+                "val": 0.6273073492283542,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "development": {
+                "val": 0.03287318711244516,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "road": {
+                "val": 0.004277181746980607,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "tree": {
+                "val": 0.09683323501321157,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "water": {
+                "val": 0.11463154147650334,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "agricultural": {
+                "val": 0.09942766788110348,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            },
+            "building": {
+                "val": 0.012382154040154273,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            }
+        }
+    },
+    "616": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Grudzi\u0105dzki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001950722055006346,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "bareland": {
+                "val": 0.010000308588725762,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "rangeland": {
+                "val": 0.44708679719742866,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "development": {
+                "val": 0.04260443965845117,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "road": {
+                "val": 0.006339760156090105,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "tree": {
+                "val": 0.0598405564686855,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "water": {
+                "val": 0.12776105334401242,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "agricultural": {
+                "val": 0.2975884247507771,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            },
+            "building": {
+                "val": 0.006827937780822769,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            }
+        }
+    },
+    "621": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Elbl\u0105ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0019105613314505292,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "bareland": {
+                "val": 0.014140643024611451,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "rangeland": {
+                "val": 0.5222911482599262,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "development": {
+                "val": 0.03856498198650425,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "road": {
+                "val": 0.005676402221101011,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "tree": {
+                "val": 0.11048710382334362,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "water": {
+                "val": 0.12024955235610414,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "agricultural": {
+                "val": 0.17633401899345594,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            },
+            "building": {
+                "val": 0.010345588003502727,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            }
+        }
+    },
+    "923": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "P\u0142ocki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008782106315109523,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "bareland": {
+                "val": 0.007023288375409416,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "rangeland": {
+                "val": 0.40714360333862426,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "development": {
+                "val": 0.03932643673373853,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "road": {
+                "val": 0.008045090468851032,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "tree": {
+                "val": 0.06571782185572031,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "water": {
+                "val": 0.11181347657634996,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "agricultural": {
+                "val": 0.3479982910118498,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            },
+            "building": {
+                "val": 0.012053781007953967,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            }
+        }
+    },
+    "924": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ostro\u0142\u0119cki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003951959832232787,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "bareland": {
+                "val": 0.006718032227912628,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "rangeland": {
+                "val": 0.49833522889827153,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "development": {
+                "val": 0.03707306068332727,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "road": {
+                "val": 0.0067955901781898646,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "tree": {
+                "val": 0.08545719992024917,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "water": {
+                "val": 0.11956946132692053,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "agricultural": {
+                "val": 0.23080063980432547,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            },
+            "building": {
+                "val": 0.014855590977576934,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            }
+        }
+    },
+    "926": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "\u017byrardowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004679292241943534,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "bareland": {
+                "val": 0.004632785982207384,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "rangeland": {
+                "val": 0.5022876689760795,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "development": {
+                "val": 0.043154904195128165,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "road": {
+                "val": 0.008805661097671693,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "tree": {
+                "val": 0.07013890619036138,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "water": {
+                "val": 0.07577772704627277,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "agricultural": {
+                "val": 0.2796885004587429,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            },
+            "building": {
+                "val": 0.015045916829340523,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            }
+        }
+    },
+    "912": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski wschodni",
+        "segmentation": {
+            "nodata": {
+                "val": 5.316340375220617e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "bareland": {
+                "val": 0.004451426281326042,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "rangeland": {
+                "val": 0.5936417124052151,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "development": {
+                "val": 0.058783902176495505,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "road": {
+                "val": 0.012077159922698434,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "tree": {
+                "val": 0.1372296729649624,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "water": {
+                "val": 0.06132685864108705,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "agricultural": {
+                "val": 0.10366444923411705,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            },
+            "building": {
+                "val": 0.028771654970344413,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            }
+        }
+    },
+    "913": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski zachodni",
+        "segmentation": {
+            "nodata": {
+                "val": 9.584497683801241e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "bareland": {
+                "val": 0.005525613607235633,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "rangeland": {
+                "val": 0.5136944581821002,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "development": {
+                "val": 0.06166254650314187,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "road": {
+                "val": 0.012524271365372165,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "tree": {
+                "val": 0.14166152622957043,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "water": {
+                "val": 0.07975929604469906,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "agricultural": {
+                "val": 0.14762778137834515,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            },
+            "building": {
+                "val": 0.037448661712699026,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            }
+        }
+    },
+    "22C": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Tyski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00022517436663881197,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "bareland": {
+                "val": 0.006068777504222875,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "rangeland": {
+                "val": 0.4859261747317522,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "development": {
+                "val": 0.0692394822032299,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "road": {
+                "val": 0.013281973539409445,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "tree": {
+                "val": 0.09468583519853487,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "water": {
+                "val": 0.1647130053190258,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "agricultural": {
+                "val": 0.12478949092809562,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            },
+            "building": {
+                "val": 0.041070086209091014,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            }
+        }
+    },
+    "229": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Gliwicki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00016503149532680182,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "bareland": {
+                "val": 0.007375151544690364,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "rangeland": {
+                "val": 0.49763331098025343,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "development": {
+                "val": 0.05955731883223615,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "road": {
+                "val": 0.013667132940098714,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "tree": {
+                "val": 0.08163599096692381,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "water": {
+                "val": 0.11768846447302696,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "agricultural": {
+                "val": 0.19202343995178464,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            },
+            "building": {
+                "val": 0.030254158815658325,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            }
+        }
+    },
+    "22A": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Katowicki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00012572984084745017,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "bareland": {
+                "val": 0.004407465577941719,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "rangeland": {
+                "val": 0.6196675417742996,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "development": {
+                "val": 0.13042235633705684,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "road": {
+                "val": 0.03157262690740394,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "tree": {
+                "val": 0.05513070237478133,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "water": {
+                "val": 0.0585578322362573,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "agricultural": {
+                "val": 0.02462476960027407,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            },
+            "building": {
+                "val": 0.0754909753511378,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            }
+        }
+    },
+    "22B": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Sosnowiecki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00021194632746387147,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "bareland": {
+                "val": 0.00699810100027345,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "rangeland": {
+                "val": 0.5104087413300872,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "development": {
+                "val": 0.06312209727106442,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "road": {
+                "val": 0.014736538183893946,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "tree": {
+                "val": 0.1372086976906713,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "water": {
+                "val": 0.11542788865631295,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "agricultural": {
+                "val": 0.12098017121132251,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            },
+            "building": {
+                "val": 0.03090581832890873,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            }
+        }
+    },
+    "225": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bielski",
+        "segmentation": {
+            "nodata": {
+                "val": 6.779306241278716e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "bareland": {
+                "val": 0.0021614414366640067,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "rangeland": {
+                "val": 0.581088407220356,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "development": {
+                "val": 0.04892740181727245,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "road": {
+                "val": 0.006801091165784397,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "tree": {
+                "val": 0.09341927156037733,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "water": {
+                "val": 0.14938977886882154,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "agricultural": {
+                "val": 0.0818266596647842,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            },
+            "building": {
+                "val": 0.03631815520352756,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            }
+        }
+    },
+    "227": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Rybnicki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008552607751381435,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "bareland": {
+                "val": 0.004992631030245578,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "rangeland": {
+                "val": 0.43006310082785437,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "development": {
+                "val": 0.07198822308238378,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "road": {
+                "val": 0.014589608611713035,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "tree": {
+                "val": 0.08262459922217064,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "water": {
+                "val": 0.166347808229625,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "agricultural": {
+                "val": 0.18617672670403435,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            },
+            "building": {
+                "val": 0.04236204151683634,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            }
+        }
+    },
+    "21A": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "O\u015bwi\u0119cimski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00021237829037284908,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "bareland": {
+                "val": 0.0039122864060108595,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "rangeland": {
+                "val": 0.4735033488873584,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "development": {
+                "val": 0.060635569810344646,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "road": {
+                "val": 0.013575979454901233,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "tree": {
+                "val": 0.19806266841745745,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "water": {
+                "val": 0.09493613994410731,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "agricultural": {
+                "val": 0.12078575290520485,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            },
+            "building": {
+                "val": 0.0343758758842418,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            }
+        }
+    },
+    "228": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bytomski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002095260904932336,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "bareland": {
+                "val": 0.005614800579618344,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "rangeland": {
+                "val": 0.4722423467657116,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "development": {
+                "val": 0.04770944412215373,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "road": {
+                "val": 0.009182521848914963,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "tree": {
+                "val": 0.11169588124225995,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "water": {
+                "val": 0.16309115874592664,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "agricultural": {
+                "val": 0.13868347939160558,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            },
+            "building": {
+                "val": 0.05157084121331638,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            }
+        }
+    },
+    "224": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Cz\u0119stochowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00011961043047627842,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "bareland": {
+                "val": 0.006800336465016639,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "rangeland": {
+                "val": 0.5688007302915783,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "development": {
+                "val": 0.05560227809836964,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "road": {
+                "val": 0.011731888826852967,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "tree": {
+                "val": 0.12176857127453934,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "water": {
+                "val": 0.08809349277442677,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "agricultural": {
+                "val": 0.12001615816787638,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            },
+            "building": {
+                "val": 0.027066933670855844,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            }
+        }
+    },
+    "524": {
+        "ADM0": "PL",
+        "ADM1": "Opolskie",
+        "ADM2": "Opolski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004391884572193045,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "bareland": {
+                "val": 0.00905748735250768,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "rangeland": {
+                "val": 0.4157493704189854,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "development": {
+                "val": 0.03398237051747281,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "road": {
+                "val": 0.005744390787107775,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "tree": {
+                "val": 0.09821029589411523,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "water": {
+                "val": 0.14448943535576494,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "agricultural": {
+                "val": 0.2645830581385842,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            },
+            "building": {
+                "val": 0.027744403078240037,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            }
+        }
+    },
+    "722": {
+        "ADM0": "PL",
+        "ADM1": "\u015awi\u0119tokrzyskie",
+        "ADM2": "Sandomiersko-j\u0119drzejowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00034074442473455295,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "bareland": {
+                "val": 0.005117294381459432,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "rangeland": {
+                "val": 0.43761735187365464,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "development": {
+                "val": 0.046121383649422074,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "road": {
+                "val": 0.007861967987476003,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "tree": {
+                "val": 0.07402291558126922,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "water": {
+                "val": 0.11991502490925035,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "agricultural": {
+                "val": 0.2889393262149789,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            },
+            "building": {
+                "val": 0.020063990977755162,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            }
+        }
+    },
+    "214": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Krakowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00019922992746380122,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "bareland": {
+                "val": 0.005026566087337624,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "rangeland": {
+                "val": 0.439285308236089,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "development": {
+                "val": 0.0692535996963498,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "road": {
+                "val": 0.010106930617275547,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "tree": {
+                "val": 0.10396227307273868,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "water": {
+                "val": 0.11177241960144658,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "agricultural": {
+                "val": 0.23046166010601463,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            },
+            "building": {
+                "val": 0.029932012655282492,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            }
+        }
+    },
+    "714": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Sieradzki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00017213252264788916,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "bareland": {
+                "val": 0.007657628098226107,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "rangeland": {
+                "val": 0.43521966920036625,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "development": {
+                "val": 0.041773324593872105,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "road": {
+                "val": 0.007497850692355886,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "tree": {
+                "val": 0.10649587213916824,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "water": {
+                "val": 0.07160503056613597,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "agricultural": {
+                "val": 0.313631337182787,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            },
+            "building": {
+                "val": 0.015947155004446247,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            }
+        }
+    },
+    "713": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Piotrkowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00026567879724259685,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "bareland": {
+                "val": 0.009367477926514888,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "rangeland": {
+                "val": 0.4778921375356829,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "development": {
+                "val": 0.048732679402926755,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "road": {
+                "val": 0.0088950115888201,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "tree": {
+                "val": 0.12888188405080012,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "water": {
+                "val": 0.0789394941789427,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "agricultural": {
+                "val": 0.2205251469782084,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            },
+            "building": {
+                "val": 0.026500489540862107,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            }
+        }
+    },
+    "219": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowotarski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00018333994132719252,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "bareland": {
+                "val": 0.0019246000956504908,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "rangeland": {
+                "val": 0.622793921866158,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "development": {
+                "val": 0.04225057124748433,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "road": {
+                "val": 0.004132766522329473,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "tree": {
+                "val": 0.16730060861047105,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "water": {
+                "val": 0.1055623315512403,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "agricultural": {
+                "val": 0.023840173596414282,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            },
+            "building": {
+                "val": 0.03201168656892491,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            }
+        }
+    },
+    "523": {
+        "ADM0": "PL",
+        "ADM1": "Opolskie",
+        "ADM2": "Nyski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00032417846864355864,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "bareland": {
+                "val": 0.009007019483245301,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "rangeland": {
+                "val": 0.3660922330223342,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "development": {
+                "val": 0.023657280020621826,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "road": {
+                "val": 0.0043700728220444195,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "tree": {
+                "val": 0.04747035429316001,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "water": {
+                "val": 0.19213442970981368,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "agricultural": {
+                "val": 0.342034817129018,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            },
+            "building": {
+                "val": 0.014909615051120905,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            }
+        }
+    },
+    "822": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Przemyski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002712571642836479,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "bareland": {
+                "val": 0.0048161423296056724,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "rangeland": {
+                "val": 0.46075996676163733,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "development": {
+                "val": 0.040711780042116494,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "road": {
+                "val": 0.005816815029700254,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "tree": {
+                "val": 0.08707064725696138,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "water": {
+                "val": 0.16473649327513645,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "agricultural": {
+                "val": 0.19068962490356464,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            },
+            "building": {
+                "val": 0.045127273236996675,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            }
+        }
+    },
+    "823": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Rzeszowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00011967542266613871,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "bareland": {
+                "val": 0.00385078376179379,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "rangeland": {
+                "val": 0.597768865971825,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "development": {
+                "val": 0.05979741941101475,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "road": {
+                "val": 0.009111146445301529,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "tree": {
+                "val": 0.0778186006866103,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "water": {
+                "val": 0.1093768781143802,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "agricultural": {
+                "val": 0.10746312345354271,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            },
+            "building": {
+                "val": 0.0346935067328579,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            }
+        }
+    },
+    "821": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Kro\u015bnie\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006487774948216745,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "bareland": {
+                "val": 0.008655279471906651,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "rangeland": {
+                "val": 0.5667727414203472,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "development": {
+                "val": 0.04485647886860554,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "road": {
+                "val": 0.0046495051713359575,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "tree": {
+                "val": 0.15142353006290682,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "water": {
+                "val": 0.11445587179527662,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "agricultural": {
+                "val": 0.06453247314021411,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            },
+            "building": {
+                "val": 0.044005342574584515,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            }
+        }
+    },
+    "824": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Tarnobrzeski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00014468183689148669,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "bareland": {
+                "val": 0.004359099101447864,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "rangeland": {
+                "val": 0.5165369898259673,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "development": {
+                "val": 0.052986945991495074,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "road": {
+                "val": 0.009447583070037983,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "tree": {
+                "val": 0.10055084028207593,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "water": {
+                "val": 0.11519982654802591,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "agricultural": {
+                "val": 0.16142713041560625,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            },
+            "building": {
+                "val": 0.03934690292845362,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            }
+        }
+    },
+    "812": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Che\u0142msko-zamojski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000520852914810332,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "bareland": {
+                "val": 0.009992282482670718,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "rangeland": {
+                "val": 0.45851605430799247,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "development": {
+                "val": 0.040176581982729255,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "road": {
+                "val": 0.005994273127831249,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "tree": {
+                "val": 0.07115084952542255,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "water": {
+                "val": 0.12444008739016055,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "agricultural": {
+                "val": 0.26837853349659246,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            },
+            "building": {
+                "val": 0.020830484771789958,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            }
+        }
+    },
+    "623": {
+        "ADM0": "PL",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "E\u0142cki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008986341303399686,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "bareland": {
+                "val": 0.012433921733590174,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "rangeland": {
+                "val": 0.5949264100300907,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "development": {
+                "val": 0.030033034942773543,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "road": {
+                "val": 0.00421089452505736,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "tree": {
+                "val": 0.09913589986321455,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "water": {
+                "val": 0.15088222972256563,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "agricultural": {
+                "val": 0.09156738761940238,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            },
+            "building": {
+                "val": 0.015911587432958188,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            }
+        }
+    },
+    "921": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Radomski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000224435053327947,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "bareland": {
+                "val": 0.0068160199149619885,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "rangeland": {
+                "val": 0.5856108895517217,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "development": {
+                "val": 0.045864876594439184,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "road": {
+                "val": 0.007801951225792271,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "tree": {
+                "val": 0.09480581382920449,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "water": {
+                "val": 0.06683846731524494,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "agricultural": {
+                "val": 0.17364899762735098,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            },
+            "building": {
+                "val": 0.018388548887956574,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            }
+        }
+    },
+    "721": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Kielecki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00011931420809027101,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "bareland": {
+                "val": 0.005243228779522854,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "rangeland": {
+                "val": 0.5702456058545133,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "development": {
+                "val": 0.048812646290412195,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "road": {
+                "val": 0.0085356093899331,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "tree": {
+                "val": 0.14657550017372253,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "water": {
+                "val": 0.08787074765457994,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "agricultural": {
+                "val": 0.08685039505729912,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            },
+            "building": {
+                "val": 0.045746952591926494,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            }
+        }
+    },
+    "815": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Pu\u0142awski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00038679196589017393,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "bareland": {
+                "val": 0.007670538469010525,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "rangeland": {
+                "val": 0.52823174890886,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "development": {
+                "val": 0.0452855363042647,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "road": {
+                "val": 0.007461801022786266,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "tree": {
+                "val": 0.10156326961279762,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "water": {
+                "val": 0.08165988157753988,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "agricultural": {
+                "val": 0.2113225949167046,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            },
+            "building": {
+                "val": 0.016417837222153214,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            }
+        }
+    },
+    "217": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Tarnowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00010496867342361768,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "bareland": {
+                "val": 0.0020474633957802916,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "rangeland": {
+                "val": 0.46732835221980895,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "development": {
+                "val": 0.060988479165256904,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "road": {
+                "val": 0.010975680874035776,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "tree": {
+                "val": 0.14569577686470941,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "water": {
+                "val": 0.08596456248894907,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "agricultural": {
+                "val": 0.1953294531790972,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            },
+            "building": {
+                "val": 0.03156526313894001,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            }
+        }
+    },
+    "618": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "\u015awiecki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012752641362850261,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "bareland": {
+                "val": 0.013261466581743422,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "rangeland": {
+                "val": 0.48546818056673685,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "development": {
+                "val": 0.03980668286289556,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "road": {
+                "val": 0.005840254342115131,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "tree": {
+                "val": 0.15110419110354908,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "water": {
+                "val": 0.08331000906482466,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "agricultural": {
+                "val": 0.2059297571094932,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            },
+            "building": {
+                "val": 0.014004194232353533,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            }
+        }
+    },
+    "613": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Bydgosko-toru\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007752529755076261,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "bareland": {
+                "val": 0.010701127193889746,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "rangeland": {
+                "val": 0.4731005704895811,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "development": {
+                "val": 0.05146774483944401,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "road": {
+                "val": 0.010455573038481117,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "tree": {
+                "val": 0.1299306682318141,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "water": {
+                "val": 0.08869512157671341,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "agricultural": {
+                "val": 0.21458886357992746,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            },
+            "building": {
+                "val": 0.020285078074640757,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            }
+        }
+    },
+    "619": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "W\u0142oc\u0142awski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007622057081504719,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "bareland": {
+                "val": 0.005863461651743358,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "rangeland": {
+                "val": 0.4030567066361596,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "development": {
+                "val": 0.04404658282511009,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "road": {
+                "val": 0.006648397202990591,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "tree": {
+                "val": 0.053874848102422296,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "water": {
+                "val": 0.11980884836036851,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "agricultural": {
+                "val": 0.35283798706745373,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            },
+            "building": {
+                "val": 0.013100962445603409,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            }
+        }
+    },
+    "638": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Starogardzki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0010352735764919186,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "bareland": {
+                "val": 0.024797619212162298,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "rangeland": {
+                "val": 0.50591334843149,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "development": {
+                "val": 0.04436530482029961,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "road": {
+                "val": 0.007481711147603589,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "tree": {
+                "val": 0.07684356177969105,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "water": {
+                "val": 0.09824857235605754,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "agricultural": {
+                "val": 0.23289297818494303,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            },
+            "building": {
+                "val": 0.008421630491261428,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            }
+        }
+    },
+    "617": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Inowroc\u0142awski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001418436953211569,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "bareland": {
+                "val": 0.015729110871219986,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "rangeland": {
+                "val": 0.4664105786118236,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "development": {
+                "val": 0.036787324433678804,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "road": {
+                "val": 0.006181895917779045,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "tree": {
+                "val": 0.06293427886884925,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "water": {
+                "val": 0.1176566411836495,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "agricultural": {
+                "val": 0.2860273502623597,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            },
+            "building": {
+                "val": 0.006854382897431178,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            }
+        }
+    },
+    "414": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Koni\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000678891782779015,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "bareland": {
+                "val": 0.010309465262172192,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "rangeland": {
+                "val": 0.4539919590168208,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "development": {
+                "val": 0.041823696341824576,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "road": {
+                "val": 0.007620932197604295,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "tree": {
+                "val": 0.06847548363565363,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "water": {
+                "val": 0.0984439917578941,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "agricultural": {
+                "val": 0.3069345812703052,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            },
+            "building": {
+                "val": 0.01172099873494124,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            }
+        }
+    },
+    "411": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pilski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003429451330536742,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "bareland": {
+                "val": 0.013782209281216363,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "rangeland": {
+                "val": 0.567262931573957,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "development": {
+                "val": 0.032075173110406106,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "road": {
+                "val": 0.004832135925318531,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "tree": {
+                "val": 0.07605706468595053,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "water": {
+                "val": 0.09716238900064551,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "agricultural": {
+                "val": 0.18579644373510631,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            },
+            "building": {
+                "val": 0.022688707554349402,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            }
+        }
+    },
+    "637": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Chojnicki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007153703635138322,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "bareland": {
+                "val": 0.012271922884859754,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "rangeland": {
+                "val": 0.5751752902743955,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "development": {
+                "val": 0.03436410611400695,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "road": {
+                "val": 0.005533985888913775,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "tree": {
+                "val": 0.12335330264720357,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "water": {
+                "val": 0.09698650861846853,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "agricultural": {
+                "val": 0.14263651666877744,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            },
+            "building": {
+                "val": 0.008962996539859444,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            }
+        }
+    },
+    "715": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Skierniewicki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00020328938869928286,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "bareland": {
+                "val": 0.007351924333868032,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "rangeland": {
+                "val": 0.38307393039450727,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "development": {
+                "val": 0.043890922056629804,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "road": {
+                "val": 0.00803443367520658,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "tree": {
+                "val": 0.062120578877707514,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "water": {
+                "val": 0.08068580171607023,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "agricultural": {
+                "val": 0.4032546214731406,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            },
+            "building": {
+                "val": 0.011384498084172993,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            }
+        }
+    },
+    "418": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pozna\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005775326980633493,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "bareland": {
+                "val": 0.015219397128139333,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "rangeland": {
+                "val": 0.4536166985043264,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "development": {
+                "val": 0.04477272021827409,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "road": {
+                "val": 0.007768453399408952,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "tree": {
+                "val": 0.06831131870164421,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "water": {
+                "val": 0.12854641141564835,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "agricultural": {
+                "val": 0.2582534689303174,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            },
+            "building": {
+                "val": 0.02293399900417904,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            }
+        }
+    },
+    "416": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Kaliski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00024732256112464855,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "bareland": {
+                "val": 0.008807195102975427,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "rangeland": {
+                "val": 0.3470290500567638,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "development": {
+                "val": 0.040250771316276364,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "road": {
+                "val": 0.006443545287171718,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "tree": {
+                "val": 0.10168311361396083,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "water": {
+                "val": 0.10685700107991836,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "agricultural": {
+                "val": 0.36933652636843806,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            },
+            "building": {
+                "val": 0.01934547461336643,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            }
+        }
+    },
+    "417": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Leszczy\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004817929811571049,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "bareland": {
+                "val": 0.009966179031679356,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "rangeland": {
+                "val": 0.38577902971215283,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "development": {
+                "val": 0.03771187425039195,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "road": {
+                "val": 0.006231040041509308,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "tree": {
+                "val": 0.06221253375177156,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "water": {
+                "val": 0.176604442238848,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "agricultural": {
+                "val": 0.3021862117739017,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            },
+            "building": {
+                "val": 0.018826896218586735,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            }
+        }
+    },
+    "427": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczecinecko-pyrzycki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007832444996044602,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "bareland": {
+                "val": 0.01506348009962972,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "rangeland": {
+                "val": 0.5331075981518413,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "development": {
+                "val": 0.02898231648815325,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "road": {
+                "val": 0.004084566144580699,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "tree": {
+                "val": 0.08926682225980974,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "water": {
+                "val": 0.17273908100509763,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "agricultural": {
+                "val": 0.12201702031948847,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            },
+            "building": {
+                "val": 0.033955871031809734,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            }
+        }
+    },
+    "431": {
+        "ADM0": "PL",
+        "ADM1": "Lubuskie",
+        "ADM2": "Gorzowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005887831810257278,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "bareland": {
+                "val": 0.012673398989926537,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "rangeland": {
+                "val": 0.5448618395265896,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "development": {
+                "val": 0.02851729167274712,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "road": {
+                "val": 0.00403534974209746,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "tree": {
+                "val": 0.07113982861774047,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "water": {
+                "val": 0.18624989109045295,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "agricultural": {
+                "val": 0.10786679983624138,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            },
+            "building": {
+                "val": 0.0440668173431777,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            }
+        }
+    },
+    "415": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Miasto Pozna\u0144",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00043367063424292856,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "bareland": {
+                "val": 0.0376498328988742,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "rangeland": {
+                "val": 0.45815586399387725,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "development": {
+                "val": 0.24222403982674934,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "road": {
+                "val": 0.04188670818933309,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "tree": {
+                "val": 0.04279190532480146,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "water": {
+                "val": 0.05600387581328457,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "agricultural": {
+                "val": 0.0522483255601649,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            },
+            "building": {
+                "val": 0.0686057777586725,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            }
+        }
+    },
+    "518": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wroc\u0142awski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0010277720292046018,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "bareland": {
+                "val": 0.007253973839585125,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "rangeland": {
+                "val": 0.41010157700331357,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "development": {
+                "val": 0.031184903640377515,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "road": {
+                "val": 0.005880468667964873,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "tree": {
+                "val": 0.082278585176728,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "water": {
+                "val": 0.18106865784776688,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "agricultural": {
+                "val": 0.2598728424257783,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            },
+            "building": {
+                "val": 0.021331219369274942,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            }
+        }
+    },
+    "841": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "Bia\u0142ostocki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002642054480655867,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "bareland": {
+                "val": 0.007009684343163948,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "rangeland": {
+                "val": 0.5628966661021877,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "development": {
+                "val": 0.03497024111003575,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "road": {
+                "val": 0.006899507180156431,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "tree": {
+                "val": 0.10824899710102345,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "water": {
+                "val": 0.08285883840716085,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "agricultural": {
+                "val": 0.174278232557214,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            },
+            "building": {
+                "val": 0.022573627750989974,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            }
+        }
+    },
+    "842": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "\u0141om\u017cy\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002768219987714256,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "bareland": {
+                "val": 0.007019913053671432,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "rangeland": {
+                "val": 0.48849805513747496,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "development": {
+                "val": 0.03019480948270819,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "road": {
+                "val": 0.005972881345164233,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "tree": {
+                "val": 0.07890667002675507,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "water": {
+                "val": 0.08905794094853564,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "agricultural": {
+                "val": 0.2818260964601678,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            },
+            "building": {
+                "val": 0.01824681154675475,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            }
+        }
+    },
+    "843": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "Suwalski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005337420714175406,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "bareland": {
+                "val": 0.0051008830149658945,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "rangeland": {
+                "val": 0.5543803249892082,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "development": {
+                "val": 0.031372285181096984,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "road": {
+                "val": 0.004566837952437946,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "tree": {
+                "val": 0.0750077426903367,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "water": {
+                "val": 0.11796477191623715,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "agricultural": {
+                "val": 0.1759526731582907,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            },
+            "building": {
+                "val": 0.035120739026016076,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            }
+        }
+    },
+    "516": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Legnicko-g\u0142ogowski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005552123114902792,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "bareland": {
+                "val": 0.014608501211658359,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "rangeland": {
+                "val": 0.46374548564170015,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "development": {
+                "val": 0.06967875510479067,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "road": {
+                "val": 0.008159148571462872,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "tree": {
+                "val": 0.07276055325949804,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "water": {
+                "val": 0.14835902723027344,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "agricultural": {
+                "val": 0.19309973569194713,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            },
+            "building": {
+                "val": 0.02903358097717615,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            }
+        }
+    },
+    "432": {
+        "ADM0": "PL",
+        "ADM1": "Lubuskie",
+        "ADM2": "Zielonog\u00f3rski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003195109101116341,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "bareland": {
+                "val": 0.007720419667267522,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "rangeland": {
+                "val": 0.4718425314352075,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "development": {
+                "val": 0.029911618167027927,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "road": {
+                "val": 0.0047284941642159175,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "tree": {
+                "val": 0.09098749949155824,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "water": {
+                "val": 0.21857832492997212,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "agricultural": {
+                "val": 0.13217860430025175,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            },
+            "building": {
+                "val": 0.04373299693438879,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            }
+        }
+    },
+    "634": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Gda\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008897137050670156,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "bareland": {
+                "val": 0.018394262481580725,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "rangeland": {
+                "val": 0.5363914060348316,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "development": {
+                "val": 0.04690659455544667,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "road": {
+                "val": 0.008146543177557215,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "tree": {
+                "val": 0.09356168625723624,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "water": {
+                "val": 0.0958627266127461,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "agricultural": {
+                "val": 0.18960626957982143,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            },
+            "building": {
+                "val": 0.010240797595716087,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            }
+        }
+    },
+    "424": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Miasto Szczecin",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0015064357656293234,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "bareland": {
+                "val": 0.00525263727238745,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "rangeland": {
+                "val": 0.42596274350596725,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "development": {
+                "val": 0.11809317664762514,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "road": {
+                "val": 0.024910614553805957,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "tree": {
+                "val": 0.07029942031455251,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "water": {
+                "val": 0.2881647886428149,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "agricultural": {
+                "val": 0.011736557546970021,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            },
+            "building": {
+                "val": 0.05407362575024618,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            }
+        }
+    },
+    "428": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczeci\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001014587799311534,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "bareland": {
+                "val": 0.015701366065657515,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "rangeland": {
+                "val": 0.5259993768638974,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "development": {
+                "val": 0.038250513545802625,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "road": {
+                "val": 0.0057375345073761574,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "tree": {
+                "val": 0.08566893586412311,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "water": {
+                "val": 0.16970169980952568,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "agricultural": {
+                "val": 0.1281653636026981,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            },
+            "building": {
+                "val": 0.029760621941607626,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            }
+        }
+    },
+    "426": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Koszali\u0144ski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004313498308903094,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "bareland": {
+                "val": 0.021040563764795493,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "rangeland": {
+                "val": 0.5867053327982246,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "development": {
+                "val": 0.037558401646887306,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "road": {
+                "val": 0.005825733589447884,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "tree": {
+                "val": 0.10505820283957733,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "water": {
+                "val": 0.09478051275308003,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "agricultural": {
+                "val": 0.12971774994944357,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            },
+            "building": {
+                "val": 0.01888215282765251,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            }
+        }
+    },
+    "636": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "S\u0142upski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000692600132357373,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "bareland": {
+                "val": 0.016943105654524095,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "rangeland": {
+                "val": 0.6052555609949777,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "development": {
+                "val": 0.029992199029751757,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "road": {
+                "val": 0.004486228634124374,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "tree": {
+                "val": 0.12818164865722795,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "water": {
+                "val": 0.09481140013368296,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "agricultural": {
+                "val": 0.10793585751005919,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            },
+            "building": {
+                "val": 0.011701399253293564,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            }
+        }
+    },
+    "925": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Siedlecki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00018383206930364037,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "bareland": {
+                "val": 0.00788380337945861,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "rangeland": {
+                "val": 0.5185735564912982,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "development": {
+                "val": 0.03756766405996794,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "road": {
+                "val": 0.007474174731952928,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "tree": {
+                "val": 0.08352041268904314,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "water": {
+                "val": 0.06854028239117838,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "agricultural": {
+                "val": 0.26312136294104116,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            },
+            "building": {
+                "val": 0.013134911246751835,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            }
+        }
+    },
+    "811": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Bialski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006960918646238942,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "bareland": {
+                "val": 0.010018000978417863,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "rangeland": {
+                "val": 0.5471664578120419,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "development": {
+                "val": 0.03535274069547925,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "road": {
+                "val": 0.006177357206145975,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "tree": {
+                "val": 0.08048977681907546,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "water": {
+                "val": 0.09118648302195251,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "agricultural": {
+                "val": 0.21791844610405556,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            },
+            "building": {
+                "val": 0.010994645498203675,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            }
+        }
+    },
+    "515": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Jeleniog\u00f3rski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00030143492792921356,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "bareland": {
+                "val": 0.009929060262653841,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "rangeland": {
+                "val": 0.49867605858924297,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "development": {
+                "val": 0.04005030549349219,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "road": {
+                "val": 0.005364184283352984,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "tree": {
+                "val": 0.09893061450815575,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "water": {
+                "val": 0.16538010357716618,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "agricultural": {
+                "val": 0.14410563818401975,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            },
+            "building": {
+                "val": 0.03726260017398477,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            }
+        }
+    },
+    "517": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wa\u0142brzyski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00045270892959002514,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "bareland": {
+                "val": 0.004873520627530673,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "rangeland": {
+                "val": 0.43829053331094153,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "development": {
+                "val": 0.03794963880991659,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "road": {
+                "val": 0.006350324225647696,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "tree": {
+                "val": 0.10965072137414576,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "water": {
+                "val": 0.15027879465965804,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "agricultural": {
+                "val": 0.22777586429934862,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            },
+            "building": {
+                "val": 0.024377893763221154,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            }
+        }
+    },
+    "514": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Miasto Wroc\u0142aw",
+        "segmentation": {
+            "nodata": {
+                "val": 3.9184370146750466e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "bareland": {
+                "val": 0.032168493261250736,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "rangeland": {
+                "val": 0.5818334265746452,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "development": {
+                "val": 0.1830674314835719,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "road": {
+                "val": 0.0300944546758227,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "tree": {
+                "val": 0.03863521733750725,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "water": {
+                "val": 0.05506112284424568,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "agricultural": {
+                "val": 0.03444054966377086,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            },
+            "building": {
+                "val": 0.04466011978903882,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            }
+        }
+    },
+    "712": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "\u0141\u00f3dzki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00012482088654111278,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "bareland": {
+                "val": 0.015137571633496385,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "rangeland": {
+                "val": 0.4470490396440709,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "development": {
+                "val": 0.06922591701478882,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "road": {
+                "val": 0.0116991245167746,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "tree": {
+                "val": 0.12277501764250456,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "water": {
+                "val": 0.07369026732859543,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "agricultural": {
+                "val": 0.23737445777807897,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            },
+            "building": {
+                "val": 0.022923783555150953,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            }
+        }
+    },
+    "711": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Miasto \u0141\u00f3d\u017a",
+        "segmentation": {
+            "nodata": {
+                "val": 2.7287465994273108e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "bareland": {
+                "val": 0.13322612935592623,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "rangeland": {
+                "val": 0.3560159533357789,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "development": {
+                "val": 0.3507232759102432,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "road": {
+                "val": 0.04417600394342519,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "tree": {
+                "val": 0.025765703386536717,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "water": {
+                "val": 0.008527914915741138,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "agricultural": {
+                "val": 0.022489638023692998,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            },
+            "building": {
+                "val": 0.05904809366266237,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            }
+        }
+    },
+    "633": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Tr\u00f3jmiejski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007726431401919685,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "bareland": {
+                "val": 0.07979546861337357,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "rangeland": {
+                "val": 0.4040417928599699,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "development": {
+                "val": 0.2567163056155174,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "road": {
+                "val": 0.02912552191666548,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "tree": {
+                "val": 0.08254383525749515,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "water": {
+                "val": 0.06676997248448045,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "agricultural": {
+                "val": 0.0366945095126241,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            },
+            "building": {
+                "val": 0.043539950599682097,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            }
+        }
+    },
+    "218": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowos\u0105decki",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00016218312263998867,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "bareland": {
+                "val": 0.0011216711288128426,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "rangeland": {
+                "val": 0.5269969585511869,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "development": {
+                "val": 0.05563975630182292,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "road": {
+                "val": 0.009374531307074312,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "tree": {
+                "val": 0.17932807767979903,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "water": {
+                "val": 0.11654165012565637,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "agricultural": {
+                "val": 0.05929370546196537,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            },
+            "building": {
+                "val": 0.051541466321042485,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            }
+        }
+    },
+    "814": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Lubelski",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005275320139061293,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "bareland": {
+                "val": 0.010451384960180431,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "rangeland": {
+                "val": 0.49373390187959965,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "development": {
+                "val": 0.055241439888686926,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "road": {
+                "val": 0.009397163201854164,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "tree": {
+                "val": 0.0648183093057585,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "water": {
+                "val": 0.07706633673920904,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "agricultural": {
+                "val": 0.2796348331166726,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            },
+            "building": {
+                "val": 0.009129098894130983,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            }
+        }
+    },
+    "213": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Miasto Krak\u00f3w",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00023568210484901716,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "bareland": {
+                "val": 0.03535342362622848,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "rangeland": {
+                "val": 0.42622872424091884,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "development": {
+                "val": 0.33391962406602727,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "road": {
+                "val": 0.03826543150618079,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "tree": {
+                "val": 0.01975666605487628,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "water": {
+                "val": 0.045424562532460064,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "agricultural": {
+                "val": 0.0385681037237373,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            },
+            "building": {
+                "val": 0.0622477821447219,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            }
+        }
+    },
+    "911": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Miasto Warszawa",
+        "segmentation": {
+            "nodata": {
+                "val": 3.206872267003427e-06,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "bareland": {
+                "val": 0.00978518412504079,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "rangeland": {
+                "val": 0.5337401678973762,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "development": {
+                "val": 0.18278278305269058,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "road": {
+                "val": 0.0402798347183212,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "tree": {
+                "val": 0.1432880387114648,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "water": {
+                "val": 0.038972373117453135,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "agricultural": {
+                "val": 0.015784189056495878,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            },
+            "building": {
+                "val": 0.03536422244888962,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            }
+        }
+    }
+}

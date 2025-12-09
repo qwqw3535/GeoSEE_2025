@@ -1,0 +1,21 @@
+area_id,Geopolitical entity (reporting),GRDP
+HU110,Budapest,55467.55
+HU120,Pest,15326.24
+HU211,Fejér,6297.1
+HU212,Komárom-Esztergom,4476.96
+HU213,Veszprém,3900.58
+HU221,Győr-Moson-Sopron,8154.94
+HU222,Vas,3358.92
+HU223,Zala,2997.28
+HU231,Baranya,3685.28
+HU232,Somogy,2802.63
+HU233,Tolna,2422.61
+HU311,Borsod-Abaúj-Zemplén,6551.28
+HU312,Heves,3316.61
+HU313,Nógrád,1236.28
+HU321,Hajdú-Bihar,5723.2
+HU322,Jász-Nagykun-Szolnok,3535.61
+HU323,Szabolcs-Szatmár-Bereg,4761.62
+HU331,Bács-Kiskun,6033.41
+HU332,Békés,2890.38
+HU333,Csongrád-Csanád,4434.72

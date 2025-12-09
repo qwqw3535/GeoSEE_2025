@@ -1,0 +1,24 @@
+- get_address(Loc): Get address of given location.
+
+- get_area(Loc): Get area size of given location's district.
+
+- get_night_light(Loc): Get nightlight intensity of given location.
+
+- get_distance_to_nearest_target(Loc, Class): Get distance of given location to class. Class should be one of the element in ['port']
+
+- get_landuse_sum(Loc, Class): Get the number of satelite images of class within the total area. Class should be one of the element in ["Residential", "Agricultural", "Commercial", "Factory", "Mining", "Power station", "Transportation", "Sports", "Religious", "Water", "Others"].
+    - "Residential": Primarily used for housing, including dense and less dense urban areas.
+    - "Agricultural": Dedicated to growing crops or raising livestock, ranging from irrigated lands to mixed cultivation fields.
+    - "Commercial": Centers of business and trade activities, such as industrial or commercial units.
+    - "Factory": Encompasses manufacturing or production plants where goods are produced.
+    - "Mining": Focuses on extracting minerals or other geological materials from the earth.
+    - "Power station": Facilities that generate electricity through various methods like thermal or hydro.
+    - "Transportation": Infrastructure enabling the movement of people or goods, such as roads, railways, ports, and airports.
+    - "Sports": Areas designated for sports, leisure, and recreational activities.
+    - "Religious": Places of worship or spiritual significance like church or mosque.
+    - "Water": Covers bodies of water, including seas, rivers, lakes, and coastal lagoons.
+    - "Others": Other places that are not included in the above classes.
+
+- get_poi_info(Loc): Get total count of POIs related to industrial activity.
+
+- get_air_info(Loc): Get density of CO, NO2, SO2 and average Land Surface Temperature which can infer economic activity of the region.

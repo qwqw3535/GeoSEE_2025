@@ -1,0 +1,17 @@
+{
+  "s_modules": [
+    "get_address(Loc)",
+    "get_area(Loc)",
+    "get_night_light(Loc)",
+    "get_landcover_ratio(Loc, target_class='bareland')",
+    "get_landcover_ratio(Loc, target_class='development')",
+    "get_landcover_ratio(Loc, target_class='building')",
+    "get_landcover_ratio(Loc, target_class='road')",
+    "get_landcover_ratio(Loc, target_class='rangeland')",
+    "get_landcover_ratio(Loc, target_class='agricultural')",
+    "get_landcover_ratio(Loc, target_class='water')",
+    "get_landcover_ratio(Loc, target_class='tree')",
+    "get_distance_to_nearest_target(Loc, target_name='airport')",
+    "get_distance_to_nearest_target(Loc, target_name='port')"
+  ]
+}

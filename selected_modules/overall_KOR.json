@@ -1,0 +1,25 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_area(Loc)",
+        "get_aggregate_neighbor_info(Loc, lambda x: get_area(loc=x))",
+        "get_population(Loc)",
+        "get_aggregate_neighbor_info(Loc, lambda x: get_population(loc=x))",
+        "get_night_light(Loc)",
+        "get_aggregate_neighbor_info(Loc, lambda x: get_night_light(loc=x))",
+        "count_area(Loc, target_class='development')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='development'))",
+        "count_area(Loc, target_class='building')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='building'))",
+        "count_area(Loc, target_class='road')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='road'))",
+        "count_area(Loc, target_class='rangeland')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='rangeland'))",
+        "count_area(Loc, target_class='agricultural')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='agricultural'))",
+        "count_area(Loc, target_class='water')",
+        "get_aggregate_neighbor_info(Loc, lambda x: count_area(loc=x, target_class='water'))",
+        "get_distance_to_nearest_target(Loc, target_name='airport')",
+        "get_distance_to_nearest_target(Loc, target_name='port')"
+    ]
+}

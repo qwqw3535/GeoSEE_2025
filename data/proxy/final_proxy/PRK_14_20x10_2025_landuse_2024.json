@@ -1,0 +1,862 @@
+{
+  "1 Pyongyang-si Kangdong-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Pyongyang-si",
+    "ADM2": "Kangdong-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.5122133628,
+          "Agricultural": 4.7473842366,
+          "Commercial": 0.1909585117,
+          "Factory": 0.3618991607,
+          "Mining": 6.0109925375,
+          "Power station": 1.6164237289,
+          "Transportation": 3.5671714403,
+          "Sports": 1.2310920069,
+          "Religious": 0.9628129521,
+          "Water": 2.3671407777,
+          "Others": 15.2462265887
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0378053341,
+          "Agricultural": 0.1186846059,
+          "Commercial": 0.0047739628,
+          "Factory": 0.009047479,
+          "Mining": 0.1502748134,
+          "Power station": 0.0404105932,
+          "Transportation": 0.089179286,
+          "Sports": 0.0307773002,
+          "Religious": 0.0240703238,
+          "Water": 0.0591785194,
+          "Others": 0.3811556647
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 40.0
+      }
+    }
+  },
+  "2 Pyeongannam-do Bukchang-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Pyeongannam-do",
+    "ADM2": "Bukchang-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.0178034594,
+          "Agricultural": 1.1044407085,
+          "Commercial": 0.1210779984,
+          "Factory": 0.0958514539,
+          "Mining": 3.0923921063,
+          "Power station": 1.6930110207,
+          "Transportation": 2.6004219116,
+          "Sports": 0.5755323963,
+          "Religious": 0.6103615075,
+          "Water": 11.1857255678,
+          "Others": 15.5509210281
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0254450865,
+          "Agricultural": 0.0276110177,
+          "Commercial": 0.00302695,
+          "Factory": 0.0023962863,
+          "Mining": 0.0773098027,
+          "Power station": 0.0423252755,
+          "Transportation": 0.0650105478,
+          "Sports": 0.0143883099,
+          "Religious": 0.0152590377,
+          "Water": 0.2796431392,
+          "Others": 0.3887730257
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 40.0
+      }
+    }
+  },
+  "3 Pyeongannam-do Sinyang-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Pyeongannam-do",
+    "ADM2": "Sinyang-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.5390084703,
+          "Agricultural": 0.1844439344,
+          "Commercial": 0.0362963357,
+          "Factory": 0.0037438039,
+          "Mining": 11.8846035855,
+          "Power station": 0.3301983095,
+          "Transportation": 1.1088016452,
+          "Sports": 0.8741995941,
+          "Religious": 0.0865059248,
+          "Water": 15.0707659549,
+          "Others": 18.3419723739
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0105687935,
+          "Agricultural": 0.0036165477,
+          "Commercial": 0.0007116929,
+          "Factory": 0.0000734079,
+          "Mining": 0.2330314429,
+          "Power station": 0.0064744767,
+          "Transportation": 0.0217412087,
+          "Sports": 0.0171411685,
+          "Religious": 0.0016961946,
+          "Water": 0.2955052148,
+          "Others": 0.3596465171
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 51.0
+      }
+    }
+  },
+  "4 Pyeonganbuk-do Yeonju-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Pyeonganbuk-do",
+    "ADM2": "Yeonju-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.5241711072,
+          "Agricultural": 3.0857624732,
+          "Commercial": 0.5282363789,
+          "Factory": 0.039892554,
+          "Mining": 11.7375019595,
+          "Power station": 1.884407119,
+          "Transportation": 2.9239008702,
+          "Sports": 0.449832615,
+          "Religious": 1.0880195774,
+          "Water": 2.0609371356,
+          "Others": 16.5692386837
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0346402524,
+          "Agricultural": 0.0701309653,
+          "Commercial": 0.0120053722,
+          "Factory": 0.000906649,
+          "Mining": 0.2667614082,
+          "Power station": 0.0428274345,
+          "Transportation": 0.0664522925,
+          "Sports": 0.0102234685,
+          "Religious": 0.0247277177,
+          "Water": 0.0468394804,
+          "Others": 0.3765736064
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 44.0
+      }
+    }
+  },
+  "5 Pyeonganbuk-do Daegwan-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Pyeonganbuk-do",
+    "ADM2": "Daegwan-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.7812750396,
+          "Agricultural": 0.6239574861,
+          "Commercial": 0.0677712749,
+          "Factory": 0.0167209181,
+          "Mining": 10.8434690718,
+          "Power station": 0.8117674666,
+          "Transportation": 4.94821753,
+          "Sports": 0.491525261,
+          "Religious": 0.7684465462,
+          "Water": 11.5201714448,
+          "Others": 19.1800132056
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0147410385,
+          "Agricultural": 0.0117727828,
+          "Commercial": 0.0012787033,
+          "Factory": 0.000315489,
+          "Mining": 0.2045937561,
+          "Power station": 0.0153163673,
+          "Transportation": 0.0933625949,
+          "Sports": 0.0092740615,
+          "Religious": 0.0144989914,
+          "Water": 0.2173617254,
+          "Others": 0.3618870416
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 53.0
+      }
+    }
+  },
+  "6 Hwanghaenam-do Baecheon-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Baecheon-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.1605537349,
+          "Agricultural": 10.1761989761,
+          "Commercial": 0.1236253994,
+          "Factory": 0.0212724846,
+          "Mining": 5.7859511949,
+          "Power station": 0.6881351342,
+          "Transportation": 2.6220015021,
+          "Sports": 0.568117324,
+          "Religious": 0.4267927503,
+          "Water": 3.2748819966,
+          "Others": 14.4501782381
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0283061887,
+          "Agricultural": 0.248199975,
+          "Commercial": 0.0030152536,
+          "Factory": 0.0005188411,
+          "Mining": 0.1411207609,
+          "Power station": 0.0167837838,
+          "Transportation": 0.0639512561,
+          "Sports": 0.0138565201,
+          "Religious": 0.0104095793,
+          "Water": 0.0798751706,
+          "Others": 0.3524433717
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 41.0
+      }
+    }
+  },
+  "7 Hwanghaenam-do Jangyeon-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Jangyeon-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.1863147175,
+          "Agricultural": 5.7182735986,
+          "Commercial": 0.1386644178,
+          "Factory": 0.0090832243,
+          "Mining": 9.0428373347,
+          "Power station": 0.6079704701,
+          "Transportation": 0.6477527643,
+          "Sports": 0.5916837622,
+          "Religious": 0.2352875759,
+          "Water": 7.3931428895,
+          "Others": 12.2417859352
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0289345053,
+          "Agricultural": 0.1394700878,
+          "Commercial": 0.003382059,
+          "Factory": 0.0002215421,
+          "Mining": 0.2205570082,
+          "Power station": 0.0148285481,
+          "Transportation": 0.0157988479,
+          "Sports": 0.0144313113,
+          "Religious": 0.0057387214,
+          "Water": 0.1803205583,
+          "Others": 0.2985801448
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 41.0
+      }
+    }
+  },
+  "8 Hwanghaebuk-do Hwangju-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Hwangju-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.1351752152,
+          "Agricultural": 17.0530599601,
+          "Commercial": 0.2256062848,
+          "Factory": 0.0501128262,
+          "Mining": 3.5916076429,
+          "Power station": 0.876658622,
+          "Transportation": 7.8957359486,
+          "Sports": 0.203600393,
+          "Religious": 0.64437854,
+          "Water": 0.5268803892,
+          "Others": 4.6743133019
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.029873032,
+          "Agricultural": 0.4487647358,
+          "Commercial": 0.0059370075,
+          "Factory": 0.0013187586,
+          "Mining": 0.0945159906,
+          "Power station": 0.0230699637,
+          "Transportation": 0.207782525,
+          "Sports": 0.0053579051,
+          "Religious": 0.01695733,
+          "Water": 0.0138652734,
+          "Others": 0.1230082448
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 38.0
+      }
+    }
+  },
+  "9 Hwanghaebuk-do Goksan-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Goksan-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.567272844,
+          "Agricultural": 4.1731196773,
+          "Commercial": 0.3273667188,
+          "Factory": 0.0083597425,
+          "Mining": 4.018286004,
+          "Power station": 0.5047628713,
+          "Transportation": 3.1374396142,
+          "Sports": 0.4497004508,
+          "Religious": 0.3779756014,
+          "Water": 10.4842460167,
+          "Others": 18.5732564183
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0340711488,
+          "Agricultural": 0.090719993,
+          "Commercial": 0.0071166678,
+          "Factory": 0.0001817335,
+          "Mining": 0.0873540436,
+          "Power station": 0.0109731059,
+          "Transportation": 0.068205209,
+          "Sports": 0.0097760968,
+          "Religious": 0.0082168609,
+          "Water": 0.2279183917,
+          "Others": 0.4037664439
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 46.0
+      }
+    }
+  },
+  "10 Hamgyeongnam-do Sinpo-si": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Sinpo-si",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.5933985228,
+          "Agricultural": 3.2716693922,
+          "Commercial": 0.707961854,
+          "Factory": 0.0076523231,
+          "Mining": 2.8875279813,
+          "Power station": 0.2326908692,
+          "Transportation": 2.8846074795,
+          "Sports": 0.0966830994,
+          "Religious": 0.2178279012,
+          "Water": 8.9402685286,
+          "Others": 21.7516204725
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0137999656,
+          "Agricultural": 0.0760853347,
+          "Commercial": 0.0164642292,
+          "Factory": 0.000177961,
+          "Mining": 0.0671518135,
+          "Power station": 0.0054114156,
+          "Transportation": 0.0670838949,
+          "Sports": 0.0022484442,
+          "Religious": 0.0050657651,
+          "Water": 0.2079132216,
+          "Others": 0.5058516389
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 43.0
+      }
+    }
+  },
+  "11 Hamgyeongnam-do Jeongpyeong-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Jeongpyeong-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.5960539048,
+          "Agricultural": 7.4637875308,
+          "Commercial": 0.0606650352,
+          "Factory": 0.0272690613,
+          "Mining": 4.2908506175,
+          "Power station": 1.2235052878,
+          "Transportation": 2.2626518709,
+          "Sports": 0.2173412392,
+          "Religious": 1.0023505186,
+          "Water": 8.1956300062,
+          "Others": 13.6722524477
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0145379001,
+          "Agricultural": 0.1820435983,
+          "Commercial": 0.001479635,
+          "Factory": 0.0006650991,
+          "Mining": 0.1046548931,
+          "Power station": 0.0298415924,
+          "Transportation": 0.055186631,
+          "Sports": 0.0053010058,
+          "Religious": 0.0244475736,
+          "Water": 0.1998934148,
+          "Others": 0.3334695719
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 41.0
+      }
+    }
+  },
+  "12 Hamgyeongbuk-do Gilju-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Gilju-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 2.0869135508,
+          "Agricultural": 13.236884849,
+          "Commercial": 0.2447043073,
+          "Factory": 0.0208920788,
+          "Mining": 7.1742692933,
+          "Power station": 1.1356925577,
+          "Transportation": 4.2745691627,
+          "Sports": 0.7888786654,
+          "Religious": 0.6605253702,
+          "Water": 5.8271599823,
+          "Others": 17.1290072669
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0379438827,
+          "Agricultural": 0.2406706336,
+          "Commercial": 0.0044491692,
+          "Factory": 0.000379856,
+          "Mining": 0.1304412599,
+          "Power station": 0.0206489556,
+          "Transportation": 0.0777194393,
+          "Sports": 0.0143432485,
+          "Religious": 0.0120095522,
+          "Water": 0.1059483633,
+          "Others": 0.3114364958
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 55.0
+      }
+    }
+  },
+  "13 Hamgyeongbuk-do Buryong-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Buryong-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.1742350436,
+          "Agricultural": 0.9369425191,
+          "Commercial": 0.0098974598,
+          "Factory": 0.0163473111,
+          "Mining": 9.4218481148,
+          "Power station": 0.6500596343,
+          "Transportation": 7.0376546619,
+          "Sports": 0.2275105509,
+          "Religious": 0.0533002635,
+          "Water": 8.730264071,
+          "Others": 24.7068149087
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0032874537,
+          "Agricultural": 0.0176781607,
+          "Commercial": 0.0001867445,
+          "Factory": 0.0003084398,
+          "Mining": 0.1777707191,
+          "Power station": 0.0122652761,
+          "Transportation": 0.132785937,
+          "Sports": 0.0042926519,
+          "Religious": 0.0010056653,
+          "Water": 0.1647219636,
+          "Others": 0.466166319
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 53.0
+      }
+    }
+  },
+  "14 Gangwon-do Sepo-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Sepo-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.6689830359,
+          "Agricultural": 2.1071952432,
+          "Commercial": 0.582424566,
+          "Factory": 0.0693038421,
+          "Mining": 7.8987338672,
+          "Power station": 1.1818722403,
+          "Transportation": 2.3665022513,
+          "Sports": 0.3931221955,
+          "Religious": 1.3221155465,
+          "Water": 2.8032207,
+          "Others": 23.9114135756
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0148662897,
+          "Agricultural": 0.046826561,
+          "Commercial": 0.0129427681,
+          "Factory": 0.0015400854,
+          "Mining": 0.1755274193,
+          "Power station": 0.0262638276,
+          "Transportation": 0.0525889389,
+          "Sports": 0.0087360488,
+          "Religious": 0.0293803455,
+          "Water": 0.0622937933,
+          "Others": 0.5313647461
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 45.0
+      }
+    }
+  },
+  "15 Gangwon-do Cheorwon-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Cheorwon-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.736045784,
+          "Agricultural": 1.9526864472,
+          "Commercial": 0.0562565439,
+          "Factory": 0.0055679671,
+          "Mining": 3.7970443266,
+          "Power station": 0.569677777,
+          "Transportation": 1.7228082798,
+          "Sports": 1.154088172,
+          "Religious": 0.8854110206,
+          "Water": 15.4539704926,
+          "Others": 14.6158561255
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0171173438,
+          "Agricultural": 0.0454113127,
+          "Commercial": 0.0013082917,
+          "Factory": 0.0001294876,
+          "Mining": 0.0883033564,
+          "Power station": 0.0132483204,
+          "Transportation": 0.0400653088,
+          "Sports": 0.0268392598,
+          "Religious": 0.020590954,
+          "Water": 0.3593946626,
+          "Others": 0.3399036308
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 43.0
+      }
+    }
+  },
+  "16 Jagang-do Jagang-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Jagang-do",
+    "ADM2": "Jagang-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.7135536768,
+          "Agricultural": 2.8718098881,
+          "Commercial": 0.4693565385,
+          "Factory": 0.0151887766,
+          "Mining": 4.7752593273,
+          "Power station": 0.2586270066,
+          "Transportation": 3.2393379968,
+          "Sports": 1.2141978501,
+          "Religious": 0.938054708,
+          "Water": 7.8750740653,
+          "Others": 20.270457681
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0372511669,
+          "Agricultural": 0.0624306497,
+          "Commercial": 0.010203403,
+          "Factory": 0.0003301908,
+          "Mining": 0.1038099854,
+          "Power station": 0.0056223262,
+          "Transportation": 0.0704203912,
+          "Sports": 0.0263956054,
+          "Religious": 0.0203924937,
+          "Water": 0.1711972623,
+          "Others": 0.4406621235
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 46.0
+      }
+    }
+  },
+  "17 Jagang-do Nangnim-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Jagang-do",
+    "ADM2": "Nangnim-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.3143206975,
+          "Agricultural": 0.1762534239,
+          "Commercial": 0.0544070484,
+          "Factory": 0.0039755155,
+          "Mining": 6.0648474593,
+          "Power station": 0.2287600231,
+          "Transportation": 2.8792519097,
+          "Sports": 0.2100774681,
+          "Religious": 0.7679484308,
+          "Water": 8.7776565502,
+          "Others": 32.3677907079
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0059305792,
+          "Agricultural": 0.0033255363,
+          "Commercial": 0.0010265481,
+          "Factory": 0.0000750097,
+          "Mining": 0.1144310841,
+          "Power station": 0.0043162269,
+          "Transportation": 0.0543255077,
+          "Sports": 0.0039637258,
+          "Religious": 0.014489593,
+          "Water": 0.1656161613,
+          "Others": 0.6107130322
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 53.0
+      }
+    }
+  },
+  "18 Ryanggang-do Kimjongsuk-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Ryanggang-do",
+    "ADM2": "Kimjongsuk-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.3293994368,
+          "Agricultural": 1.4893967218,
+          "Commercial": 0.0020149915,
+          "Factory": 0.0039176339,
+          "Mining": 2.5083195797,
+          "Power station": 0.272004749,
+          "Transportation": 0.4477151518,
+          "Sports": 0.3458434292,
+          "Religious": 0.9935207102,
+          "Water": 21.8512493684,
+          "Others": 18.9266434991
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0067224375,
+          "Agricultural": 0.0303958515,
+          "Commercial": 0.0000411223,
+          "Factory": 0.0000799517,
+          "Mining": 0.0511901955,
+          "Power station": 0.0055511173,
+          "Transportation": 0.0091370439,
+          "Sports": 0.0070580292,
+          "Religious": 0.0202759329,
+          "Water": 0.4459438647,
+          "Others": 0.3862580306
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 49.0
+      }
+    }
+  },
+  "19 Nampo-si Yonggang-gun": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Nampo-si",
+    "ADM2": "Yonggang-gun",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.5356168241,
+          "Agricultural": 15.7230308101,
+          "Commercial": 1.0420619027,
+          "Factory": 0.0752968467,
+          "Mining": 4.2417091828,
+          "Power station": 0.7455025838,
+          "Transportation": 6.6235153004,
+          "Sports": 1.3548735228,
+          "Religious": 0.8232593568,
+          "Water": 5.9379842748,
+          "Others": 10.9283831867
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0301101338,
+          "Agricultural": 0.3082947218,
+          "Commercial": 0.0204325863,
+          "Factory": 0.0014764088,
+          "Mining": 0.0831707683,
+          "Power station": 0.0146176977,
+          "Transportation": 0.129872849,
+          "Sports": 0.0265661475,
+          "Religious": 0.0161423403,
+          "Water": 0.1164310642,
+          "Others": 0.2142820233
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 51.0
+      }
+    }
+  },
+  "20 Gaeseong-si Gaepung-guyok": {
+    "ADM0": "PRK_14_20x10_2025",
+    "ADM1": "Gaeseong-si",
+    "ADM2": "Gaepung-guyok",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.911215052,
+          "Agricultural": 2.268701253,
+          "Commercial": 0.4461438814,
+          "Factory": 0.0198711658,
+          "Mining": 6.5184505542,
+          "Power station": 1.2704808927,
+          "Transportation": 5.9617132636,
+          "Sports": 0.5689614086,
+          "Religious": 0.5453202249,
+          "Water": 5.7608050202,
+          "Others": 13.2621117232
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0227803763,
+          "Agricultural": 0.0567175313,
+          "Commercial": 0.011153597,
+          "Factory": 0.0004967791,
+          "Mining": 0.1629612639,
+          "Power station": 0.0317620223,
+          "Transportation": 0.1490428316,
+          "Sports": 0.0142240352,
+          "Religious": 0.0136330056,
+          "Water": 0.1440201255,
+          "Others": 0.3315527931
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 40.0
+      }
+    }
+  }
+}

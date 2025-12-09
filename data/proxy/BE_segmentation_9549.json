@@ -1,0 +1,2686 @@
+{
+    "BE241": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Vlaams-Brabant",
+        "ADM2": "Arr. Halle-Vilvoorde",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00019593764985368446,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "bareland": {
+                "val": 0.0021501533342809394,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "rangeland": {
+                "val": 0.4650227337729005,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "development": {
+                "val": 0.10748038101556047,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "road": {
+                "val": 0.0235533937647897,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "tree": {
+                "val": 0.09399945253997584,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "water": {
+                "val": 0.09121488183221522,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "agricultural": {
+                "val": 0.1796890188035481,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            },
+            "building": {
+                "val": 0.036694047286876946,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            }
+        }
+    },
+    "BE242": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Vlaams-Brabant",
+        "ADM2": "Arr. Leuven",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003780232845856353,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "bareland": {
+                "val": 0.0016858595946705984,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "rangeland": {
+                "val": 0.4221754584212862,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "development": {
+                "val": 0.08338995072165108,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "road": {
+                "val": 0.021821401948778338,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "tree": {
+                "val": 0.09501491999419663,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "water": {
+                "val": 0.09815543510448688,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "agricultural": {
+                "val": 0.2427152069138438,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            },
+            "building": {
+                "val": 0.034663744016502615,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            }
+        }
+    },
+    "BE251": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Brugge",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0019060436491410203,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "bareland": {
+                "val": 0.004531626145325766,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "rangeland": {
+                "val": 0.33182774331460035,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "development": {
+                "val": 0.11386822221978393,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "road": {
+                "val": 0.028533477244023327,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "tree": {
+                "val": 0.031159890414126604,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "water": {
+                "val": 0.17372468924775147,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "agricultural": {
+                "val": 0.28397488762548834,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            },
+            "building": {
+                "val": 0.030473420139757523,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            }
+        }
+    },
+    "BE253": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Ieper",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0011249048690590248,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "bareland": {
+                "val": 0.0017570248832599704,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "rangeland": {
+                "val": 0.28498348945555946,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "development": {
+                "val": 0.06290600923193745,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "road": {
+                "val": 0.013528860868469402,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "tree": {
+                "val": 0.024793609454625384,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "water": {
+                "val": 0.20195632687797488,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "agricultural": {
+                "val": 0.387572073101033,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            },
+            "building": {
+                "val": 0.021377701258080965,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            }
+        }
+    },
+    "BE254": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Kortrijk",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000761505440643356,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "bareland": {
+                "val": 0.0016679511721438822,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "rangeland": {
+                "val": 0.33680697509720814,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "development": {
+                "val": 0.13267111813269344,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "road": {
+                "val": 0.039044733089497435,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "tree": {
+                "val": 0.03207156591653478,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "water": {
+                "val": 0.15197369775758124,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "agricultural": {
+                "val": 0.24893189736924995,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            },
+            "building": {
+                "val": 0.05607055602444783,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            }
+        }
+    },
+    "BE255": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Oostende",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00040422235284601036,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "bareland": {
+                "val": 0.001518121591440075,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "rangeland": {
+                "val": 0.4230650213506964,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "development": {
+                "val": 0.09378747300462083,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "road": {
+                "val": 0.021905610749909984,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "tree": {
+                "val": 0.036072926717000166,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "water": {
+                "val": 0.15690406593116504,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "agricultural": {
+                "val": 0.2277835506099364,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            },
+            "building": {
+                "val": 0.03855900769238471,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            }
+        }
+    },
+    "BE256": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Roeselare",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00032905296043113423,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "bareland": {
+                "val": 0.001067741244446998,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "rangeland": {
+                "val": 0.30971459573650173,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "development": {
+                "val": 0.11675910077063884,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "road": {
+                "val": 0.027926156203990877,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "tree": {
+                "val": 0.02859005481329357,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "water": {
+                "val": 0.15358783580638768,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "agricultural": {
+                "val": 0.3109911895785199,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 273.641247952649
+            },
+            "building": {
+                "val": 0.051034272885790016,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 273.641247952649
+            }
+        }
+    },
+    "BE257": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Tielt",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00020628787553900332,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "bareland": {
+                "val": 0.0008303539805044481,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "rangeland": {
+                "val": 0.31028322550637155,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "development": {
+                "val": 0.09090780223314127,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "road": {
+                "val": 0.017630182097014516,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "tree": {
+                "val": 0.023588689905269522,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "water": {
+                "val": 0.1875403902119309,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "agricultural": {
+                "val": 0.33681785661728897,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            },
+            "building": {
+                "val": 0.03219521157294052,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            }
+        }
+    },
+    "BE258": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Veurne",
+        "segmentation": {
+            "nodata": {
+                "val": 2.1033367868197167e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "bareland": {
+                "val": 0.0025658748917660565,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "rangeland": {
+                "val": 0.40782018031104067,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "development": {
+                "val": 0.07344210551956963,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "road": {
+                "val": 0.014045109183101355,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "tree": {
+                "val": 0.034309884249153794,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "water": {
+                "val": 0.2067244012477039,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "agricultural": {
+                "val": 0.23874592174917966,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            },
+            "building": {
+                "val": 0.022325489480616682,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            }
+        }
+    },
+    "BE252": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Diksmuide",
+        "segmentation": {
+            "nodata": {
+                "val": 7.345153064262575e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "bareland": {
+                "val": 0.0009452463165531241,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "rangeland": {
+                "val": 0.4161553452654577,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "development": {
+                "val": 0.06048101409663999,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "road": {
+                "val": 0.009812921043333972,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "tree": {
+                "val": 0.02947507098438304,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "water": {
+                "val": 0.13713378906249993,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "agricultural": {
+                "val": 0.32974227657162997,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            },
+            "building": {
+                "val": 0.016180885128858666,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            }
+        }
+    },
+    "BE224": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Hasselt",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004018382865841648,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "bareland": {
+                "val": 0.0025481401972409956,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "rangeland": {
+                "val": 0.46005924962147937,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "development": {
+                "val": 0.11551537265296744,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "road": {
+                "val": 0.025713704854500367,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "tree": {
+                "val": 0.09836135287244765,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "water": {
+                "val": 0.10031105682629514,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "agricultural": {
+                "val": 0.15519259476862007,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            },
+            "building": {
+                "val": 0.04189668991986449,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            }
+        }
+    },
+    "BE225": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Maaseik",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008346915920736319,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "bareland": {
+                "val": 0.004124601418190143,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "rangeland": {
+                "val": 0.41580005166984146,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "development": {
+                "val": 0.12465998166968485,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "road": {
+                "val": 0.025715140524180804,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "tree": {
+                "val": 0.11823789218176703,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "water": {
+                "val": 0.10875014764577264,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "agricultural": {
+                "val": 0.16577025193434464,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            },
+            "building": {
+                "val": 0.03610724136414317,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            }
+        }
+    },
+    "BE223": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Tongeren",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0014516643131533458,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "bareland": {
+                "val": 0.002395488497668315,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "rangeland": {
+                "val": 0.35043931300061537,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "development": {
+                "val": 0.09473298336673835,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "road": {
+                "val": 0.02364694903322394,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "tree": {
+                "val": 0.06607784112744788,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "water": {
+                "val": 0.14129873623366182,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "agricultural": {
+                "val": 0.28837829045916236,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            },
+            "building": {
+                "val": 0.03157873396832954,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            }
+        }
+    },
+    "BE233": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Eeklo",
+        "segmentation": {
+            "nodata": {
+                "val": 0.002702473446368129,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "bareland": {
+                "val": 0.003764982661741841,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "rangeland": {
+                "val": 0.26632920647084835,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "development": {
+                "val": 0.0921710058166372,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "road": {
+                "val": 0.026044048417840585,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "tree": {
+                "val": 0.022902398975464144,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "water": {
+                "val": 0.137809711681675,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "agricultural": {
+                "val": 0.42815755764817237,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            },
+            "building": {
+                "val": 0.020118614881252574,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            }
+        }
+    },
+    "BE234": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Gent",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009576533427565185,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "bareland": {
+                "val": 0.0019054945720531364,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "rangeland": {
+                "val": 0.39148685484496665,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "development": {
+                "val": 0.11184842541490533,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "road": {
+                "val": 0.02943173559292146,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "tree": {
+                "val": 0.05499497757922525,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "water": {
+                "val": 0.12749954659462118,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "agricultural": {
+                "val": 0.23751732397697153,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            },
+            "building": {
+                "val": 0.04435798808157829,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            }
+        }
+    },
+    "BE235": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Oudenaarde",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003577281310495019,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "bareland": {
+                "val": 0.001473133458500415,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "rangeland": {
+                "val": 0.3429184446081644,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "development": {
+                "val": 0.07663608787334086,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "road": {
+                "val": 0.0156715730650235,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "tree": {
+                "val": 0.04873343003534645,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "water": {
+                "val": 0.17695074030783295,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "agricultural": {
+                "val": 0.30525421952779364,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            },
+            "building": {
+                "val": 0.032004642992947974,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            }
+        }
+    },
+    "BE236": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Sint-Niklaas",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001761110397446288,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "bareland": {
+                "val": 0.004936520681857006,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "rangeland": {
+                "val": 0.3501016087294129,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "development": {
+                "val": 0.13102389389052063,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "road": {
+                "val": 0.03528685930273675,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "tree": {
+                "val": 0.0516829489202064,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "water": {
+                "val": 0.08203496427976804,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "agricultural": {
+                "val": 0.3083255500431482,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            },
+            "building": {
+                "val": 0.034846543754902246,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            }
+        }
+    },
+    "BE232": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Dendermonde",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00019627936776126165,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "bareland": {
+                "val": 0.0009783525735674334,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "rangeland": {
+                "val": 0.4267494875991789,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "development": {
+                "val": 0.11459962696625987,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "road": {
+                "val": 0.027555169252938033,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "tree": {
+                "val": 0.07302065164385237,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "water": {
+                "val": 0.11195184429113321,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "agricultural": {
+                "val": 0.200035618066177,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            },
+            "building": {
+                "val": 0.04491297023913268,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            }
+        }
+    },
+    "BE231": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Aalst",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00016735964601144855,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "bareland": {
+                "val": 0.0007506892366229344,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "rangeland": {
+                "val": 0.4193064323761177,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "development": {
+                "val": 0.10586916365713472,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "road": {
+                "val": 0.024497020169624052,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "tree": {
+                "val": 0.07279584032934404,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "water": {
+                "val": 0.09233630558229845,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "agricultural": {
+                "val": 0.2410122301593517,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            },
+            "building": {
+                "val": 0.04326495884349507,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            }
+        }
+    },
+    "BE100": {
+        "ADM0": "BE",
+        "ADM1": "R\u00e9gion de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest",
+        "ADM2": "Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad",
+        "segmentation": {
+            "nodata": {
+                "val": 5.151426362859246e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "bareland": {
+                "val": 0.004714532572146592,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "rangeland": {
+                "val": 0.3527982153500666,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "development": {
+                "val": 0.25517235612384936,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "road": {
+                "val": 0.05158459776986666,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "tree": {
+                "val": 0.1758964446993304,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "water": {
+                "val": 0.013364318115008924,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "agricultural": {
+                "val": 0.004042888722371305,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            },
+            "building": {
+                "val": 0.1423751323837324,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            }
+        }
+    },
+    "BE211": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Antwerpen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012760697280388984,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "bareland": {
+                "val": 0.004880808195871405,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "rangeland": {
+                "val": 0.38124509460912664,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "development": {
+                "val": 0.15484665110903179,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "road": {
+                "val": 0.03664892053450882,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "tree": {
+                "val": 0.08917790701819046,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "water": {
+                "val": 0.17148442035734193,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "agricultural": {
+                "val": 0.10733355188662289,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            },
+            "building": {
+                "val": 0.0531065765612661,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            }
+        }
+    },
+    "BE212": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Mechelen",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00023841747786101242,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "bareland": {
+                "val": 0.001484205761352256,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "rangeland": {
+                "val": 0.4446051809033405,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "development": {
+                "val": 0.1208848512750852,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "road": {
+                "val": 0.024921372085465614,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "tree": {
+                "val": 0.07623437810990344,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "water": {
+                "val": 0.14504671757546034,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "agricultural": {
+                "val": 0.14090160739889787,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            },
+            "building": {
+                "val": 0.04568326941263317,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            }
+        }
+    },
+    "BE213": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Turnhout",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005210410013830251,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "bareland": {
+                "val": 0.0019576007085343053,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "rangeland": {
+                "val": 0.37201114067980995,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "development": {
+                "val": 0.10945783947880262,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "road": {
+                "val": 0.021947265519698837,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "tree": {
+                "val": 0.10222482095125626,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "water": {
+                "val": 0.19189760678282805,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "agricultural": {
+                "val": 0.16131620343347952,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            },
+            "building": {
+                "val": 0.03866648144420686,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            }
+        }
+    },
+    "BE335": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Verviers \u2014 communes francophones",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0001354567843426389,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "bareland": {
+                "val": 0.002821956712534714,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "rangeland": {
+                "val": 0.5749320700654023,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "development": {
+                "val": 0.05431119753107256,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "road": {
+                "val": 0.00923505810162081,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "tree": {
+                "val": 0.07265368758879003,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "water": {
+                "val": 0.13301350875681567,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "agricultural": {
+                "val": 0.12193506391653698,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            },
+            "building": {
+                "val": 0.03096200054288445,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            }
+        }
+    },
+    "BE336": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Bezirk Verviers \u2014 Deutschsprachige Gemeinschaft",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00012587678400332724,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "bareland": {
+                "val": 0.0031521984830377814,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "rangeland": {
+                "val": 0.57070555708372,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "development": {
+                "val": 0.041510591738307505,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "road": {
+                "val": 0.006983776383858341,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "tree": {
+                "val": 0.12225670690270865,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "water": {
+                "val": 0.10767436614469288,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "agricultural": {
+                "val": 0.11818165329267419,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            },
+            "building": {
+                "val": 0.02940927318699814,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            }
+        }
+    },
+    "BE334": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Waremme",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0027849115675731505,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "bareland": {
+                "val": 0.003414301281498006,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "rangeland": {
+                "val": 0.2777141230946474,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "development": {
+                "val": 0.03855864047452033,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "road": {
+                "val": 0.009955189394610407,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "tree": {
+                "val": 0.03299588432002835,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "water": {
+                "val": 0.2598011792741289,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "agricultural": {
+                "val": 0.35590812185472265,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            },
+            "building": {
+                "val": 0.018867648738270695,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            }
+        }
+    },
+    "BE331": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Huy",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006271344826120436,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "bareland": {
+                "val": 0.004647852492359807,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "rangeland": {
+                "val": 0.39979939149417415,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "development": {
+                "val": 0.04706490812705826,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "road": {
+                "val": 0.009300099096483916,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "tree": {
+                "val": 0.07340020860320222,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "water": {
+                "val": 0.22314041417352404,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "agricultural": {
+                "val": 0.2170048970400533,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            },
+            "building": {
+                "val": 0.02501509449053194,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            }
+        }
+    },
+    "BE332": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Li\u00e8ge",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0015555308859606393,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "bareland": {
+                "val": 0.0024711520810816678,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "rangeland": {
+                "val": 0.4286016815093133,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "development": {
+                "val": 0.11030958133787035,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "road": {
+                "val": 0.02932554587191648,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "tree": {
+                "val": 0.06662774212336918,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "water": {
+                "val": 0.1757555513288113,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "agricultural": {
+                "val": 0.14339456551008228,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            },
+            "building": {
+                "val": 0.04195864935159517,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            }
+        }
+    },
+    "BE310": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Brabant Wallon",
+        "ADM2": "Arr. Nivelles",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000768728423536867,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "bareland": {
+                "val": 0.005346002285940632,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "rangeland": {
+                "val": 0.3596180761069584,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "development": {
+                "val": 0.06261527642869118,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "road": {
+                "val": 0.015209320867270773,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "tree": {
+                "val": 0.07101502648571097,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "water": {
+                "val": 0.16068279429485927,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "agricultural": {
+                "val": 0.2930596977995158,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            },
+            "building": {
+                "val": 0.03168507730751711,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            }
+        }
+    },
+    "BE32D": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Thuin",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003230339063722375,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "bareland": {
+                "val": 0.006133763868935114,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "rangeland": {
+                "val": 0.4028267273808699,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "development": {
+                "val": 0.0433856271004783,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "road": {
+                "val": 0.007500496858163707,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "tree": {
+                "val": 0.056199067636359554,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "water": {
+                "val": 0.28223154257123856,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "agricultural": {
+                "val": 0.18021284417119393,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 785.223596299374
+            },
+            "building": {
+                "val": 0.021186896506387283,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 785.223596299374
+            }
+        }
+    },
+    "BE32A": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Ath",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002551063821689062,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "bareland": {
+                "val": 0.0022027378073718614,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "rangeland": {
+                "val": 0.357877118644184,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "development": {
+                "val": 0.06212282672811908,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "road": {
+                "val": 0.014216027274801335,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "tree": {
+                "val": 0.043185806958971625,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "water": {
+                "val": 0.16734534905811513,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "agricultural": {
+                "val": 0.3272411069189708,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            },
+            "building": {
+                "val": 0.025553920227297203,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            }
+        }
+    },
+    "BE32B": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Charleroi",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003963487499750716,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "bareland": {
+                "val": 0.008144187562086812,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "rangeland": {
+                "val": 0.38749087564338125,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "development": {
+                "val": 0.10123490465623075,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "road": {
+                "val": 0.027444869907478974,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "tree": {
+                "val": 0.06684365117329283,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "water": {
+                "val": 0.1600735548125304,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "agricultural": {
+                "val": 0.19288429547512542,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            },
+            "building": {
+                "val": 0.05548731201989823,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            }
+        }
+    },
+    "BE323": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Mons",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0026028365441143914,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "bareland": {
+                "val": 0.002106134892123379,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "rangeland": {
+                "val": 0.36481563174574283,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "development": {
+                "val": 0.08151307730433097,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "road": {
+                "val": 0.021646120323140006,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "tree": {
+                "val": 0.05390562838197888,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "water": {
+                "val": 0.20917758495113953,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "agricultural": {
+                "val": 0.22138228537890925,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            },
+            "building": {
+                "val": 0.042850700478520666,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            }
+        }
+    },
+    "BE32C": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Soignies",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0028991361207599898,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "bareland": {
+                "val": 0.0021933897638119807,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "rangeland": {
+                "val": 0.3118728605503776,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "development": {
+                "val": 0.06826048581409057,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "road": {
+                "val": 0.01545555179129171,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "tree": {
+                "val": 0.03380148843370911,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "water": {
+                "val": 0.24445674751378277,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "agricultural": {
+                "val": 0.2971014030875034,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            },
+            "building": {
+                "val": 0.0239589369246728,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            }
+        }
+    },
+    "BE328": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Tournai-Mouscron",
+        "segmentation": {
+            "nodata": {
+                "val": 0.000927154888610905,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "bareland": {
+                "val": 0.0024451847394240406,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "rangeland": {
+                "val": 0.29248235799471145,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "development": {
+                "val": 0.08371631627946782,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "road": {
+                "val": 0.02126962065923015,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "tree": {
+                "val": 0.02980268245456443,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "water": {
+                "val": 0.1756890286274838,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "agricultural": {
+                "val": 0.36392692030041907,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            },
+            "building": {
+                "val": 0.029740734056087754,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            }
+        }
+    },
+    "BE329": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. La Louvi\u00e8re",
+        "segmentation": {
+            "nodata": {
+                "val": 0.003347517300777184,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "bareland": {
+                "val": 0.0018573843051293605,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "rangeland": {
+                "val": 0.3388248287415356,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "development": {
+                "val": 0.09223324089394445,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "road": {
+                "val": 0.024708845150462434,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "tree": {
+                "val": 0.05121991106572045,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "water": {
+                "val": 0.21469954332488,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "agricultural": {
+                "val": 0.23026974775326248,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            },
+            "building": {
+                "val": 0.0428389814642881,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            }
+        }
+    },
+    "BE343": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Marche-en-Famenne",
+        "segmentation": {
+            "nodata": {
+                "val": 7.184712610714552e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "bareland": {
+                "val": 0.0022930314887126837,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "rangeland": {
+                "val": 0.5415496521093713,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "development": {
+                "val": 0.04526742909554092,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "road": {
+                "val": 0.0074707721946945665,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "tree": {
+                "val": 0.10591843581245414,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "water": {
+                "val": 0.15119787217406885,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "agricultural": {
+                "val": 0.12469300595293864,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            },
+            "building": {
+                "val": 0.02153795404611146,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            }
+        }
+    },
+    "BE344": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Neufch\u00e2teau",
+        "segmentation": {
+            "nodata": {
+                "val": 8.805251192397727e-05,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "bareland": {
+                "val": 0.0022352411848932884,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "rangeland": {
+                "val": 0.49717058591321656,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "development": {
+                "val": 0.03401499254709515,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "road": {
+                "val": 0.006106463226660367,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "tree": {
+                "val": 0.14894731950356466,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "water": {
+                "val": 0.15985997154432968,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "agricultural": {
+                "val": 0.10133053011733967,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            },
+            "building": {
+                "val": 0.050246843450979364,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            }
+        }
+    },
+    "BE345": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Virton",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0002637690461617364,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "bareland": {
+                "val": 0.001423778572312778,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "rangeland": {
+                "val": 0.5687799565029358,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "development": {
+                "val": 0.0350007861193038,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "road": {
+                "val": 0.00809032969791402,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "tree": {
+                "val": 0.11902671675806811,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "water": {
+                "val": 0.16757457664075268,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "agricultural": {
+                "val": 0.05659743832870263,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            },
+            "building": {
+                "val": 0.04324264833385081,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            }
+        }
+    },
+    "BE341": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Arlon",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00014226895696330686,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "bareland": {
+                "val": 0.007759593270211616,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "rangeland": {
+                "val": 0.5388419204106344,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "development": {
+                "val": 0.04281819374873209,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "road": {
+                "val": 0.006534410072038814,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "tree": {
+                "val": 0.09301509978664908,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "water": {
+                "val": 0.16283918583527462,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "agricultural": {
+                "val": 0.10872039533257197,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            },
+            "building": {
+                "val": 0.03932893258692421,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            }
+        }
+    },
+    "BE342": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Bastogne",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00013466504682554644,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "bareland": {
+                "val": 0.00339994033236187,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "rangeland": {
+                "val": 0.5548062947156879,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "development": {
+                "val": 0.03579727357044215,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "road": {
+                "val": 0.004608871412789637,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "tree": {
+                "val": 0.07214742217168475,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "water": {
+                "val": 0.17858507326806447,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "agricultural": {
+                "val": 0.132750261975865,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            },
+            "building": {
+                "val": 0.017770197506279443,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            }
+        }
+    },
+    "BE353": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Philippeville",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003813544419414384,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "bareland": {
+                "val": 0.005334873125397396,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "rangeland": {
+                "val": 0.4984656409115956,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "development": {
+                "val": 0.03829310074380651,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "road": {
+                "val": 0.007541518667833885,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "tree": {
+                "val": 0.09985739665922626,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "water": {
+                "val": 0.1583167492648988,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "agricultural": {
+                "val": 0.1584734159125357,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            },
+            "building": {
+                "val": 0.033335950272763065,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            }
+        }
+    },
+    "BE351": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Dinant",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003022859591340802,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "bareland": {
+                "val": 0.0025794888991854397,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "rangeland": {
+                "val": 0.48510902178794285,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "development": {
+                "val": 0.032929195030580595,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "road": {
+                "val": 0.007537389081311805,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "tree": {
+                "val": 0.1366884837267055,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "water": {
+                "val": 0.1649398370806259,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "agricultural": {
+                "val": 0.14106723670203805,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            },
+            "building": {
+                "val": 0.0288470617324762,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            }
+        }
+    },
+    "BE352": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Namur",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0004367521291458893,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "bareland": {
+                "val": 0.005547959598371948,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "rangeland": {
+                "val": 0.4021697909885863,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "development": {
+                "val": 0.0564413771509227,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "road": {
+                "val": 0.014801093740173502,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "tree": {
+                "val": 0.08636058221944301,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "water": {
+                "val": 0.16622448586637562,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "agricultural": {
+                "val": 0.2411128331146999,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            },
+            "building": {
+                "val": 0.026905125192282126,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            }
+        }
+    }
+}

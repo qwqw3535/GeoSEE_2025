@@ -1,0 +1,490 @@
+{
+    "1": {
+        "ADM0": "SVK",
+        "ADM1": "Bratislavsk\u00fd",
+        "ADM2": "Bratislavsk\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00016310461530148453,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "bareland": {
+                "val": 0.03175811902960217,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "rangeland": {
+                "val": 0.5416777002021067,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "development": {
+                "val": 0.06285116106757331,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "road": {
+                "val": 0.011172500920499456,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "tree": {
+                "val": 0.07937069373046951,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "water": {
+                "val": 0.12111095921380555,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "agricultural": {
+                "val": 0.1147555492639276,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            },
+            "building": {
+                "val": 0.0371402119567153,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 2051.6705215409615
+            }
+        }
+    },
+    "2": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Trnavsk\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0011744257165910302,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "bareland": {
+                "val": 0.03133605101580211,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "rangeland": {
+                "val": 0.4812499651370248,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "development": {
+                "val": 0.03784264700231848,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "road": {
+                "val": 0.008513716467972976,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "tree": {
+                "val": 0.05615570288610626,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "water": {
+                "val": 0.16255892259975094,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "agricultural": {
+                "val": 0.2043166018173104,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            },
+            "building": {
+                "val": 0.016851967357126102,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4145.347988680622
+            }
+        }
+    },
+    "3": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Tren\u010diansky",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007944020230084855,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "bareland": {
+                "val": 0.016092404674371355,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "rangeland": {
+                "val": 0.6070709028096114,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "development": {
+                "val": 0.03461179719892212,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "road": {
+                "val": 0.0060074386258985365,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "tree": {
+                "val": 0.08672441662852819,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "water": {
+                "val": 0.1489193631580942,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "agricultural": {
+                "val": 0.07409303397408881,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            },
+            "building": {
+                "val": 0.025686240907477276,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4501.801246963847
+            }
+        }
+    },
+    "4": {
+        "ADM0": "SVK",
+        "ADM1": "Western Slovakia",
+        "ADM2": "Nitriansky",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005157399540879648,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "bareland": {
+                "val": 0.039409296072849744,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "rangeland": {
+                "val": 0.48762677864719994,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "development": {
+                "val": 0.03593166900570615,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "road": {
+                "val": 0.007423270682065864,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "tree": {
+                "val": 0.06919622326047553,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "water": {
+                "val": 0.14608247058365392,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "agricultural": {
+                "val": 0.20343957460997758,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            },
+            "building": {
+                "val": 0.010374977183981005,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6342.47971161915
+            }
+        }
+    },
+    "5": {
+        "ADM0": "SVK",
+        "ADM1": "Central Slovakia",
+        "ADM2": "\u017dilinsk\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0009772948136362936,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "bareland": {
+                "val": 0.009437944709081573,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "rangeland": {
+                "val": 0.6031324033835265,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "development": {
+                "val": 0.03533662799694212,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "road": {
+                "val": 0.004906649385022946,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "tree": {
+                "val": 0.12358021535661436,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "water": {
+                "val": 0.15683861673032246,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "agricultural": {
+                "val": 0.037252559474597595,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            },
+            "building": {
+                "val": 0.02853768815025229,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6806.885667565641
+            }
+        }
+    },
+    "6": {
+        "ADM0": "SVK",
+        "ADM1": "Central Slovakia",
+        "ADM2": "Banskobystrick\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.001703453610672939,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "bareland": {
+                "val": 0.016389802965707755,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "rangeland": {
+                "val": 0.5765622300255954,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "development": {
+                "val": 0.033886950156634045,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "road": {
+                "val": 0.004445319108209996,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "tree": {
+                "val": 0.11328579794881198,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "water": {
+                "val": 0.17326906632146635,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "agricultural": {
+                "val": 0.056409741483429636,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            },
+            "building": {
+                "val": 0.024047638379470517,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 9454.461850004274
+            }
+        }
+    },
+    "7": {
+        "ADM0": "SVK",
+        "ADM1": "Eastern Slovakia",
+        "ADM2": "Pre\u0161ovsk\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005386525655572392,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "bareland": {
+                "val": 0.007304093546796819,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "rangeland": {
+                "val": 0.5897237654688173,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "development": {
+                "val": 0.031051823989353054,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "road": {
+                "val": 0.0052950886502656945,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "tree": {
+                "val": 0.12929067906469568,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "water": {
+                "val": 0.15352421784924963,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "agricultural": {
+                "val": 0.05607069028111768,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            },
+            "building": {
+                "val": 0.027200988584146664,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 8971.61110470565
+            }
+        }
+    },
+    "8": {
+        "ADM0": "SVK",
+        "ADM1": "Eastern Slovakia",
+        "ADM2": "Ko\u0161ick\u00fd",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0010713531617233911,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "bareland": {
+                "val": 0.010930192656836616,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "rangeland": {
+                "val": 0.5562885905326824,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "development": {
+                "val": 0.03266663158947389,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "road": {
+                "val": 0.006851127555778311,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "tree": {
+                "val": 0.09460721231182398,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "water": {
+                "val": 0.16461719031714447,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "agricultural": {
+                "val": 0.09810354032254816,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            },
+            "building": {
+                "val": 0.03486416155199665,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6751.920537591051
+            }
+        }
+    }
+}

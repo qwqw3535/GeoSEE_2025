@@ -1,0 +1,63 @@
+{
+    "45131": {
+        "ADM0": "GUNSAN",
+        "ADM1": "Jeollabuk-do",
+        "ADM2": "Gunsan-si industrial complex",
+        "segmentation": {
+            "nodata": {
+                "val": 0.007006327311197917,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 8
+            },
+            "bareland": {
+                "val": 0.023664262559678823,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 8
+            },
+            "rangeland": {
+                "val": 0.37407345241970485,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 8
+            },
+            "development": {
+                "val": 0.24305343627929688,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 8
+            },
+            "road": {
+                "val": 0.027344173855251733,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 8
+            },
+            "tree": {
+                "val": 0.008554670545789931,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 8
+            },
+            "water": {
+                "val": 0.2692892286512587,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 8
+            },
+            "agricultural": {
+                "val": 0.022742377387152776,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 8
+            },
+            "building": {
+                "val": 0.024272070990668405,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 8
+            }
+        }
+    }
+}

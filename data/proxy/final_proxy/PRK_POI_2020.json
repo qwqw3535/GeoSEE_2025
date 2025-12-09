@@ -1,0 +1,2796 @@
+{
+  "PRK.4.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Jangpung County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Goksan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Bongcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "송정광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Beopdong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "구룡광산",
+          "영저광산(령저광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Byeokseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "벽성광산(2)",
+          "월현광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Pyeonggang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Ryonggang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Ryongyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Samcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "삼천광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Sepo County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Sincheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Sinwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Geumcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Songhwa County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Taetan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "태탄광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Tongcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Euncheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Eunryul County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "은률광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Wonsan City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "영삼광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Yeonan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "정촌광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Gangdong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "강동청년탄광",
+          "고비탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Gangnam County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Raseon City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongheung County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "6월13일탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Anju City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "안주극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheonrima County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Cheongnamgu",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Jeungsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Hoechang County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가운광산",
+          "성흥광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Hyesan City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "운흥광산",
+          "혜산청년광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Gaecheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "봉천탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daedong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gapsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "8월광산",
+          "가축사육업",
+          "갑산광산",
+          "문락평광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimhyeonggwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "신원광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimhyeongjik County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Gimjeongsuk County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "신파청년광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Maengsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Mundeok County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "청남탄광",
+          "화풍탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Nyeongwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Oncheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Baekam County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "남계광산",
+          "백암광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Bocheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Bukchang County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Pungseo County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gyeongwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "고건원탄광",
+          "안원광산",
+          "용북청년탄광(룡북청년탄광)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Pyeongseong City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Pyeongwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "영유광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Samjiyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Samsu County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.23_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sinyang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.22_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Seongcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "대봉광산",
+          "성천광산",
+          "수왕동광산",
+          "용흥광산(룡흥광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.24_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sukcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.26_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Suncheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "2.8직동청년탄광",
+          "용지광산(룡지광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daean County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "남포시립극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Daehongdan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Musan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "무산광산연합기업소"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Daeheung County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "경수광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Deokcheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "서창청년탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.7.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Ryanggang Province",
+    "ADM2": "Unheung County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "생장광산",
+          "심포광산",
+          "용암광산(룡암광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Eunsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "신창청년탄광",
+          "영대탄광(령대탄광)",
+          "천성청년탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.27_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Yangdeok County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Geumya County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "청백광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Dancheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "검덕광업연합기업소",
+          "대신광산",
+          "대흥청년영웅광산",
+          "동암광산",
+          "매지령광산",
+          "용양광산(룡양광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Heocheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "만덕광산",
+          "상농광산",
+          "상농광산연합기업소(상농광산련합기업소)",
+          "추동광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Janggang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Myeongcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Jangjin County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "부성광산",
+          "장진광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Jaseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Jeoncheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Jeongpyeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "정평광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Chosan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Junggang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hamju County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hongwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Huicheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Myeonggan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Hwapyeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Ganggye City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Gopung County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Gowon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Geumhojigu",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Manpo City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Bujeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Bukcheong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Rakwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Rangrim County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Onseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "강안광산",
+          "강안탄광",
+          "주원탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Riwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "이원광산(리원광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Ryongrim County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Sijung County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sinheung County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sinpo City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Seonggan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Songwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Sudonggu",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "12월16일탄광",
+          "고원탄광",
+          "둔전탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Deokseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "덕성광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Dongsin County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Eorang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Usi County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.1.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Chagang Province",
+    "ADM2": "Wiwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Yodeok County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Yeonggwang County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "천불산광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Nampo City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "대대리광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gangseo County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "강서광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Changdo County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.8.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hamgyong Province",
+    "ADM2": "Hamheung City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "함흥대극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Hoeryeong City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "오룡광산",
+          "풍산광산(3)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Bongsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "관정광산",
+          "독정광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Buryeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Pyeongsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Rinsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Sangwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Sariwon City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Singye County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가무리광산",
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Sinpyeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "만년광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Songrim City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Seoheung County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "양암광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Cheongjin City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "금바위광산",
+          "낙산광산(락산광산)",
+          "부윤광산",
+          "삼해광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Suan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "대정광산",
+          "수안광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Seungho County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Tosan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Eunpa County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "은파광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Yeonsa County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Yeonsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "홀동광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Yeontan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Jung District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "대동문영화관",
+          "만수대예술극장",
+          "모란봉극장",
+          "조선4.26아동영화촬영소",
+          "평양국제영화회관",
+          "평양대극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Hyeongjesan District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "조선예술영화촬영소"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Mangyeongdae District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "평양교예극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Junghwa County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Pyeongcheon District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Botonggang District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "낙원영화관"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Rakrang District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "조선인민군4.25예술영화촬영소"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Ryeokpo District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Ryongseong District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Sadong District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Samseok District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Seongyo District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "선교영화관"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Seoseong District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "봉화예술극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Hwadae County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.25_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Sunan District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Daedonggang District",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "동평양대극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Daeseong District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.10.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Pyongan Province",
+    "ADM2": "Dongdaewon District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.6.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Pyongyang Directly Governed City",
+    "ADM2": "Eunjeong District",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Changseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheolsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "선암광산",
+          "철산광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.16_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Jeongju City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "용포광산(룡포광산)",
+          "정주광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Cheonma County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.15_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Hyangsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Hwangju County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gujang County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "용등탄광(룡등탄광)",
+          "용문탄광(룡문탄광)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Guseong City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.14_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Gwaksan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.17_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Nyeongbyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Bakcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.18_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Pihyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Byeokdong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.19_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Ryongcheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "용천광산(룡천광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.20_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sakju County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "삭주광산",
+          "풍년광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.22_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sindo County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.4.3_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hwanghae Province",
+    "ADM2": "Gaeseong City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.23_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Sinuiju City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "도립극장",
+          "신의주극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.21_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Seoncheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "선천광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.24_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Taecheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "태천광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Daegwan County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Dongchang County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "대유동광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Dongrim County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.25_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Uiju County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "덕현광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.26_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Unjeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.27_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Unsan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "영웅광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.5.28_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Pyongan Province",
+    "ADM2": "Yeomju County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gilju County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "포정광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Anak County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.1_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Anbyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "봉연광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Jaeryeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "재령광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Jangyeon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "낙연광산(락연광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Cheongdan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "흥산광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Cheonnae County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.4_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Cheolwon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Haeju City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "장방광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.10_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Hoeyang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.11_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Icheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.3.5_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "North Hamgyong Province",
+    "ADM2": "Gimchaek City",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "쌍용광산(쌍룡광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Gangryeong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.7_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Gimhwa County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.8_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Gosan County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "고산광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Goseong County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.6_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Geumgang County",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.9_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Gwail County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.12_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Muncheon City",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Ongjin County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "장송리광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.9.2_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "South Hwanghae Province",
+    "ADM2": "Baecheon County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "배천광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "PRK.2.13_1": {
+    "ADM0": "PRK_loc",
+    "ADM1": "Kangwon Province",
+    "ADM2": "Pangyo County",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "판교광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+    "HU222": {
+        "ADM0": "HU",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Vas",
+        "segmentation": {
+            "nodata": {
+                "val": 0,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "bareland": {
+                "val": 0,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "rangeland": {
+                "val": 0,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "development": {
+                "val": 0,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "road": {
+                "val": 0,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "tree": {
+                "val": 0,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "water": {
+                "val": 0,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "agricultural": {
+                "val": 0,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            },
+            "building": {
+                "val": 0,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3336.0427716224713
+            }
+        }
+    }
+}

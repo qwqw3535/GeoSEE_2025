@@ -1,0 +1,246 @@
+{
+    "3 North_Hamgyong_Province rason": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "rason",
+    "so2": {
+      "SO2_Average": {
+        "val": 0.0001365993479665787,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "SO2_Sum": {
+        "val": 0.1087898634554533,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Average": {
+        "val": 0.039477590017029,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "CO_Sum": {
+        "val": 31.440571945875902,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Average": {
+        "val": 8.21346714521248,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      },
+      "LST_Sum": {
+        "val": 808183.74765498,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.011097283610583,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.3934034451900518e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "1 North_Hamgyong_Province cheongjin": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "cheongjin",
+    "so2": {
+      "SO2_Average": {
+        "val": 0.00012778866227361455,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "SO2_Sum": {
+        "val": 0.2037076559643644,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Average": {
+        "val": 0.0386812507593194,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "CO_Sum": {
+        "val": 61.66170598984142,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Average": {
+        "val": 8.62781305470303,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      },
+      "LST_Sum": {
+        "val": 1700847.8513479582,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.0198997845695745,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 1.2483413240609358e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "4 North_Pyongan_Province shinuiju": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Pyongan_Province",
+        "ADM2": "shinuiju",
+    "so2": {
+      "SO2_Average": {
+        "val": 0.0001597459401692935,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "SO2_Sum": {
+        "val": 0.0264702155133855,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Average": {
+        "val": 0.0451539960517149,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "CO_Sum": {
+        "val": 7.48210568301633,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Average": {
+        "val": 14.44863020875417,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      },
+      "LST_Sum": {
+        "val": 296679.6168510226,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.006413182117855,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 3.870311544594709e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  },
+    "2 pyeongyang pyeongyang": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "pyeongyang",
+        "ADM2": "pyeongyang",
+    "so2": {
+      "SO2_Average": {
+        "val": 0.0001884116449674521,
+        "desc": "Average SO2 column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "SO2_Sum": {
+        "val": 0.38110553381863976,
+        "desc": "Sum of SO2 column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "co": {
+      "CO_Average": {
+        "val": 0.04647492590560268,
+        "desc": "Average CO column density",
+        "type": "ratio",
+        "weight": null
+      },
+      "CO_Sum": {
+        "val": 97.55153981392547,
+        "desc": "Sum of CO column density",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "lst": {
+      "LST_Average": {
+        "val": 22.106024368871864,
+        "desc": "Average land surface temperature (°C)",
+        "type": "ratio",
+        "weight": null
+      },
+      "LST_Sum": {
+        "val": 5786578.203074808,
+        "desc": "Sum of land surface temperature (°C)",
+        "type": "default",
+        "weight": null
+      }
+    },
+    "no2": {
+      "NO2_Sum": {
+        "val": 0.07940229569681208,
+        "desc": "Sum of NO2 column density",
+        "type": "default",
+        "weight": null
+      },
+      "NO2_Average": {
+        "val": 4.588504163297045e-05,
+        "desc": "Average NO2 column density",
+        "type": "ratio",
+        "weight": null
+      }
+    }
+  }
+}

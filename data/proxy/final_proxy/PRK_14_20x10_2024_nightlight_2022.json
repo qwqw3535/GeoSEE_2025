@@ -1,0 +1,382 @@
+{
+    "1 Pyonganbuk-do Unsan-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Unsan-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 32.1973876953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.02254719026282388,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 160.59465670661734
+            }
+        }
+    },
+    "2 Pyonganbuk-do Guseong-si": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Guseong-si",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 80.55765533447266,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.16373507181803384,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 133.14938844317055
+            }
+        }
+    },
+    "3 Pyonganbuk-do Gujang-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Pyonganbuk-do",
+        "ADM2": "Gujang-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 70.20146179199219,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.20647488762350644,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 148.02150960256193
+            }
+        }
+    },
+    "4 Pyongannam-do Sukcheon-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Pyongannam-do",
+        "ADM2": "Sukcheon-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26.92242431640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.10008336177102695,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 138.93830899945831
+            }
+        }
+    },
+    "5 Pyongannam-do Seongcheon-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Pyongannam-do",
+        "ADM2": "Seongcheon-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26.31537628173828,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.14701327531697364,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 146.89377913275908
+            }
+        }
+    },
+    "6 Hwanghaebuk-do Yeontan-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hwanghaebuk-do",
+        "ADM2": "Yeontan-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.409955978393555,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.03983847300211588,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 138.5562556796894
+            }
+        }
+    },
+    "7 Hwanghaebuk-do Eunpa-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hwanghaebuk-do",
+        "ADM2": "Eunpa-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38.51988220214844,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.09654105815074797,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 150.2135079312973
+            }
+        }
+    },
+    "8 Hwanghaenam-do Jaeryeong-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hwanghaenam-do",
+        "ADM2": "Jaeryeong-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18.122310638427734,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.045419324908340185,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 150.34002867266463
+            }
+        }
+    },
+    "9 Hwanghaenam-do Euncheon-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hwanghaenam-do",
+        "ADM2": "Euncheon-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 44.173606872558594,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.1027293183082758,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 149.82020856941986
+            }
+        }
+    },
+    "10 Hamgyeongbuk-do Gyeongseong-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hamgyeongbuk-do",
+        "ADM2": "Gyeongseong-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 101.63788604736328,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.25473154397835407,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 140.47790795871163
+            }
+        }
+    },
+    "11 Hamgyeongbuk-do Eorang-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hamgyeongbuk-do",
+        "ADM2": "Eorang-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7.250800132751465,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.019439142447054865,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 134.35838702675437
+            }
+        }
+    },
+    "12 Hamgyeongnam-do Hamju-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hamgyeongnam-do",
+        "ADM2": "Hamju-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 356.8817138671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5287136501736112,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 154.98125625150107
+            }
+        }
+    },
+    "13 Hamgyeongnam-do Geumya-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Hamgyeongnam-do",
+        "ADM2": "Geumya-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43.49872589111328,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.11820305948672087,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 145.68252002189445
+            }
+        }
+    },
+    "14 Gangwon-do Gosan-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Gangwon-do",
+        "ADM2": "Gosan-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 40.9433479309082,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.12482728027715916,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 133.901525372921
+            }
+        }
+    },
+    "15 Gangwon-do Icheon-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Gangwon-do",
+        "ADM2": "Icheon-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17.81627655029297,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.030877429029970482,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 179.13471644870756
+            }
+        }
+    },
+    "16 Jagang-do Wusi-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Jagang-do",
+        "ADM2": "Wusi-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13.339091300964355,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.00908657445569779,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 189.15799929298973
+            }
+        }
+    },
+    "17 Jagang-do Dongsin-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Jagang-do",
+        "ADM2": "Dongsin-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 64.66576385498047,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.0735674219055523,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 177.7041088532772
+            }
+        }
+    },
+    "18 Yanggang-do Kimhyongjik-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Yanggang-do",
+        "ADM2": "Kimhyongjik-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 96.85852813720703,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.13471283468318085,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 137.51189496392823
+            }
+        }
+    },
+    "19 Nampo-si Oncheon-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Nampo-si",
+        "ADM2": "Oncheon-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24.539443969726562,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.07458797559187405,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 133.98968979537773
+            }
+        }
+    },
+    "20 Gaeseong-si Jangpung-gun": {
+        "ADM0": "PRK_14_20x10_2024",
+        "ADM1": "Gaeseong-si",
+        "ADM2": "Jangpung-gun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24.55113410949707,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.07462350793160204,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 148.21202537402723
+            }
+        }
+    }
+}

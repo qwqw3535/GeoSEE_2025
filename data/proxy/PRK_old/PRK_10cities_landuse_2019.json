@@ -1,0 +1,432 @@
+{
+  "04017": {
+    "ADM0": "NK",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Yeontan",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.20816344022750854,
+          "Agricultural": 1.9257391691207886,
+          "Commercial": 0.012348592281341553,
+          "Factory": 0.013114571571350098,
+          "Mining": 103.68572127819061,
+          "Power station": 0.3268404006958008,
+          "Transportation": 0.6179155707359314,
+          "Sports": 0.07265198230743408,
+          "Religious": 1.0343146324157715,
+          "Water": 11.583641707897186,
+          "Others": 164.46485036611557
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0007278441965996803,
+          "Agricultural": 0.006733353738184575,
+          "Commercial": 4.317689608860683e-5,
+          "Factory": 4.585514535437097e-5,
+          "Mining": 0.3625374869866805,
+          "Power station": 0.0011427986038314714,
+          "Transportation": 0.002160543953622138,
+          "Sports": 0.0002540279101658534,
+          "Religious": 0.003616484728726474,
+          "Water": 0.04050224373390625,
+          "Others": 0.5750519243570474
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 286.0
+      }
+    }
+  },
+  "10013": {
+    "ADM0": "NK",
+    "ADM1": "Nampo-si",
+    "ADM2": "Oncheon",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.42040085792541504,
+          "Agricultural": 27.599691808223724,
+          "Commercial": 0.144584059715271,
+          "Factory": 0.1277003288269043,
+          "Mining": 37.45362043380737,
+          "Power station": 1.1825096607208252,
+          "Transportation": 2.1708004474639893,
+          "Sports": 0.6257115006446838,
+          "Religious": 1.713386356830597,
+          "Water": 6.232623815536499,
+          "Others": 136.28809475898743
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0019463002681732178,
+          "Agricultural": 0.12777635096399872,
+          "Commercial": 0.0006693706468299583,
+          "Factory": 0.0005912052260504828,
+          "Mining": 0.17339639089725636,
+          "Power station": 0.005474581762596413,
+          "Transportation": 0.010050002071592543,
+          "Sports": 0.0028968125029846473,
+          "Religious": 0.007932344244586097,
+          "Water": 0.02885473988674305,
+          "Others": 0.6309634016619788
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 216.0
+      }
+    }
+  },
+  "14001": {
+    "ADM0": "NK",
+    "ADM1": "Shinuiju",
+    "ADM2": "Shinuiju",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.5063163042068481,
+          "Agricultural": 7.266328573226929,
+          "Commercial": 0.29317694902420044,
+          "Factory": 0.3367880582809448,
+          "Mining": 14.743302881717682,
+          "Power station": 0.8389360904693604,
+          "Transportation": 3.9790802597999573,
+          "Sports": 1.1159180402755737,
+          "Religious": 0.9747895002365112,
+          "Water": 4.570500314235687,
+          "Others": 84.66969418525696
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.004184432266172299,
+          "Agricultural": 0.06005230225807379,
+          "Commercial": 0.002422949991935541,
+          "Factory": 0.002783372382487147,
+          "Mining": 0.12184547836130316,
+          "Power station": 0.0069333561195814904,
+          "Transportation": 0.03288496082479304,
+          "Sports": 0.009222463142773337,
+          "Religious": 0.008056111572202573,
+          "Water": 0.03777272986971642,
+          "Others": 0.6997495387211319
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 121.0
+      }
+    }
+  },
+  "01008": {
+    "ADM0": "NK",
+    "ADM1": "Jagang-do",
+    "ADM2": "Kanggye",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.4450055956840515,
+          "Agricultural": 0.6992315053939819,
+          "Commercial": 0.20226573944091797,
+          "Factory": 0.06114387512207031,
+          "Mining": 14.786948025226593,
+          "Power station": 0.8766534924507141,
+          "Transportation": 3.332258462905884,
+          "Sports": 0.33797502517700195,
+          "Religious": 3.619650959968567,
+          "Water": 9.227243721485138,
+          "Others": 220.79822540283203
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0017383031081408262,
+          "Agricultural": 0.002731373067945242,
+          "Commercial": 0.0007901005446910858,
+          "Factory": 0.00023884326219558716,
+          "Mining": 0.05776151572354138,
+          "Power station": 0.003424427704885602,
+          "Transportation": 0.013016634620726109,
+          "Sports": 0.0013202149420976639,
+          "Religious": 0.014139261562377214,
+          "Water": 0.03604392078705132,
+          "Others": 0.8624930679798126
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 256.0
+      }
+    }
+  },
+  "13009": {
+    "ADM0": "NK",
+    "ADM1": "Yanggang-do",
+    "ADM2": "Samjiyon",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.17673975229263306,
+          "Agricultural": 1.1223227977752686,
+          "Commercial": 0.03782916069030762,
+          "Factory": 0.1827879548072815,
+          "Mining": 21.242603957653046,
+          "Power station": 1.7683032751083374,
+          "Transportation": 1.3530611395835876,
+          "Sports": 0.273748517036438,
+          "Religious": 20.322699546813965,
+          "Water": 5.571015775203705,
+          "Others": 729.6006317138672
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0002254333575161136,
+          "Agricultural": 0.0014315341808358018,
+          "Commercial": 4.825148047233115e-5,
+          "Factory": 0.00023314790153989987,
+          "Mining": 0.027095158109251335,
+          "Power station": 0.0022554888713116547,
+          "Transportation": 0.0017258432902851884,
+          "Sports": 0.0003491690268321913,
+          "Religious": 0.025921810646446383,
+          "Water": 0.007105887468372073,
+          "Others": 0.9306130506554429
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 784.0
+      }
+    }
+  },
+  "12001": {
+    "ADM0": "NK",
+    "ADM1": "Rason",
+    "ADM2": "Rason",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.34512704610824585,
+          "Agricultural": 3.4204949140548706,
+          "Commercial": 0.32541680335998535,
+          "Factory": 0.5178673267364502,
+          "Mining": 64.03509384393692,
+          "Power station": 1.1666769981384277,
+          "Transportation": 5.103185653686523,
+          "Sports": 1.1274588108062744,
+          "Religious": 4.708959400653839,
+          "Water": 22.868202805519104,
+          "Others": 640.8968160152435
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.00046016939481099446,
+          "Agricultural": 0.0045606598854064945,
+          "Commercial": 0.00043388907114664713,
+          "Factory": 0.0006904897689819335,
+          "Mining": 0.08538012512524923,
+          "Power station": 0.001555569330851237,
+          "Transportation": 0.006804247538248698,
+          "Sports": 0.001503278414408366,
+          "Religious": 0.006278612534205119,
+          "Water": 0.030490937074025472,
+          "Others": 0.8545290880203247
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 750.0
+      }
+    }
+  },
+  "04015": {
+    "ADM0": "NK",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Eunpa",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.10262030363082886,
+          "Agricultural": 5.7280014753341675,
+          "Commercial": 0.01578444242477417,
+          "Factory": 0.010918259620666504,
+          "Mining": 52.76373487710953,
+          "Power station": 0.13334596157073975,
+          "Transportation": 1.6489291787147522,
+          "Sports": 0.08234292268753052,
+          "Religious": 1.2162864208221436,
+          "Water": 11.770122587680817,
+          "Others": 149.2568838596344
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0004581263554947717,
+          "Agricultural": 0.02557143515774182,
+          "Commercial": 7.046626082488469e-5,
+          "Factory": 4.8742230449404034e-5,
+          "Mining": 0.23555238784423896,
+          "Power station": 0.0005952944712979453,
+          "Transportation": 0.007361290976405144,
+          "Sports": 0.0003676023334264755,
+          "Religious": 0.005429850092955998,
+          "Water": 0.05254519012357507,
+          "Others": 0.6663253743733678
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 224.0
+      }
+    }
+  },
+  "09010": {
+    "ADM0": "NK",
+    "ADM1": "Pyonganbuk-do",
+    "ADM2": "Guseong-si",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.3149571418762207,
+          "Agricultural": 1.5436676740646362,
+          "Commercial": 0.04210621118545532,
+          "Factory": 0.06659823656082153,
+          "Mining": 89.72346931695938,
+          "Power station": 0.9434966444969177,
+          "Transportation": 2.982237160205841,
+          "Sports": 0.14677315950393677,
+          "Religious": 5.168569922447205,
+          "Water": 12.029556512832642,
+          "Others": 261.96894031763077
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.0008332199520534939,
+          "Agricultural": 0.00408377691551491,
+          "Commercial": 0.00011139209308321513,
+          "Factory": 0.00017618581100746437,
+          "Mining": 0.23736367544169149,
+          "Power station": 0.002496022869039465,
+          "Transportation": 0.00788951629684085,
+          "Sports": 0.00038828878175644645,
+          "Religious": 0.013673465403299483,
+          "Water": 0.03182422357892233,
+          "Others": 0.6930395246498169
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 378.0
+      }
+    }
+  },
+  "11001": {
+    "ADM0": "NK",
+    "ADM1": "Pyeongyang",
+    "ADM2": "Pyeongyang",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 1.8984574675559998,
+          "Agricultural": 20.837240755558014,
+          "Commercial": 5.295121967792511,
+          "Factory": 5.514410674571991,
+          "Mining": 118.1980065703392,
+          "Power station": 9.449500918388367,
+          "Transportation": 32.92715710401535,
+          "Sports": 6.347393453121185,
+          "Religious": 6.342724323272705,
+          "Water": 14.855314493179321,
+          "Others": 318.658896446228
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.003451740850101818,
+          "Agricultural": 0.037885892282832755,
+          "Commercial": 0.009627494486895474,
+          "Factory": 0.010026201226494528,
+          "Mining": 0.21490546649152584,
+          "Power station": 0.01718091076070612,
+          "Transportation": 0.059867558370937,
+          "Sports": 0.011540715369311247,
+          "Religious": 0.01153222604231401,
+          "Water": 0.027009662714871492,
+          "Others": 0.5793798117204146
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 550.0
+      }
+    }
+  },
+  "03004": {
+    "ADM0": "NK",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Hamhŭng",
+    "landuse": {
+      "Landuse_Sum": {
+        "val": {
+          "Residential": 0.9380477666854858,
+          "Agricultural": 4.259244322776794,
+          "Commercial": 1.7698169946670532,
+          "Factory": 0.33258920907974243,
+          "Mining": 79.1081885099411,
+          "Power station": 1.6259578466415405,
+          "Transportation": 6.311962246894836,
+          "Sports": 0.17889946699142456,
+          "Religious": 4.150549232959747,
+          "Water": 3.3935137391090393,
+          "Others": 285.2653743028641
+        },
+        "desc": "Sum of landuse ratio",
+        "type": "default",
+        "weight": null
+      },
+      "Landuse_Average": {
+        "val": {
+          "Residential": 0.002405250683808938,
+          "Agricultural": 0.010921139289171268,
+          "Commercial": 0.004537992294018085,
+          "Factory": 0.0008527928437942114,
+          "Mining": 0.20284150899984899,
+          "Power station": 0.0041691226836962575,
+          "Transportation": 0.01618451858178163,
+          "Sports": 0.00045871658202929376,
+          "Religious": 0.010642433930666018,
+          "Water": 0.008701317279766767,
+          "Others": 0.7314496776996515
+        },
+        "desc": "Average landuse ratio",
+        "type": "ratio",
+        "weight": 390.0
+      }
+    }
+  }
+}

@@ -1,0 +1,268 @@
+{
+    "3018": {
+        "ADM0": "CZE",
+        "ADM1": "Hlavn\u00ed_m\u011bsto_Praha",
+        "ADM2": "Hlavn\u00ed_m\u011bsto_Praha",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 69706.859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 21.756198306803995,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            }
+        }
+    },
+    "3026": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edo\u010desk\u00fd_kraj",
+        "ADM2": "St\u0159edo\u010desk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 116633.15625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.9412975407789614,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            }
+        }
+    },
+    "3034": {
+        "ADM0": "CZE",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Jiho\u010desk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 47891.47265625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8419738511998945,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            }
+        }
+    },
+    "3042": {
+        "ADM0": "CZE",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Plze\u0148sk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 47997.296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.132759767653167,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            }
+        }
+    },
+    "3069": {
+        "ADM0": "CZE",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "\u00dasteck\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 66524.5625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1425821840166257,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            }
+        }
+    },
+    "3077": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Libereck\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 27920.029296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5095171548915982,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            }
+        }
+    },
+    "3085": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Kr\u00e1lov\u00e9hradeck\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38027.80078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3082808952162246,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            }
+        }
+    },
+    "3093": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Pardubick\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 32282.9765625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.394814282242385,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            }
+        }
+    },
+    "3107": {
+        "ADM0": "CZE",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Kraj_Vyso\u010dina",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38760.52734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1537931578183604,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            }
+        }
+    },
+    "3140": {
+        "ADM0": "CZE",
+        "ADM1": "Moravskoslezsk\u00fd_kraj",
+        "ADM2": "Moravskoslezsk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 73966.515625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3691671255761435,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            }
+        }
+    },
+    "3123": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Olomouck\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 48281.125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0855789769533446,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            }
+        }
+    },
+    "3131": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Zl\u00ednsk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34310.60546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.4220244308997845,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            }
+        }
+    },
+    "3115": {
+        "ADM0": "CZE",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Jihomoravsk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 73994.15625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0135491575919457,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            }
+        }
+    },
+    "3051": {
+        "ADM0": "CZE",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "Karlovarsk\u00fd_kraj",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24566.8359375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5496647913644106,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            }
+        }
+    }
+}

@@ -1,0 +1,78 @@
+{
+    "1 North_Hamgyong_Province cheongjin": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "cheongjin",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 1001.7236328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.4069152146242978,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 172.92063072592163
+            }
+        }
+    },
+    "2 pyeongyang pyeongyang": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "pyeongyang",
+        "ADM2": "pyeongyang",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11255.869140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 9.466668747371742,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 432.3959741339569
+            }
+        }
+    },
+    "3 North_Hamgyong_Province rason": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Hamgyong_Province",
+        "ADM2": "rason",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 381.39776611328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.40147133275082236,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 147.23672921814156
+            }
+        }
+    },
+    "4 North_Pyongan_Province shinuiju": {
+        "ADM0": "PRK_4shot",
+        "ADM1": "North_Pyongan_Province",
+        "ADM2": "shinuiju",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5052.63330078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.136487712967868,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 150.34760376459693
+            }
+        }
+    }
+}

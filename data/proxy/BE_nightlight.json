@@ -1,0 +1,838 @@
+{
+    "BE241": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Vlaams-Brabant",
+        "ADM2": "Arr. Halle-Vilvoorde",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 59369.1875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.203250121329774,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 948.3533022980978
+            }
+        }
+    },
+    "BE242": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Vlaams-Brabant",
+        "ADM2": "Arr. Leuven",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38748.08984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 6.100140088751575,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1170.1753909844233
+            }
+        }
+    },
+    "BE251": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Brugge",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 39113.984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 13.520215822675423,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 665.5581645855934
+            }
+        }
+    },
+    "BE253": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Ieper",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11280.3251953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.2896836381780403,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 553.8992392570024
+            }
+        }
+    },
+    "BE254": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Kortrijk",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24823.810546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 10.509657301809908,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 406.67220672481915
+            }
+        }
+    },
+    "BE255": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Oostende",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14831.0908203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.429835967835275,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 293.7157215183312
+            }
+        }
+    },
+    "BE256": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Roeselare",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16150.4404296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 6.250170444925503,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 273.641247952649
+            }
+        }
+    },
+    "BE257": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Tielt",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11752.984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.830102848101266,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 331.7625897121428
+            }
+        }
+    },
+    "BE258": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Veurne",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7432.681640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.4538483460153344,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 279.2836234380092
+            }
+        }
+    },
+    "BE252": {
+        "ADM0": "BE",
+        "ADM1": "Prov. West-Vlaanderen",
+        "ADM2": "Arr. Diksmuide",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4145.92724609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.726031326433701,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 364.9503533365219
+            }
+        }
+    },
+    "BE224": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Hasselt",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42310.49609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.9082298257666728,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 883.3617071810158
+            }
+        }
+    },
+    "BE225": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Maaseik",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22792.16015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.819657465901882,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 910.2805178044938
+            }
+        }
+    },
+    "BE223": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Limburg (BE)",
+        "ADM2": "Arr. Tongeren",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19697.55859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.6571642511466345,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 633.2054692062258
+            }
+        }
+    },
+    "BE233": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Eeklo",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8223.251953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.7446502518784155,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 335.87562038025396
+            }
+        }
+    },
+    "BE234": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Gent",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 56509.19140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 9.631701279401739,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 949.5093241966259
+            }
+        }
+    },
+    "BE235": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Oudenaarde",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11484.576171875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.155056502125543,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 422.57540052228217
+            }
+        }
+    },
+    "BE236": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Sint-Niklaas",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 41226.578125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 11.193749151506923,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 480.4442208621775
+            }
+        }
+    },
+    "BE232": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Dendermonde",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15804.12890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.087053321188341,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 346.75294309557734
+            }
+        }
+    },
+    "BE231": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Oost-Vlaanderen",
+        "ADM2": "Arr. Aalst",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19541.044921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 6.330108494290573,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 473.4205602424732
+            }
+        }
+    },
+    "BE100": {
+        "ADM0": "BE",
+        "ADM1": "R\u00e9gion de Bruxelles-Capitale/ Brussels Hoofdstedelijk Gewest",
+        "ADM2": "Arr. de Bruxelles-Capitale/Arr. Brussel-Hoofdstad",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 52217.703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 57.25625342653509,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 162.43810893172653
+            }
+        }
+    },
+    "BE211": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Antwerpen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 105096.4375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 17.371311983471074,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1003.0807109841354
+            }
+        }
+    },
+    "BE212": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Mechelen",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34999.4609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 10.438252590963316,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 511.9078718163614
+            }
+        }
+    },
+    "BE213": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Antwerpen",
+        "ADM2": "Arr. Turnhout",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 41962.5859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 5.949608101162625,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1359.9958977432807
+            }
+        }
+    },
+    "BE335": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Verviers \u2014 communes francophones",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14010.349609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.0009068279598687,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1163.3186756781406
+            }
+        }
+    },
+    "BE336": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Bezirk Verviers \u2014 Deutschsprachige Gemeinschaft",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5745.9052734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5499526486827623,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 845.6407622123311
+            }
+        }
+    },
+    "BE334": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Waremme",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7207.1962890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.1431296507032274,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 390.39793982376335
+            }
+        }
+    },
+    "BE331": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Huy",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11703.5859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.946704247754491,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 660.9189232490764
+            }
+        }
+    },
+    "BE332": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Li\u00e8ge",
+        "ADM2": "Arr. Li\u00e8ge",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 41472.46875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.283538593256059,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 796.0585845656157
+            }
+        }
+    },
+    "BE310": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Brabant Wallon",
+        "ADM2": "Arr. Nivelles",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 29896.138671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 4.029129201061321,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1097.8605103938862
+            }
+        }
+    },
+    "BE32D": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Thuin",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8273.2490234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.2357354777352503,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 785.223596299374
+            }
+        }
+    },
+    "BE32A": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Ath",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 13242.7568359375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.7365272535978888,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 670.9660686030948
+            }
+        }
+    },
+    "BE32B": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Charleroi",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28598.57421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 16.952326152193244,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 475.9301183832482
+            }
+        }
+    },
+    "BE323": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Mons",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 21216.1328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 5.878673541839845,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 589.0463177253714
+            }
+        }
+    },
+    "BE32C": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Soignies",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 12600.7333984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 6.078501398184998,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 357.75963556707376
+            }
+        }
+    },
+    "BE328": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. Tournai-Mouscron",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25972.26171875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.288304997246696,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 714.8952900607883
+            }
+        }
+    },
+    "BE329": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Hainaut",
+        "ADM2": "Arr. La Louvi\u00e8re",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8083.6162109375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 5.887557327703933,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 219.8429903334215
+            }
+        }
+    },
+    "BE343": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Marche-en-Famenne",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6487.9052734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.2696487814946185,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 957.7526891395553
+            }
+        }
+    },
+    "BE344": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Neufch\u00e2teau",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 7321.7041015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9060393641334612,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1358.7249626610921
+            }
+        }
+    },
+    "BE345": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Virton",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 4722.634765625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9855247841454507,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 778.1873753368438
+            }
+        }
+    },
+    "BE341": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Arlon",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 5578.89990234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.689922807301712,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 319.18019620972154
+            }
+        }
+    },
+    "BE342": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Luxembourg (BE)",
+        "ADM2": "Arr. Bastogne",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6432.25048828125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.567267879732009,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1046.8502058453246
+            }
+        }
+    },
+    "BE353": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Philippeville",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 6338.25927734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.224311237655737,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 911.8895775935687
+            }
+        }
+    },
+    "BE351": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Dinant",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11139.3994140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8445977264434377,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1597.4048619529108
+            }
+        }
+    },
+    "BE352": {
+        "ADM0": "BE",
+        "ADM1": "Prov. Namur",
+        "ADM2": "Arr. Namur",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 23167.888671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.357178477304014,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1167.5772177869587
+            }
+        }
+    }
+}

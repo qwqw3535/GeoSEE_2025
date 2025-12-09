@@ -1,0 +1,1389 @@
+{
+    "922": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ciechanowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28389.583984375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5887878545818902,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5255.312839417529
+            }
+        }
+    },
+    "622": {
+        "ADM0": "PL",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "Olszty\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 48462.32421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1262712175219038,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 10330.452531197621
+            }
+        }
+    },
+    "616": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Grudzi\u0105dzki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 24538.794921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8886360151327225,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4053.0215895006572
+            }
+        }
+    },
+    "621": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Elbl\u0105ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 41056.1328125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0409242130850362,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7333.179079700839
+            }
+        }
+    },
+    "923": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "P\u0142ocki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28964.732421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.732236853171162,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3351.2779515778493
+            }
+        }
+    },
+    "924": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Ostro\u0142\u0119cki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 27902.435546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4906526613715095,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6505.86840426671
+            }
+        }
+    },
+    "926": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "\u017byrardowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30572.0390625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.630585352553525,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2535.754901739253
+            }
+        }
+    },
+    "912": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski wschodni",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 62636.60546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.3837045883757657,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3122.88282104251
+            }
+        }
+    },
+    "913": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Warszawski zachodni",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 88913.1015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.741031748327513,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2463.073366590654
+            }
+        }
+    },
+    "22C": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Tyski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 36408.1015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 5.358072341795438,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 944.2749305985308
+            }
+        }
+    },
+    "229": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Gliwicki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 37218.94921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.71697060309973,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 879.2210211636509
+            }
+        }
+    },
+    "22A": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Katowicki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 46413.28125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 14.823788326413286,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 380.30310090220644
+            }
+        }
+    },
+    "22B": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Sosnowiecki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 60283.8671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.6246894456417627,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1802.0477537842387
+            }
+        }
+    },
+    "225": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bielski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43407.28515625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.332101416769018,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2352.9158325066555
+            }
+        }
+    },
+    "227": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Rybnicki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43282.5234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 7.27437368697479,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1353.139018671037
+            }
+        }
+    },
+    "21A": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "O\u015bwi\u0119cimski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43041.69921875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.318307617082301,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2039.9165500620163
+            }
+        }
+    },
+    "228": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Bytomski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30288.65234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 3.3624170008603462,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 1577.293972248847
+            }
+        }
+    },
+    "224": {
+        "ADM0": "PL",
+        "ADM1": "\u015al\u0105skie",
+        "ADM2": "Cz\u0119stochowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 37969.390625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.945851003177369,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3048.128081723313
+            }
+        }
+    },
+    "524": {
+        "ADM0": "PL",
+        "ADM1": "Opolskie",
+        "ADM2": "Opolski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 53955.82421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.6371582431274085,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5319.375252854529
+            }
+        }
+    },
+    "722": {
+        "ADM0": "PL",
+        "ADM1": "\u015awi\u0119tokrzyskie",
+        "ADM2": "Sandomiersko-j\u0119drzejowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 32591.81640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5178318118535408,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6678.446311010698
+            }
+        }
+    },
+    "214": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Krakowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 61245.52734375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.9300263871600543,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4052.108939039175
+            }
+        }
+    },
+    "714": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Sieradzki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 31670.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8766539334551293,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5667.625810127221
+            }
+        }
+    },
+    "713": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Piotrkowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 53797.1796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1609732765225085,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5970.336072976605
+            }
+        }
+    },
+    "219": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowotarski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22213.140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.786027622965322,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2632.2949149003475
+            }
+        }
+    },
+    "523": {
+        "ADM0": "PL",
+        "ADM1": "Opolskie",
+        "ADM2": "Nyski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26920.701171875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5138224795654954,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4092.8865815746167
+            }
+        }
+    },
+    "822": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Przemyski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16016.603515625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4878945874139454,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4291.9231501789845
+            }
+        }
+    },
+    "823": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Rzeszowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34949.48046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.095795182822619,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3551.31040264977
+            }
+        }
+    },
+    "821": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Kro\u015bnie\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 11827.1435546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.27265303966728527,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5538.1807014143915
+            }
+        }
+    },
+    "824": {
+        "ADM0": "PL",
+        "ADM1": "Podkarpackie",
+        "ADM2": "Tarnobrzeski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 32736.6484375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5802929846757897,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4465.265878941761
+            }
+        }
+    },
+    "812": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Che\u0142msko-zamojski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 23420.66796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5163741945663198,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 9292.389616445564
+            }
+        }
+    },
+    "623": {
+        "ADM0": "PL",
+        "ADM1": "Warmi\u0144sko-mazurskie",
+        "ADM2": "E\u0142cki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22208.4609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9546277913299519,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6348.486501199239
+            }
+        }
+    },
+    "921": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Radomski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 45160.60546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5530315852935108,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5763.4921673741665
+            }
+        }
+    },
+    "721": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Kielecki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 61564.69140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.4491947508650722,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5030.320191949877
+            }
+        }
+    },
+    "815": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Pu\u0142awski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28728.412109375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5706762302968753,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5631.781934544819
+            }
+        }
+    },
+    "217": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Tarnowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30633.98046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.5538958289912466,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2605.2627252010225
+            }
+        }
+    },
+    "618": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "\u015awiecki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19066.158203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9064447182240658,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3341.2961189553725
+            }
+        }
+    },
+    "613": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Bydgosko-toru\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 60659.55859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.1511244580924855,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2917.506797862566
+            }
+        }
+    },
+    "619": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "W\u0142oc\u0142awski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25074.455078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.483081272734666,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3656.0198299352796
+            }
+        }
+    },
+    "638": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Starogardzki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34833.31640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.6582555653741788,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4101.459742344686
+            }
+        }
+    },
+    "617": {
+        "ADM0": "PL",
+        "ADM1": "Kujawsko-pomorskie",
+        "ADM2": "Inowroc\u0142awski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 34713.671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0997171600772984,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4004.4088056983273
+            }
+        }
+    },
+    "414": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Koni\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 64814.2109375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1710942440599874,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6397.756074878117
+            }
+        }
+    },
+    "411": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pilski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 37868.20703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.7133101083342752,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6457.553941023289
+            }
+        }
+    },
+    "637": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Chojnicki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 17815.62890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5973588018458289,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4105.618585521549
+            }
+        }
+    },
+    "715": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Skierniewicki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28926.087890625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5817797242684031,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4080.4231161227262
+            }
+        }
+    },
+    "418": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Pozna\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 86344.5234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.8492359170200463,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4928.336337628542
+            }
+        }
+    },
+    "416": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Kaliski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 60956.8359375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5925602449968648,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5785.265099112133
+            }
+        }
+    },
+    "417": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Leszczy\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 57542.91015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8971874293504529,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5995.167815288967
+            }
+        }
+    },
+    "427": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczecinecko-pyrzycki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 36309.4609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.29589651159237224,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 10338.926442045287
+            }
+        }
+    },
+    "431": {
+        "ADM0": "PL",
+        "ADM1": "Lubuskie",
+        "ADM2": "Gorzowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 39945.203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9346749450125185,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6111.880520975716
+            }
+        }
+    },
+    "415": {
+        "ADM0": "PL",
+        "ADM1": "Wielkopolskie",
+        "ADM2": "Miasto Pozna\u0144",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42277.0703125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 17.929207087574216,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 261.95019856787275
+            }
+        }
+    },
+    "518": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wroc\u0142awski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 82137.203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.053481415160379,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6433.151182646348
+            }
+        }
+    },
+    "841": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "Bia\u0142ostocki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38814.4609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.116962904676259,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5132.290399826153
+            }
+        }
+    },
+    "842": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "\u0141om\u017cy\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30490.55859375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.29434734661444,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 8817.827123735904
+            }
+        }
+    },
+    "843": {
+        "ADM0": "PL",
+        "ADM1": "Podlaskie",
+        "ADM2": "Suwalski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16254.1279296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.3089668478118822,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6234.700170406117
+            }
+        }
+    },
+    "516": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Legnicko-g\u0142ogowski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43408.4296875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.1489321627475246,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3472.864861459763
+            }
+        }
+    },
+    "432": {
+        "ADM0": "PL",
+        "ADM1": "Lubuskie",
+        "ADM2": "Zielonog\u00f3rski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 57037.99609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1796896813598758,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7874.25168917839
+            }
+        }
+    },
+    "634": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Gda\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 60093.16796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1984119330079372,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4305.060796059544
+            }
+        }
+    },
+    "424": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Miasto Szczecin",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26511.537109375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 12.172422915231865,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 300.29550267702973
+            }
+        }
+    },
+    "428": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Szczeci\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 54240.69140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6891820058479347,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7441.324292674287
+            }
+        }
+    },
+    "426": {
+        "ADM0": "PL",
+        "ADM1": "Zachodniopomorskie",
+        "ADM2": "Koszali\u0144ski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 28388.244140625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.8710989640868084,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4365.807341299153
+            }
+        }
+    },
+    "636": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "S\u0142upski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 27908.1796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.317853316687916,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5245.897493187595
+            }
+        }
+    },
+    "925": {
+        "ADM0": "PL",
+        "ADM1": "Mazowiecki regionalny",
+        "ADM2": "Siedlecki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 25598.05078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.35801469624125876,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6044.102510598406
+            }
+        }
+    },
+    "811": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Bialski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 18411.263671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5208130936006053,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5978.14212197377
+            }
+        }
+    },
+    "515": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Jeleniog\u00f3rski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 49122.63671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.0141342895815268,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5570.265087134009
+            }
+        }
+    },
+    "517": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Wa\u0142brzyski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 43825.8671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5089993178218504,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4180.131266488691
+            }
+        }
+    },
+    "514": {
+        "ADM0": "PL",
+        "ADM1": "Dolno\u015bl\u0105skie",
+        "ADM2": "Miasto Wroc\u0142aw",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 39971.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 26.790214477211798,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 292.06786644127044
+            }
+        }
+    },
+    "712": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "\u0141\u00f3dzki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 42138.015625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.8490882775524002,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2206.588270605802
+            }
+        }
+    },
+    "711": {
+        "ADM0": "PL",
+        "ADM1": "\u0141\u00f3dzkie",
+        "ADM2": "Miasto \u0141\u00f3d\u017a",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 52588.203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 48.33474551930147,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 293.4568293659764
+            }
+        }
+    },
+    "633": {
+        "ADM0": "PL",
+        "ADM1": "Pomorskie",
+        "ADM2": "Tr\u00f3jmiejski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 66516.1953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 8.978968049743521,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 415.61905883938846
+            }
+        }
+    },
+    "218": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Nowos\u0105decki",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 29819.25,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.5606453132359868,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3526.9049209545096
+            }
+        }
+    },
+    "814": {
+        "ADM0": "PL",
+        "ADM1": "Lubelskie",
+        "ADM2": "Lubelski",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 59046.84375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 2.1779662775257274,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4221.645066472419
+            }
+        }
+    },
+    "213": {
+        "ADM0": "PL",
+        "ADM1": "Ma\u0142opolskie",
+        "ADM2": "Miasto Krak\u00f3w",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 47280.671875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 28.81210961304083,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 327.57132353685296
+            }
+        }
+    },
+    "911": {
+        "ADM0": "PL",
+        "ADM1": "Warszawski sto\u0142eczny",
+        "ADM2": "Miasto Warszawa",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 119562.640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 45.47837224229745,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 517.6885202343306
+            }
+        }
+    }
+}

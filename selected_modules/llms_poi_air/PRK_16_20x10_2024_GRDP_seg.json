@@ -1,0 +1,13 @@
+{
+  "s_modules": [
+
+    "get_landcover_ratio(Loc, target_class='bareland')",
+    "get_landcover_ratio(Loc, target_class='development')",
+    "get_landcover_ratio(Loc, target_class='building')",
+    "get_landcover_ratio(Loc, target_class='road')",
+    "get_landcover_ratio(Loc, target_class='rangeland')",
+    "get_landcover_ratio(Loc, target_class='agricultural')",
+    "get_landcover_ratio(Loc, target_class='water')",
+    "get_landcover_ratio(Loc, target_class='tree')"
+  ]
+}

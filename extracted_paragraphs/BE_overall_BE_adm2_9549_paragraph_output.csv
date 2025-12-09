@@ -1,0 +1,617 @@
+area_id,desc
+BE241,"full address of the given location is Struweelgaard 19, 1700, Dilbeek, BEL
+area of district (km^2) of the given location is 948.353
+Sum of nightlight intensity is 59369.188
+Average nightlight intensity is 7.203
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.107
+Land cover ratio of building is 0.037
+Land cover ratio of road is 0.024
+Land cover ratio of rangeland is 0.465
+Land cover ratio of agricultural is 0.18
+Land cover ratio of water is 0.091
+Land cover ratio of tree is 0.094
+distance to the nearest airport is 15.799
+distance to the nearest port is 8.907"
+BE242,"full address of the given location is Wauwerdries 1-15, 3210, Lubbeek, BEL
+area of district (km^2) of the given location is 1170.175
+Sum of nightlight intensity is 38748.09
+Average nightlight intensity is 6.1
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.083
+Land cover ratio of building is 0.035
+Land cover ratio of road is 0.022
+Land cover ratio of rangeland is 0.422
+Land cover ratio of agricultural is 0.243
+Land cover ratio of water is 0.098
+Land cover ratio of tree is 0.095
+distance to the nearest airport is 25.617
+distance to the nearest port is 32.541"
+BE251,"full address of the given location is Vroedvrouw Simon, Oostmeers 42, 8000, Brugge, BEL
+area of district (km^2) of the given location is 665.558
+Sum of nightlight intensity is 39113.984
+Average nightlight intensity is 13.52
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.114
+Land cover ratio of building is 0.03
+Land cover ratio of road is 0.029
+Land cover ratio of rangeland is 0.332
+Land cover ratio of agricultural is 0.284
+Land cover ratio of water is 0.174
+Land cover ratio of tree is 0.031
+distance to the nearest airport is 70.679
+distance to the nearest port is 14.898"
+BE253,"full address of the given location is 8908, Ieper, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 553.899
+Sum of nightlight intensity is 11280.325
+Average nightlight intensity is 3.29
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.063
+Land cover ratio of building is 0.021
+Land cover ratio of road is 0.014
+Land cover ratio of rangeland is 0.285
+Land cover ratio of agricultural is 0.388
+Land cover ratio of water is 0.202
+Land cover ratio of tree is 0.025
+distance to the nearest airport is 35.761
+distance to the nearest port is 42.706"
+BE254,"full address of the given location is Oudenaardsesteenweg, 8550, Zwevegem, BEL
+area of district (km^2) of the given location is 406.672
+Sum of nightlight intensity is 24823.811
+Average nightlight intensity is 10.51
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.133
+Land cover ratio of building is 0.056
+Land cover ratio of road is 0.039
+Land cover ratio of rangeland is 0.337
+Land cover ratio of agricultural is 0.249
+Land cover ratio of water is 0.152
+Land cover ratio of tree is 0.032
+distance to the nearest airport is 31.428
+distance to the nearest port is 45.493"
+BE255,"full address of the given location is 8470, Gistel, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 293.716
+Sum of nightlight intensity is 14831.091
+Average nightlight intensity is 4.43
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.094
+Land cover ratio of building is 0.039
+Land cover ratio of road is 0.022
+Land cover ratio of rangeland is 0.423
+Land cover ratio of agricultural is 0.228
+Land cover ratio of water is 0.157
+Land cover ratio of tree is 0.036
+distance to the nearest airport is 68.157
+distance to the nearest port is 6.091"
+BE256,"full address of the given location is Iepersestraat 157A, bus 12, 8800, Roeselare, BEL
+area of district (km^2) of the given location is 273.641
+Sum of nightlight intensity is 16150.44
+Average nightlight intensity is 6.25
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.117
+Land cover ratio of building is 0.051
+Land cover ratio of road is 0.028
+Land cover ratio of rangeland is 0.31
+Land cover ratio of agricultural is 0.311
+Land cover ratio of water is 0.154
+Land cover ratio of tree is 0.029
+distance to the nearest airport is 41.001
+distance to the nearest port is 34.705"
+BE257,"full address of the given location is Fonteinestraat 41, 8700, Tielt, BEL
+area of district (km^2) of the given location is 331.763
+Sum of nightlight intensity is 11752.984
+Average nightlight intensity is 7.83
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.091
+Land cover ratio of building is 0.032
+Land cover ratio of road is 0.018
+Land cover ratio of rangeland is 0.31
+Land cover ratio of agricultural is 0.337
+Land cover ratio of water is 0.188
+Land cover ratio of tree is 0.024
+distance to the nearest airport is 49.802
+distance to the nearest port is 34.327"
+BE258,"full address of the given location is Arr. Veurne, Prov. West-Vlaanderen, BE
+area of district (km^2) of the given location is 279.284
+Sum of nightlight intensity is 7432.682
+Average nightlight intensity is 3.454
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.073
+Land cover ratio of building is 0.022
+Land cover ratio of road is 0.014
+Land cover ratio of rangeland is 0.408
+Land cover ratio of agricultural is 0.239
+Land cover ratio of water is 0.207
+Land cover ratio of tree is 0.034
+distance to the nearest airport is 61.005
+distance to the nearest port is 27.125"
+BE252,"full address of the given location is 8600, Diksmuide, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 364.95
+Sum of nightlight intensity is 4145.927
+Average nightlight intensity is 1.726
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.06
+Land cover ratio of building is 0.016
+Land cover ratio of road is 0.01
+Land cover ratio of rangeland is 0.416
+Land cover ratio of agricultural is 0.33
+Land cover ratio of water is 0.137
+Land cover ratio of tree is 0.029
+distance to the nearest airport is 52.485
+distance to the nearest port is 23.492"
+BE224,"full address of the given location is Zolderse kiezel 64, 3511, Hasselt, BEL
+area of district (km^2) of the given location is 883.362
+Sum of nightlight intensity is 42310.496
+Average nightlight intensity is 3.908
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.116
+Land cover ratio of building is 0.042
+Land cover ratio of road is 0.026
+Land cover ratio of rangeland is 0.46
+Land cover ratio of agricultural is 0.155
+Land cover ratio of water is 0.1
+Land cover ratio of tree is 0.098
+distance to the nearest airport is 55.975
+distance to the nearest port is 63.002"
+BE225,"full address of the given location is Baan naar Bree, 3990, Peer, Grote-Brogel, BEL
+area of district (km^2) of the given location is 910.281
+Sum of nightlight intensity is 22792.16
+Average nightlight intensity is 4.82
+Land cover ratio of bareland is 0.004
+Land cover ratio of development is 0.125
+Land cover ratio of building is 0.036
+Land cover ratio of road is 0.026
+Land cover ratio of rangeland is 0.416
+Land cover ratio of agricultural is 0.166
+Land cover ratio of water is 0.109
+Land cover ratio of tree is 0.118
+distance to the nearest airport is 74.793
+distance to the nearest port is 84.106"
+BE223,"full address of the given location is Souwveld 8, 3740, Bilzen, BEL
+area of district (km^2) of the given location is 633.205
+Sum of nightlight intensity is 19697.559
+Average nightlight intensity is 2.657
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.095
+Land cover ratio of building is 0.032
+Land cover ratio of road is 0.024
+Land cover ratio of rangeland is 0.35
+Land cover ratio of agricultural is 0.288
+Land cover ratio of water is 0.141
+Land cover ratio of tree is 0.066
+distance to the nearest airport is 72.955
+distance to the nearest port is 79.776"
+BE233,"full address of the given location is Kleemstraat 3, 9970, Kaprijke, BEL
+area of district (km^2) of the given location is 335.876
+Sum of nightlight intensity is 8223.252
+Average nightlight intensity is 3.745
+Land cover ratio of bareland is 0.004
+Land cover ratio of development is 0.092
+Land cover ratio of building is 0.02
+Land cover ratio of road is 0.026
+Land cover ratio of rangeland is 0.266
+Land cover ratio of agricultural is 0.428
+Land cover ratio of water is 0.138
+Land cover ratio of tree is 0.023
+distance to the nearest airport is 60.191
+distance to the nearest port is 17.039"
+BE234,"full address of the given location is Binnenring Drongen, 9030, Gent, Mariakerke, BEL
+area of district (km^2) of the given location is 949.509
+Sum of nightlight intensity is 56509.191
+Average nightlight intensity is 9.632
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.112
+Land cover ratio of building is 0.044
+Land cover ratio of road is 0.029
+Land cover ratio of rangeland is 0.391
+Land cover ratio of agricultural is 0.238
+Land cover ratio of water is 0.127
+Land cover ratio of tree is 0.055
+distance to the nearest airport is 56.913
+distance to the nearest port is 9.397"
+BE235,"full address of the given location is 9700, Oudenaarde, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 422.575
+Sum of nightlight intensity is 11484.576
+Average nightlight intensity is 4.155
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.077
+Land cover ratio of building is 0.032
+Land cover ratio of road is 0.016
+Land cover ratio of rangeland is 0.343
+Land cover ratio of agricultural is 0.305
+Land cover ratio of water is 0.177
+Land cover ratio of tree is 0.049
+distance to the nearest airport is 47.511
+distance to the nearest port is 32.614"
+BE236,"full address of the given location is Roskamstraat, 9170, Sint-Gillis-Waas, BEL
+area of district (km^2) of the given location is 480.444
+Sum of nightlight intensity is 41226.578
+Average nightlight intensity is 11.194
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.131
+Land cover ratio of building is 0.035
+Land cover ratio of road is 0.035
+Land cover ratio of rangeland is 0.35
+Land cover ratio of agricultural is 0.308
+Land cover ratio of water is 0.082
+Land cover ratio of tree is 0.052
+distance to the nearest airport is 21.534
+distance to the nearest port is 15.546"
+BE232,"full address of the given location is 9240, Zele, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 346.753
+Sum of nightlight intensity is 15804.129
+Average nightlight intensity is 7.087
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.115
+Land cover ratio of building is 0.045
+Land cover ratio of road is 0.028
+Land cover ratio of rangeland is 0.427
+Land cover ratio of agricultural is 0.2
+Land cover ratio of water is 0.112
+Land cover ratio of tree is 0.073
+distance to the nearest airport is 33.55
+distance to the nearest port is 20.602"
+BE231,"full address of the given location is 9450, Haaltert, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 473.421
+Sum of nightlight intensity is 19541.045
+Average nightlight intensity is 6.33
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.106
+Land cover ratio of building is 0.043
+Land cover ratio of road is 0.024
+Land cover ratio of rangeland is 0.419
+Land cover ratio of agricultural is 0.241
+Land cover ratio of water is 0.092
+Land cover ratio of tree is 0.073
+distance to the nearest airport is 37.807
+distance to the nearest port is 29.538"
+BE100,"full address of the given location is Flamp, Rue Du Trône 133, 1050, Elsene, BEL
+area of district (km^2) of the given location is 162.438
+Sum of nightlight intensity is 52217.703
+Average nightlight intensity is 57.256
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.255
+Land cover ratio of building is 0.142
+Land cover ratio of road is 0.052
+Land cover ratio of rangeland is 0.353
+Land cover ratio of agricultural is 0.004
+Land cover ratio of water is 0.013
+Land cover ratio of tree is 0.176
+distance to the nearest airport is 10.517
+distance to the nearest port is 5.667"
+BE211,"full address of the given location is 2900, Schoten, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 1003.081
+Sum of nightlight intensity is 105096.438
+Average nightlight intensity is 17.371
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.155
+Land cover ratio of building is 0.053
+Land cover ratio of road is 0.037
+Land cover ratio of rangeland is 0.381
+Land cover ratio of agricultural is 0.107
+Land cover ratio of water is 0.171
+Land cover ratio of tree is 0.089
+distance to the nearest airport is 10.874
+distance to the nearest port is 14.931"
+BE212,"full address of the given location is 2860, Sint-Katelijne-Waver, Vlaams Gewest, BEL
+area of district (km^2) of the given location is 511.908
+Sum of nightlight intensity is 34999.461
+Average nightlight intensity is 10.438
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.121
+Land cover ratio of building is 0.046
+Land cover ratio of road is 0.025
+Land cover ratio of rangeland is 0.445
+Land cover ratio of agricultural is 0.141
+Land cover ratio of water is 0.145
+Land cover ratio of tree is 0.076
+distance to the nearest airport is 13.789
+distance to the nearest port is 23.169"
+BE213,"full address of the given location is Hoge Rielen, 2460, Kasterlee, Lichtaart, BEL
+area of district (km^2) of the given location is 1359.996
+Sum of nightlight intensity is 41962.586
+Average nightlight intensity is 5.95
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.109
+Land cover ratio of building is 0.039
+Land cover ratio of road is 0.022
+Land cover ratio of rangeland is 0.372
+Land cover ratio of agricultural is 0.161
+Land cover ratio of water is 0.192
+Land cover ratio of tree is 0.102
+distance to the nearest airport is 35.546
+distance to the nearest port is 46.123"
+BE335,"full address of the given location is 4845, Jalhay, Région Wallonne, BEL
+area of district (km^2) of the given location is 1163.319
+Sum of nightlight intensity is 14010.35
+Average nightlight intensity is 2.001
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.054
+Land cover ratio of building is 0.031
+Land cover ratio of road is 0.009
+Land cover ratio of rangeland is 0.575
+Land cover ratio of agricultural is 0.122
+Land cover ratio of water is 0.133
+Land cover ratio of tree is 0.073
+distance to the nearest airport is 95.069
+distance to the nearest port is 116.433"
+BE336,"full address of the given location is 4710, Lontzen, Region Wallonien, BEL
+area of district (km^2) of the given location is 845.641
+Sum of nightlight intensity is 5745.905
+Average nightlight intensity is 0.55
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.042
+Land cover ratio of building is 0.029
+Land cover ratio of road is 0.007
+Land cover ratio of rangeland is 0.571
+Land cover ratio of agricultural is 0.118
+Land cover ratio of water is 0.108
+Land cover ratio of tree is 0.122
+distance to the nearest airport is 84.666
+distance to the nearest port is 113.366"
+BE334,"full address of the given location is Rue d'Omal, 4250, Geer, Hollogne-sur-Geer, BEL
+area of district (km^2) of the given location is 390.398
+Sum of nightlight intensity is 7207.196
+Average nightlight intensity is 3.143
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.039
+Land cover ratio of building is 0.019
+Land cover ratio of road is 0.01
+Land cover ratio of rangeland is 0.278
+Land cover ratio of agricultural is 0.356
+Land cover ratio of water is 0.26
+Land cover ratio of tree is 0.033
+distance to the nearest airport is 57.228
+distance to the nearest port is 62.994"
+BE331,"full address of the given location is 4550, Nandrin, Région Wallonne, BEL
+area of district (km^2) of the given location is 660.919
+Sum of nightlight intensity is 11703.586
+Average nightlight intensity is 1.947
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.047
+Land cover ratio of building is 0.025
+Land cover ratio of road is 0.009
+Land cover ratio of rangeland is 0.4
+Land cover ratio of agricultural is 0.217
+Land cover ratio of water is 0.223
+Land cover ratio of tree is 0.073
+distance to the nearest airport is 62.943
+distance to the nearest port is 80.164"
+BE332,"full address of the given location is Rue du Canal de l'Ourthe 12-12, 4031, Liège, Angleur, BEL
+area of district (km^2) of the given location is 796.059
+Sum of nightlight intensity is 41472.469
+Average nightlight intensity is 7.284
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.11
+Land cover ratio of building is 0.042
+Land cover ratio of road is 0.029
+Land cover ratio of rangeland is 0.429
+Land cover ratio of agricultural is 0.143
+Land cover ratio of water is 0.176
+Land cover ratio of tree is 0.067
+distance to the nearest airport is 83.593
+distance to the nearest port is 91.381"
+BE310,"full address of the given location is rue de l'Invasion 10, 1340, Ottignies-Louvain-la-Neuve, BEL
+area of district (km^2) of the given location is 1097.861
+Sum of nightlight intensity is 29896.139
+Average nightlight intensity is 4.029
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.063
+Land cover ratio of building is 0.032
+Land cover ratio of road is 0.015
+Land cover ratio of rangeland is 0.36
+Land cover ratio of agricultural is 0.293
+Land cover ratio of water is 0.161
+Land cover ratio of tree is 0.071
+distance to the nearest airport is 25.334
+distance to the nearest port is 27.857"
+BE32D,"full address of the given location is 6500, Beaumont, Région Wallonne, BEL
+area of district (km^2) of the given location is 785.224
+Sum of nightlight intensity is 8273.249
+Average nightlight intensity is 1.236
+Land cover ratio of bareland is 0.006
+Land cover ratio of development is 0.043
+Land cover ratio of building is 0.021
+Land cover ratio of road is 0.008
+Land cover ratio of rangeland is 0.403
+Land cover ratio of agricultural is 0.18
+Land cover ratio of water is 0.282
+Land cover ratio of tree is 0.056
+distance to the nearest airport is 33.725
+distance to the nearest port is 79.437"
+BE32A,"full address of the given location is Chemin des Brelles, 7800, Ath, BEL
+area of district (km^2) of the given location is 670.966
+Sum of nightlight intensity is 13242.757
+Average nightlight intensity is 1.737
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.062
+Land cover ratio of building is 0.026
+Land cover ratio of road is 0.014
+Land cover ratio of rangeland is 0.358
+Land cover ratio of agricultural is 0.327
+Land cover ratio of water is 0.167
+Land cover ratio of tree is 0.043
+distance to the nearest airport is 47.585
+distance to the nearest port is 51.382"
+BE32B,"full address of the given location is E420, 6040, Charleroi, Jumet, BEL
+area of district (km^2) of the given location is 475.93
+Sum of nightlight intensity is 28598.574
+Average nightlight intensity is 16.952
+Land cover ratio of bareland is 0.008
+Land cover ratio of development is 0.101
+Land cover ratio of building is 0.055
+Land cover ratio of road is 0.027
+Land cover ratio of rangeland is 0.387
+Land cover ratio of agricultural is 0.193
+Land cover ratio of water is 0.16
+Land cover ratio of tree is 0.067
+distance to the nearest airport is 1.596
+distance to the nearest port is 49.256"
+BE323,"full address of the given location is Rue Joseph Wauters 35, 7390, Quaregnon, BEL
+area of district (km^2) of the given location is 589.046
+Sum of nightlight intensity is 21216.133
+Average nightlight intensity is 5.879
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.082
+Land cover ratio of building is 0.043
+Land cover ratio of road is 0.022
+Land cover ratio of rangeland is 0.365
+Land cover ratio of agricultural is 0.221
+Land cover ratio of water is 0.209
+Land cover ratio of tree is 0.054
+distance to the nearest airport is 41.391
+distance to the nearest port is 61.048"
+BE32C,"full address of the given location is 7190, Ecaussinnes, Région Wallonne, BEL
+area of district (km^2) of the given location is 357.76
+Sum of nightlight intensity is 12600.733
+Average nightlight intensity is 6.079
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.068
+Land cover ratio of building is 0.024
+Land cover ratio of road is 0.015
+Land cover ratio of rangeland is 0.312
+Land cover ratio of agricultural is 0.297
+Land cover ratio of water is 0.244
+Land cover ratio of tree is 0.034
+distance to the nearest airport is 25.494
+distance to the nearest port is 40.019"
+BE328,"full address of the given location is Waelkens Philippe, Rue de l'Abbé Dropsy 53, 7540, Tournai, Kain, BEL
+area of district (km^2) of the given location is 714.895
+Sum of nightlight intensity is 25972.262
+Average nightlight intensity is 2.288
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.084
+Land cover ratio of building is 0.03
+Land cover ratio of road is 0.021
+Land cover ratio of rangeland is 0.292
+Land cover ratio of agricultural is 0.364
+Land cover ratio of water is 0.176
+Land cover ratio of tree is 0.03
+distance to the nearest airport is 21.449
+distance to the nearest port is 59.621"
+BE329,"full address of the given location is 7131, Binche, Région Wallonne, BEL
+area of district (km^2) of the given location is 219.843
+Sum of nightlight intensity is 8083.616
+Average nightlight intensity is 5.888
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.092
+Land cover ratio of building is 0.043
+Land cover ratio of road is 0.025
+Land cover ratio of rangeland is 0.339
+Land cover ratio of agricultural is 0.23
+Land cover ratio of water is 0.215
+Land cover ratio of tree is 0.051
+distance to the nearest airport is 21.861
+distance to the nearest port is 54.296"
+BE343,"full address of the given location is Route de Marche, 6987, Rendeux, BEL
+area of district (km^2) of the given location is 957.753
+Sum of nightlight intensity is 6487.905
+Average nightlight intensity is 1.27
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.045
+Land cover ratio of building is 0.022
+Land cover ratio of road is 0.007
+Land cover ratio of rangeland is 0.542
+Land cover ratio of agricultural is 0.125
+Land cover ratio of water is 0.151
+Land cover ratio of tree is 0.106
+distance to the nearest airport is 78.548
+distance to the nearest port is 107.455"
+BE344,"full address of the given location is E411, 6880, Bertrix, Jehonville, BEL
+area of district (km^2) of the given location is 1358.725
+Sum of nightlight intensity is 7321.704
+Average nightlight intensity is 0.906
+Land cover ratio of bareland is 0.002
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.05
+Land cover ratio of road is 0.006
+Land cover ratio of rangeland is 0.497
+Land cover ratio of agricultural is 0.101
+Land cover ratio of water is 0.16
+Land cover ratio of tree is 0.149
+distance to the nearest airport is 73.228
+distance to the nearest port is 126.221"
+BE345,"full address of the given location is 6730, Tintigny, Région Wallonne, BEL
+area of district (km^2) of the given location is 778.187
+Sum of nightlight intensity is 4722.635
+Average nightlight intensity is 0.986
+Land cover ratio of bareland is 0.001
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.043
+Land cover ratio of road is 0.008
+Land cover ratio of rangeland is 0.569
+Land cover ratio of agricultural is 0.057
+Land cover ratio of water is 0.168
+Land cover ratio of tree is 0.119
+distance to the nearest airport is 52.683
+distance to the nearest port is 156.857"
+BE341,"full address of the given location is 6700, Arlon, Walloon Region, BEL
+area of district (km^2) of the given location is 319.18
+Sum of nightlight intensity is 5578.9
+Average nightlight intensity is 2.69
+Land cover ratio of bareland is 0.008
+Land cover ratio of development is 0.043
+Land cover ratio of building is 0.039
+Land cover ratio of road is 0.007
+Land cover ratio of rangeland is 0.539
+Land cover ratio of agricultural is 0.109
+Land cover ratio of water is 0.163
+Land cover ratio of tree is 0.093
+distance to the nearest airport is 31.932
+distance to the nearest port is 166.973"
+BE342,"full address of the given location is E25, 6600, Bastenaken, Noville, BEL
+area of district (km^2) of the given location is 1046.85
+Sum of nightlight intensity is 6432.25
+Average nightlight intensity is 0.567
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.036
+Land cover ratio of building is 0.018
+Land cover ratio of road is 0.005
+Land cover ratio of rangeland is 0.555
+Land cover ratio of agricultural is 0.133
+Land cover ratio of water is 0.179
+Land cover ratio of tree is 0.072
+distance to the nearest airport is 60.345
+distance to the nearest port is 131.502"
+BE353,"full address of the given location is Rue de l'Argilière 2-4, 5600, Philippeville, Roly, BEL
+area of district (km^2) of the given location is 911.89
+Sum of nightlight intensity is 6338.259
+Average nightlight intensity is 1.224
+Land cover ratio of bareland is 0.005
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.033
+Land cover ratio of road is 0.008
+Land cover ratio of rangeland is 0.498
+Land cover ratio of agricultural is 0.158
+Land cover ratio of water is 0.158
+Land cover ratio of tree is 0.1
+distance to the nearest airport is 34.997
+distance to the nearest port is 82.865"
+BE351,"full address of the given location is Rue des Roches, 5563, Houyet, Hour, BEL
+area of district (km^2) of the given location is 1597.405
+Sum of nightlight intensity is 11139.399
+Average nightlight intensity is 0.845
+Land cover ratio of bareland is 0.003
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.029
+Land cover ratio of road is 0.008
+Land cover ratio of rangeland is 0.485
+Land cover ratio of agricultural is 0.141
+Land cover ratio of water is 0.165
+Land cover ratio of tree is 0.137
+distance to the nearest airport is 52.02
+distance to the nearest port is 92.074"
+BE352,"full address of the given location is Avenue Jean 1er, 5000, Namur, BEL
+area of district (km^2) of the given location is 1167.577
+Sum of nightlight intensity is 23167.889
+Average nightlight intensity is 3.357
+Land cover ratio of bareland is 0.006
+Land cover ratio of development is 0.056
+Land cover ratio of building is 0.027
+Land cover ratio of road is 0.015
+Land cover ratio of rangeland is 0.402
+Land cover ratio of agricultural is 0.241
+Land cover ratio of water is 0.166
+Land cover ratio of tree is 0.086
+distance to the nearest airport is 28.149
+distance to the nearest port is 57.577"

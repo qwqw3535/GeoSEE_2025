@@ -1,0 +1,21 @@
+{
+    "45131": {
+        "ADM0": "GUNSAN",
+        "ADM1": "Jeollabuk-do",
+        "ADM2": "Gunsan-si industrial complex",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 584.5437622070312,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 18.856250393775202,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 8
+            }
+        }
+    }
+}

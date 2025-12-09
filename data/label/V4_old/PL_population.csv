@@ -1,0 +1,74 @@
+,population,area_id,area_name
+0,766683.0,213,Miasto Kraków
+1,725128.0,214,Krakowski
+2,452713.0,217,Tarnowski
+3,534399.0,218,Nowosądecki
+4,335414.0,219,Nowotarski
+5,546208.0,21A,Oświęcimski
+6,510139.0,224,Częstochowski
+7,661228.0,225,Bielski
+8,622483.0,227,Rybnicki
+9,431037.0,228,Bytomski
+10,463141.0,229,Gliwicki
+11,733268.0,22A,Katowicki
+12,675084.0,22B,Sosnowiecki
+13,392618.0,22C,Tyski
+14,406147.0,411,Pilski
+15,652618.0,414,Koniński
+16,535946.0,415,Miasto Poznań
+17,665874.0,416,Kaliski
+18,554079.0,417,Leszczyński
+19,658508.0,418,Poznański
+20,400859.0,424,Miasto Szczecin
+21,350291.0,426,Koszaliński
+22,418331.0,427,Szczecinecko-pyrzycki
+23,506021.0,428,Szczeciński
+24,380438.0,431,Gorzowski
+25,622872.0,432,Zielonogórski
+26,638659.0,514,Miasto Wrocław
+27,552576.0,515,Jeleniogórski
+28,442785.0,516,Legnicko-głogowski
+29,641626.0,517,Wałbrzyski
+30,589426.0,518,Wrocławski
+31,363713.0,523,Nyski
+32,582325.0,524,Opolski
+33,771746.0,613,Bydgosko-toruński
+34,383322.0,616,Grudziądzki
+35,359520.0,617,Inowrocławski
+36,185908.0,618,Świecki
+37,354937.0,619,Włocławski
+38,517268.0,621,Elbląski
+39,606469.0,622,Olsztyński
+40,280704.0,623,Ełcki
+41,745972.0,633,Trójmiejski
+42,582378.0,634,Gdański
+43,328934.0,636,Słupski
+44,222635.0,637,Chojnicki
+45,425158.0,638,Starogardzki
+46,684915.0,711,Miasto Łódź
+47,385629.0,712,Łódzki
+48,581062.0,713,Piotrkowski
+49,442739.0,714,Sieradzki
+50,358822.0,715,Skierniewicki
+51,753544.0,721,Kielecki
+52,472699.0,722,Sandomiersko-jędrzejowski
+53,298352.0,811,Bialski
+54,615481.0,812,Chełmsko-zamojski
+55,709993.0,814,Lubelski
+56,473468.0,815,Puławski
+57,471161.0,821,Krośnieński
+58,384141.0,822,Przemyski
+59,631399.0,823,Rzeszowski
+60,599434.0,824,Tarnobrzeski
+61,505188.0,841,Białostocki
+62,383563.0,842,Łomżyński
+63,263323.0,843,Suwalski
+64,1775986.0,911,Miasto Warszawa
+65,637851.0,912,Warszawski wschodni
+66,639267.0,913,Warszawski zachodni
+67,605972.0,921,Radomski
+68,338306.0,922,Ciechanowski
+69,325475.0,923,Płocki
+70,381313.0,924,Ostrołęcki
+71,417565.0,925,Siedlecki
+72,258576.0,926,Żyrardowski

@@ -1,0 +1,284 @@
+{
+  "1 Pyongyang-si Kangdong-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Pyongyang-si",
+    "ADM2": "Kangdong-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "고비탄광"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "2 Pyeongannam-do Bukchang-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Pyeongannam-do",
+    "ADM2": "Bukchang-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "3 Pyeongannam-do Sinyang-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Pyeongannam-do",
+    "ADM2": "Sinyang-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "성천광산",
+          "수왕동광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "4 Pyeonganbuk-do Yeonju-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Pyeonganbuk-do",
+    "ADM2": "Yeonju-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "5 Pyeonganbuk-do Daegwan-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Pyeonganbuk-do",
+    "ADM2": "Daegwan-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "6 Hwanghaenam-do Baecheon-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Baecheon-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "배천광산"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "7 Hwanghaenam-do Jangyeon-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hwanghaenam-do",
+    "ADM2": "Jangyeon-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "낙연광산(락연광산)"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "8 Hwanghaebuk-do Hwangju-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Hwangju-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "9 Hwanghaebuk-do Goksan-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hwanghaebuk-do",
+    "ADM2": "Goksan-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "10 Hamgyeongnam-do Sinpo-si": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Sinpo-si",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "11 Hamgyeongnam-do Jeongpyeong-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hamgyeongnam-do",
+    "ADM2": "Jeongpyeong-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "12 Hamgyeongbuk-do Gilju-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Gilju-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "13 Hamgyeongbuk-do Buryong-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Hamgyeongbuk-do",
+    "ADM2": "Buryong-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "14 Gangwon-do Sepo-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Sepo-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "15 Gangwon-do Cheorwon-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Gangwon-do",
+    "ADM2": "Cheorwon-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "16 Jagang-do Jagang-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Jagang-do",
+    "ADM2": "Jagang-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "17 Jagang-do Nangnim-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Jagang-do",
+    "ADM2": "Nangnim-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "18 Ryanggang-do Kimjongsuk-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Ryanggang-do",
+    "ADM2": "Kimjongsuk-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "19 Nampo-si Yonggang-gun": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Nampo-si",
+    "ADM2": "Yonggang-gun",
+    "POI": {
+      "production_facilities": {
+        "val": [
+          "가축사육업",
+          "남포시립극장"
+        ],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  },
+  "20 Gaeseong-si Gaepung-guyok": {
+    "ADM0": "PRK2010_2025",
+    "ADM1": "Gaeseong-si",
+    "ADM2": "Gaepung-guyok",
+    "POI": {
+      "production_facilities": {
+        "val": [],
+        "desc": "List of production facilities",
+        "type": "default",
+        "weight": null
+      }
+    }
+  }
+}

@@ -1,0 +1,382 @@
+{
+    "01": {
+        "ADM0": "HUN",
+        "ADM1": "Budapest",
+        "ADM2": "Budapest",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 80183.1796875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 29.414225857483494,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 525.2685245272232
+            }
+        }
+    },
+    "13": {
+        "ADM0": "HUN",
+        "ADM1": "Pest",
+        "ADM2": "Pest",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 70652.0078125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.47029338048613,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6390.539892050856
+            }
+        }
+    },
+    "07": {
+        "ADM0": "HUN",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Fej\u00e9r",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26969.033203125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.466585089081788,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4358.563086908148
+            }
+        }
+    },
+    "11": {
+        "ADM0": "HUN",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Kom\u00e1rom-Esztergom",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19928.484375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.3417144263785095,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2264.266209248581
+            }
+        }
+    },
+    "10": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "Heves",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14697.9443359375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5652185946753384,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3637.040226778478
+            }
+        }
+    },
+    "12": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "N\u00f3gr\u00e1d",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 8067.474609375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.39488373026798823,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 2544.1064957148747
+            }
+        }
+    },
+    "16": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "J\u00e1sz-Nagykun-Szolnok",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 16631.4375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.45992747711623017,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5581.973954961593
+            }
+        }
+    },
+    "03": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "B\u00e1cs-Kiskun",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26488.748046875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5956945160877729,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 8442.85353279643
+            }
+        }
+    },
+    "19": {
+        "ADM0": "HUN",
+        "ADM1": "K\u00f6z\u00e9p-Dun\u00e1nt\u00fal",
+        "ADM2": "Veszpr\u00e9m",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19756.572265625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.9566884056764806,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4472.27566346671
+            }
+        }
+    },
+    "14": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Somogy",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 19076.642578125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.39452862445194714,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6055.896747523814
+            }
+        }
+    },
+    "17": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Tolna",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 9365.0732421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.498486892116224,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3703.5074172410787
+            }
+        }
+    },
+    "08": {
+        "ADM0": "HUN",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Gy\u0151r-Moson-Sopron",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 30533.298828125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.824422152179636,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4208.4322958979965
+            }
+        }
+    },
+    "18": {
+        "ADM0": "HUN",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Vas",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14559.421875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5057110758944078,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3336.329994956911
+            }
+        }
+    },
+    "20": {
+        "ADM0": "HUN",
+        "ADM1": "Nyugat-Dun\u00e1nt\u00fal",
+        "ADM2": "Zala",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 14516.306640625,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6957919110686382,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 3783.926366271178
+            }
+        }
+    },
+    "02": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Dun\u00e1nt\u00fal",
+        "ADM2": "Baranya",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 22533.6953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.162129722150593,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4429.170494166379
+            }
+        }
+    },
+    "05": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Magyarorsz\u00e1g",
+        "ADM2": "Borsod-Aba\u00faj-Zempl\u00e9n",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 38775.109375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.6154193152239469,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 7245.231163339405
+            }
+        }
+    },
+    "09": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "Hajd\u00fa-Bihar",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 26141.310546875,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.749249370790341,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 6209.140674722597
+            }
+        }
+    },
+    "15": {
+        "ADM0": "HUN",
+        "ADM1": "\u00c9szak-Alf\u00f6ld",
+        "ADM2": "Szabolcs-Szatm\u00e1r-Bereg",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 27513.953125,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.5897068633859871,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5932.599902617274
+            }
+        }
+    },
+    "04": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "B\u00e9k\u00e9s",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 15480.90234375,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 0.4368570235558879,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 5630.0518171058575
+            }
+        }
+    },
+    "06": {
+        "ADM0": "HUN",
+        "ADM1": "D\u00e9l-Alf\u00f6ld",
+        "ADM2": "Csongr\u00e1d-Csan\u00e1d",
+        "nightlight": {
+            "Nightlight_Sum": {
+                "val": 20676.0,
+                "desc": "Sum of nightlight intensity",
+                "type": "default",
+                "weight": null
+            },
+            "Nightlight_Average": {
+                "val": 1.1943850730749235,
+                "desc": "Average nightlight intensity",
+                "type": "ratio",
+                "weight": 4261.749408356402
+            }
+        }
+    }
+}

@@ -1,0 +1,717 @@
+area_id,desc
+06001,"full address of the given location is Jangpung-gun, Gaeseong-si, PRK
+area of district (km^2) of the given location is 610.55
+Sum of nightlight intensity is 105.508
+Average nightlight intensity is 0.036"
+06002,"full address of the given location is Kaepung, Gaeseong-si, PRK
+area of district (km^2) of the given location is 157.575
+Sum of nightlight intensity is 38.398
+Average nightlight intensity is 0.055"
+06003,"full address of the given location is Panmun, Gaeseong-si, PRK
+area of district (km^2) of the given location is 412.339
+Sum of nightlight intensity is 819.783
+Average nightlight intensity is 0.443"
+05001,"full address of the given location is Anak, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 346.069
+Sum of nightlight intensity is 33.457
+Average nightlight intensity is 0.014"
+05002,"full address of the given location is Ch'ŏngdan, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 506.998
+Sum of nightlight intensity is 34.057
+Average nightlight intensity is 0.012"
+05003,"full address of the given location is Jaeryeong-gun, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 394.885
+Sum of nightlight intensity is 51.666
+Average nightlight intensity is 0.02"
+05004,"full address of the given location is Changyŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 248.191
+Sum of nightlight intensity is 40.045
+Average nightlight intensity is 0.02"
+05005,"full address of the given location is Haeju, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 223.356
+Sum of nightlight intensity is 313.369
+Average nightlight intensity is 0.418"
+05006,"full address of the given location is Kangry'ŏng, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 621.414
+Sum of nightlight intensity is 35.71
+Average nightlight intensity is 0.003"
+05007,"full address of the given location is Kwail, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 327.137
+Sum of nightlight intensity is 34.643
+Average nightlight intensity is 0.008"
+05008,"full address of the given location is Ongjin, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 574.713
+Sum of nightlight intensity is 76.753
+Average nightlight intensity is 0.019"
+05009,"full address of the given location is Paekch'ŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 495.04
+Sum of nightlight intensity is 100.019
+Average nightlight intensity is 0.057"
+05010,"full address of the given location is Pongch'ŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 506.966
+Sum of nightlight intensity is 13.034
+Average nightlight intensity is 0.007"
+05011,"full address of the given location is Pyŏksŏng, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 551.45
+Sum of nightlight intensity is 18.816
+Average nightlight intensity is 0.012"
+05012,"full address of the given location is Ryongyŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 453.137
+Sum of nightlight intensity is 52.072
+Average nightlight intensity is 0.016"
+05013,"full address of the given location is Samch'ŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 260.436
+Sum of nightlight intensity is 57.33
+Average nightlight intensity is 0.075"
+05014,"full address of the given location is Sinch'ŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 366.545
+Sum of nightlight intensity is 41.626
+Average nightlight intensity is 0.035"
+05015,"full address of the given location is Sinwŏn, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 527.698
+Sum of nightlight intensity is 22.945
+Average nightlight intensity is 0.009"
+05016,"full address of the given location is Songhwa, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 187.674
+Sum of nightlight intensity is 10.916
+Average nightlight intensity is 0.012"
+05017,"full address of the given location is T'aet'an, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 291.069
+Sum of nightlight intensity is 22.92
+Average nightlight intensity is 0.019"
+05018,"full address of the given location is Euncheon-gun, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 476.655
+Sum of nightlight intensity is 29.119
+Average nightlight intensity is 0.019"
+05019,"full address of the given location is Ŭnryul, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 523.537
+Sum of nightlight intensity is 45.525
+Average nightlight intensity is 0.007"
+05020,"full address of the given location is Water Body, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 174.516
+Sum of nightlight intensity is 117.365
+Average nightlight intensity is 0.055"
+05021,"full address of the given location is Yonan, Hwanghaenam-do, PRK
+area of district (km^2) of the given location is 492.804
+Sum of nightlight intensity is 63.792
+Average nightlight intensity is 0.024"
+09001,"full address of the given location is Byokdong, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 773.8
+Sum of nightlight intensity is 22.487
+Average nightlight intensity is 0.005"
+09002,"full address of the given location is Ch'angsŏng, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 621.95
+Sum of nightlight intensity is 28.54
+Average nightlight intensity is 0.005"
+09003,"full address of the given location is Ch'ŏlsan, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 466.049
+Sum of nightlight intensity is 50.198
+Average nightlight intensity is 0.007"
+09004,"full address of the given location is Ch'ŏnma, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 550.47
+Sum of nightlight intensity is 29.325
+Average nightlight intensity is 0.011"
+09005,"full address of the given location is Chŏngju-si, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 485.034
+Sum of nightlight intensity is 90.882
+Average nightlight intensity is 0.04"
+09006,"full address of the given location is Daengwan, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 786.512
+Sum of nightlight intensity is 41.655
+Average nightlight intensity is 0.011"
+09007,"full address of the given location is Dongrim, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 513.644
+Sum of nightlight intensity is 23.521
+Average nightlight intensity is 0.009"
+09008,"full address of the given location is Hyangsan, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 273.363
+Sum of nightlight intensity is 45.321
+Average nightlight intensity is 0.019"
+09009,"full address of the given location is Gujang-gun, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 696.825
+Sum of nightlight intensity is 114.918
+Average nightlight intensity is 0.025"
+09010,"full address of the given location is Guseong-si, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 524.177
+Sum of nightlight intensity is 79.257
+Average nightlight intensity is 0.042"
+09011,"full address of the given location is Kwaksan, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 399.917
+Sum of nightlight intensity is 27.849
+Average nightlight intensity is 0.005"
+09012,"full address of the given location is Nyŏngbyŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 543.803
+Sum of nightlight intensity is 107.661
+Average nightlight intensity is 0.035"
+09013,"full address of the given location is P'ihyŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 327.794
+Sum of nightlight intensity is 321.224
+Average nightlight intensity is 0.274"
+09014,"full address of the given location is Pakch'ŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 337.994
+Sum of nightlight intensity is 250.331
+Average nightlight intensity is 0.102"
+09015,"full address of the given location is Ryongch'ŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 94.753
+Sum of nightlight intensity is 287.327
+Average nightlight intensity is 0.47"
+09016,"full address of the given location is Sakju, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 764.798
+Sum of nightlight intensity is 177.427
+Average nightlight intensity is 0.043"
+09017,"full address of the given location is Sindo, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 105.258
+Sum of nightlight intensity is 486.625
+Average nightlight intensity is 0.286"
+09018,"full address of the given location is Sŏnch'ŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 490.531
+Sum of nightlight intensity is 31.249
+Average nightlight intensity is 0.002"
+09019,"full address of the given location is T'aech'ŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 833.676
+Sum of nightlight intensity is 99.545
+Average nightlight intensity is 0.042"
+09020,"full address of the given location is Tongch'ang, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 886.164
+Sum of nightlight intensity is 23.434
+Average nightlight intensity is 0.006"
+09021,"full address of the given location is Ŭiju, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 348.867
+Sum of nightlight intensity is 348.282
+Average nightlight intensity is 0.241"
+09022,"full address of the given location is Unjŏn, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 382.763
+Sum of nightlight intensity is 31.052
+Average nightlight intensity is 0.013"
+09023,"full address of the given location is Unsan-gun, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 869.304
+Sum of nightlight intensity is 85.562
+Average nightlight intensity is 0.019"
+09024,"full address of the given location is Yŏmju, Pyonganbuk-do, PRK
+area of district (km^2) of the given location is 334.951
+Sum of nightlight intensity is 32.389
+Average nightlight intensity is 0.016"
+11001,"full address of the given location is Pyeongyang, Pyeongyang, PRK
+area of district (km^2) of the given location is 2732.516
+Sum of nightlight intensity is 10311.52
+Average nightlight intensity is 0.801"
+10001,"full address of the given location is Anju, Pyongannam-do, PRK
+area of district (km^2) of the given location is 303.984
+Sum of nightlight intensity is 184.37
+Average nightlight intensity is 0.069"
+10003,"full address of the given location is Ch'ŏngnam, Pyongannam-do, PRK
+area of district (km^2) of the given location is 11.026
+Sum of nightlight intensity is 15.724
+Average nightlight intensity is 0.291"
+10005,"full address of the given location is Haichang, Pyongannam-do, PRK
+area of district (km^2) of the given location is 685.347
+Sum of nightlight intensity is 82.728
+Average nightlight intensity is 0.019"
+10007,"full address of the given location is Jungsan, Pyongannam-do, PRK
+area of district (km^2) of the given location is 433.513
+Sum of nightlight intensity is 41.524
+Average nightlight intensity is 0.018"
+10008,"full address of the given location is Kaech'ŏn, Pyongannam-do, PRK
+area of district (km^2) of the given location is 608.579
+Sum of nightlight intensity is 236.548
+Average nightlight intensity is 0.085"
+10010,"full address of the given location is Maengsan, Pyongannam-do, PRK
+area of district (km^2) of the given location is 689.456
+Sum of nightlight intensity is 10.899
+Average nightlight intensity is 0.002"
+10011,"full address of the given location is Mundŏk, Pyongannam-do, PRK
+area of district (km^2) of the given location is 406.571
+Sum of nightlight intensity is 57.609
+Average nightlight intensity is 0.041"
+10012,"full address of the given location is Nyongwon, Pyongannam-do, PRK
+area of district (km^2) of the given location is 1094.594
+Sum of nightlight intensity is 32.967
+Average nightlight intensity is 0.005"
+10014,"full address of the given location is P'yŏngsŏng, Pyongannam-do, PRK
+area of district (km^2) of the given location is 329.361
+Sum of nightlight intensity is 303.549
+Average nightlight intensity is 0.179"
+10015,"full address of the given location is P'yŏngwŏn, Pyongannam-do, PRK
+area of district (km^2) of the given location is 471.156
+Sum of nightlight intensity is 89.811
+Average nightlight intensity is 0.026"
+10016,"full address of the given location is Pukch'ang, Pyongannam-do, PRK
+area of district (km^2) of the given location is 622.879
+Sum of nightlight intensity is 358.432
+Average nightlight intensity is 0.065"
+10018,"full address of the given location is Sinyang, Pyongannam-do, PRK
+area of district (km^2) of the given location is 694.479
+Sum of nightlight intensity is 19.36
+Average nightlight intensity is 0.005"
+10019,"full address of the given location is Seongcheon-gun, Pyongannam-do, PRK
+area of district (km^2) of the given location is 834.8
+Sum of nightlight intensity is 53.609
+Average nightlight intensity is 0.013"
+10020,"full address of the given location is Sukcheon-gun, Pyongannam-do, PRK
+area of district (km^2) of the given location is 428.008
+Sum of nightlight intensity is 77.118
+Average nightlight intensity is 0.032"
+10021,"full address of the given location is Sunch'ŏn, Pyongannam-do, PRK
+area of district (km^2) of the given location is 399.073
+Sum of nightlight intensity is 496.613
+Average nightlight intensity is 0.282"
+10022,"full address of the given location is Taedong, Pyongannam-do, PRK
+area of district (km^2) of the given location is 217.164
+Sum of nightlight intensity is 40.925
+Average nightlight intensity is 0.039"
+10023,"full address of the given location is Taehŭng, Pyongannam-do, PRK
+area of district (km^2) of the given location is 1296.533
+Sum of nightlight intensity is 0.915
+Average nightlight intensity is 0.0"
+10024,"full address of the given location is Tŏkch'ŏn, Pyongannam-do, PRK
+area of district (km^2) of the given location is 587.827
+Sum of nightlight intensity is 83.495
+Average nightlight intensity is 0.034"
+10025,"full address of the given location is Tŭkchang, Pyongannam-do, PRK
+area of district (km^2) of the given location is 87.519
+Sum of nightlight intensity is 29.508
+Average nightlight intensity is 0.292"
+10027,"full address of the given location is Ŭnsan, Pyongannam-do, PRK
+area of district (km^2) of the given location is 422.552
+Sum of nightlight intensity is 190.861
+Average nightlight intensity is 0.057"
+10028,"full address of the given location is Waudo, Pyongannam-do, PRK
+area of district (km^2) of the given location is 92.989
+Sum of nightlight intensity is 86.642
+Average nightlight intensity is 0.201"
+10029,"full address of the given location is Yangdŏk, Pyongannam-do, PRK
+area of district (km^2) of the given location is 700.44
+Sum of nightlight intensity is 182.586
+Average nightlight intensity is 0.054"
+03001,"full address of the given location is Chŏngp'yŏng, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 874.874
+Sum of nightlight intensity is 41.897
+Average nightlight intensity is 0.009"
+03002,"full address of the given location is Dachon, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1938.131
+Sum of nightlight intensity is 853.115
+Average nightlight intensity is 0.043"
+03003,"full address of the given location is Doksong, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1593.606
+Sum of nightlight intensity is 26.308
+Average nightlight intensity is 0.004"
+03004,"full address of the given location is Hamhŭng, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 545.773
+Sum of nightlight intensity is 1012.532
+Average nightlight intensity is 0.347"
+03005,"full address of the given location is Hamju-gun, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 596.675
+Sum of nightlight intensity is 40.936
+Average nightlight intensity is 0.006"
+03006,"full address of the given location is Hŏch'ŏn, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1676.163
+Sum of nightlight intensity is 58.123
+Average nightlight intensity is 0.006"
+03007,"full address of the given location is Hongwŏn, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 986.123
+Sum of nightlight intensity is 46.994
+Average nightlight intensity is 0.013"
+03008,"full address of the given location is Jangjin, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1987.189
+Sum of nightlight intensity is 20.91
+Average nightlight intensity is 0.002"
+03009,"full address of the given location is Kowŏn, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 213.987
+Sum of nightlight intensity is 30.392
+Average nightlight intensity is 0.022"
+03010,"full address of the given location is Kŭmho, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 7.746
+Sum of nightlight intensity is 2.478
+Average nightlight intensity is 0.08"
+03011,"full address of the given location is Geumya-gun, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 681.392
+Sum of nightlight intensity is 64.596
+Average nightlight intensity is 0.009"
+03012,"full address of the given location is Pujŏn, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1682.315
+Sum of nightlight intensity is 46.576
+Average nightlight intensity is 0.006"
+03013,"full address of the given location is Pukch'ŏng, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 686.763
+Sum of nightlight intensity is 62.735
+Average nightlight intensity is 0.019"
+03014,"full address of the given location is Rakwon, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 126.214
+Sum of nightlight intensity is 56.963
+Average nightlight intensity is 0.054"
+03015,"full address of the given location is Riwŏn, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 527.699
+Sum of nightlight intensity is 93.112
+Average nightlight intensity is 0.019"
+03016,"full address of the given location is Sinhŭng, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1252.984
+Sum of nightlight intensity is 42.905
+Average nightlight intensity is 0.007"
+03017,"full address of the given location is Sinp'o, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 220.149
+Sum of nightlight intensity is 130.264
+Average nightlight intensity is 0.066"
+03018,"full address of the given location is Sudong, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 666.81
+Sum of nightlight intensity is 43.609
+Average nightlight intensity is 0.011"
+03019,"full address of the given location is Yodŏk, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 1339.965
+Sum of nightlight intensity is 0.0
+Average nightlight intensity is 0.0"
+03020,"full address of the given location is Yŏnggwang, Hamgyeongnam-do, PRK
+area of district (km^2) of the given location is 875.066
+Sum of nightlight intensity is 37.767
+Average nightlight intensity is 0.007"
+12001,"full address of the given location is Rason, Rason, PRK
+area of district (km^2) of the given location is 856.161
+Sum of nightlight intensity is 351.738
+Average nightlight intensity is 0.04"
+02001,"full address of the given location is Cheongjin, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1512.678
+Sum of nightlight intensity is 1004.112
+Average nightlight intensity is 0.069"
+02002,"full address of the given location is Hoeryŏng, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1667.912
+Sum of nightlight intensity is 191.958
+Average nightlight intensity is 0.012"
+02003,"full address of the given location is Hwadae, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 279.926
+Sum of nightlight intensity is 93.026
+Average nightlight intensity is 0.017"
+02004,"full address of the given location is Hwasŏng, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1197.048
+Sum of nightlight intensity is 81.024
+Average nightlight intensity is 0.021"
+02005,"full address of the given location is Kilchu, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 773.814
+Sum of nightlight intensity is 96.606
+Average nightlight intensity is 0.017"
+02006,"full address of the given location is Kimch'aek, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 788.211
+Sum of nightlight intensity is 391.977
+Average nightlight intensity is 0.079"
+02007,"full address of the given location is Gyeongseong-gun, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1330.718
+Sum of nightlight intensity is 221.457
+Average nightlight intensity is 0.034"
+02008,"full address of the given location is Musan, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1300.142
+Sum of nightlight intensity is 164.699
+Average nightlight intensity is 0.02"
+02009,"full address of the given location is Myŏngch'ŏn, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 617.19
+Sum of nightlight intensity is 105.939
+Average nightlight intensity is 0.026"
+02010,"full address of the given location is Onsŏng, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 476.385
+Sum of nightlight intensity is 285.891
+Average nightlight intensity is 0.145"
+02011,"full address of the given location is Eorang-gun, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1931.172
+Sum of nightlight intensity is 111.831
+Average nightlight intensity is 0.009"
+02012,"full address of the given location is Puryŏng, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 853.626
+Sum of nightlight intensity is 50.454
+Average nightlight intensity is 0.015"
+02013,"full address of the given location is Puyun, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 360.814
+Sum of nightlight intensity is 4.42
+Average nightlight intensity is 0.002"
+02014,"full address of the given location is Saebyŏl, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 541.568
+Sum of nightlight intensity is 93.734
+Average nightlight intensity is 0.041"
+02015,"full address of the given location is Ŭndŏk, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 900.448
+Sum of nightlight intensity is 29.282
+Average nightlight intensity is 0.005"
+02016,"full address of the given location is Yŏnsa, Hamgyeongbuk-do, PRK
+area of district (km^2) of the given location is 1286.949
+Sum of nightlight intensity is 12.423
+Average nightlight intensity is 0.002"
+08001,"full address of the given location is Kumgangsan, Kumgangsan, PRK
+area of district (km^2) of the given location is 986.994
+Sum of nightlight intensity is 99.22
+Average nightlight intensity is 0.016"
+04001,"full address of the given location is Hwangju, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 384.93
+Sum of nightlight intensity is 208.322
+Average nightlight intensity is 0.108"
+04002,"full address of the given location is Gaeseong-si, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 137.507
+Sum of nightlight intensity is 21.62
+Average nightlight intensity is 0.022"
+04003,"full address of the given location is Koksan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 452.827
+Sum of nightlight intensity is 17.968
+Average nightlight intensity is 0.012"
+04004,"full address of the given location is Kŭmch'ŏn, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 508.679
+Sum of nightlight intensity is 0.99
+Average nightlight intensity is 0.0"
+04005,"full address of the given location is P'yŏngsan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 602.336
+Sum of nightlight intensity is 68.341
+Average nightlight intensity is 0.02"
+04006,"full address of the given location is Pongsan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 469.903
+Sum of nightlight intensity is 166.903
+Average nightlight intensity is 0.088"
+04007,"full address of the given location is Rinsan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 583.125
+Sum of nightlight intensity is 11.211
+Average nightlight intensity is 0.006"
+04008,"full address of the given location is Sariwŏn, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 140.901
+Sum of nightlight intensity is 147.01
+Average nightlight intensity is 0.26"
+04009,"full address of the given location is Sin'gye, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 582.654
+Sum of nightlight intensity is 8.242
+Average nightlight intensity is 0.002"
+04010,"full address of the given location is Sinp'yŏng, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 1186.018
+Sum of nightlight intensity is 23.558
+Average nightlight intensity is 0.005"
+04011,"full address of the given location is Songhu, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 637.428
+Sum of nightlight intensity is 0.536
+Average nightlight intensity is 0.0"
+04012,"full address of the given location is Songrim, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 43.176
+Sum of nightlight intensity is 88.493
+Average nightlight intensity is 0.347"
+04013,"full address of the given location is Suan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 673.038
+Sum of nightlight intensity is 28.995
+Average nightlight intensity is 0.014"
+04014,"full address of the given location is T'osan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 469.524
+Sum of nightlight intensity is 22.979
+Average nightlight intensity is 0.009"
+04015,"full address of the given location is Eunpa-gun, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 308.646
+Sum of nightlight intensity is 25.76
+Average nightlight intensity is 0.018"
+04016,"full address of the given location is Yŏnsan, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 549.929
+Sum of nightlight intensity is 67.464
+Average nightlight intensity is 0.022"
+04017,"full address of the given location is Yeontan-gun, Hwanghaebuk-do, PRK
+area of district (km^2) of the given location is 504.689
+Sum of nightlight intensity is 30.485
+Average nightlight intensity is 0.01"
+07001,"full address of the given location is Anbyŏn, Gangwon-do, PRK
+area of district (km^2) of the given location is 559.937
+Sum of nightlight intensity is 145.575
+Average nightlight intensity is 0.021"
+07002,"full address of the given location is Ch'angdo, Gangwon-do, PRK
+area of district (km^2) of the given location is 958.006
+Sum of nightlight intensity is 271.267
+Average nightlight intensity is 0.027"
+07003,"full address of the given location is Ch'ŏnnae, Gangwon-do, PRK
+area of district (km^2) of the given location is 406.672
+Sum of nightlight intensity is 77.178
+Average nightlight intensity is 0.018"
+07004,"full address of the given location is Ch'ŏrwŏn, Gangwon-do, PRK
+area of district (km^2) of the given location is 510.355
+Sum of nightlight intensity is 173.603
+Average nightlight intensity is 0.032"
+07005,"full address of the given location is Hoeyang, Gangwon-do, PRK
+area of district (km^2) of the given location is 691.562
+Sum of nightlight intensity is 26.756
+Average nightlight intensity is 0.006"
+07006,"full address of the given location is Icheon-gun, Gangwon-do, PRK
+area of district (km^2) of the given location is 629.804
+Sum of nightlight intensity is 19.974
+Average nightlight intensity is 0.009"
+07007,"full address of the given location is Kimhwa, Gangwon-do, PRK
+area of district (km^2) of the given location is 755.351
+Sum of nightlight intensity is 235.405
+Average nightlight intensity is 0.052"
+07008,"full address of the given location is Gosan-gun, Gangwon-do, PRK
+area of district (km^2) of the given location is 386.18
+Sum of nightlight intensity is 56.373
+Average nightlight intensity is 0.031"
+07009,"full address of the given location is Kosŏng, Gangwon-do, PRK
+area of district (km^2) of the given location is 674.496
+Sum of nightlight intensity is 112.099
+Average nightlight intensity is 0.013"
+07010,"full address of the given location is Munchŏn, Gangwon-do, PRK
+area of district (km^2) of the given location is 294.503
+Sum of nightlight intensity is 212.4
+Average nightlight intensity is 0.075"
+07011,"full address of the given location is P'an'gyo, Gangwon-do, PRK
+area of district (km^2) of the given location is 883.594
+Sum of nightlight intensity is 15.556
+Average nightlight intensity is 0.003"
+07012,"full address of the given location is P'yŏnggang, Gangwon-do, PRK
+area of district (km^2) of the given location is 798.774
+Sum of nightlight intensity is 174.318
+Average nightlight intensity is 0.05"
+07013,"full address of the given location is Pŏptong, Gangwon-do, PRK
+area of district (km^2) of the given location is 757.761
+Sum of nightlight intensity is 48.295
+Average nightlight intensity is 0.017"
+07014,"full address of the given location is Sep'o, Gangwon-do, PRK
+area of district (km^2) of the given location is 1067.928
+Sum of nightlight intensity is 36.445
+Average nightlight intensity is 0.006"
+07015,"full address of the given location is T'ongch'ŏn, Gangwon-do, PRK
+area of district (km^2) of the given location is 538.394
+Sum of nightlight intensity is 91.235
+Average nightlight intensity is 0.013"
+07016,"full address of the given location is Wŏnsan, Gangwon-do, PRK
+area of district (km^2) of the given location is 357.558
+Sum of nightlight intensity is 545.582
+Average nightlight intensity is 0.162"
+13001,"full address of the given location is Hyesan, Yanggang-do, PRK
+area of district (km^2) of the given location is 326.916
+Sum of nightlight intensity is 296.73
+Average nightlight intensity is 0.163"
+13002,"full address of the given location is Kapsan, Yanggang-do, PRK
+area of district (km^2) of the given location is 1042.249
+Sum of nightlight intensity is 19.662
+Average nightlight intensity is 0.005"
+13003,"full address of the given location is Kimhyŏnggwŏn, Yanggang-do, PRK
+area of district (km^2) of the given location is 1403.455
+Sum of nightlight intensity is 12.638
+Average nightlight intensity is 0.001"
+13004,"full address of the given location is Kimhyongjik-gun, Yanggang-do, PRK
+area of district (km^2) of the given location is 1195.155
+Sum of nightlight intensity is 68.118
+Average nightlight intensity is 0.005"
+13005,"full address of the given location is Kimjŏngsuk, Yanggang-do, PRK
+area of district (km^2) of the given location is 1412.36
+Sum of nightlight intensity is 52.271
+Average nightlight intensity is 0.006"
+13006,"full address of the given location is P'ungsŏ, Yanggang-do, PRK
+area of district (km^2) of the given location is 1826.359
+Sum of nightlight intensity is 40.395
+Average nightlight intensity is 0.003"
+13007,"full address of the given location is Paegam, Yanggang-do, PRK
+area of district (km^2) of the given location is 1951.724
+Sum of nightlight intensity is 4.0
+Average nightlight intensity is 0.0"
+13008,"full address of the given location is Poch'ŏn, Yanggang-do, PRK
+area of district (km^2) of the given location is 837.822
+Sum of nightlight intensity is 22.012
+Average nightlight intensity is 0.004"
+13009,"full address of the given location is Samjiyon, Yanggang-do, PRK
+area of district (km^2) of the given location is 1380.723
+Sum of nightlight intensity is 474.453
+Average nightlight intensity is 0.09"
+13010,"full address of the given location is Samsu, Yanggang-do, PRK
+area of district (km^2) of the given location is 1043.55
+Sum of nightlight intensity is 77.685
+Average nightlight intensity is 0.015"
+13011,"full address of the given location is Taehongdan, Yanggang-do, PRK
+area of district (km^2) of the given location is 530.655
+Sum of nightlight intensity is 41.665
+Average nightlight intensity is 0.008"
+13012,"full address of the given location is Unhŭng, Yanggang-do, PRK
+area of district (km^2) of the given location is 972.273
+Sum of nightlight intensity is 7.982
+Average nightlight intensity is 0.002"
+14001,"full address of the given location is Shinuiju, Shinuiju, PRK
+area of district (km^2) of the given location is 108.989
+Sum of nightlight intensity is 2276.001
+Average nightlight intensity is 3.819"
+01001,"full address of the given location is Ch'osan, Jagang-do, PRK
+area of district (km^2) of the given location is 462.676
+Sum of nightlight intensity is 11.624
+Average nightlight intensity is 0.005"
+01002,"full address of the given location is Changgang, Jagang-do, PRK
+area of district (km^2) of the given location is 730.208
+Sum of nightlight intensity is 22.359
+Average nightlight intensity is 0.005"
+01003,"full address of the given location is Chasŏng, Jagang-do, PRK
+area of district (km^2) of the given location is 885.619
+Sum of nightlight intensity is 21.644
+Average nightlight intensity is 0.004"
+01004,"full address of the given location is Chŏnch'ŏn, Jagang-do, PRK
+area of district (km^2) of the given location is 1079.5
+Sum of nightlight intensity is 29.98
+Average nightlight intensity is 0.008"
+01005,"full address of the given location is Chunggang, Jagang-do, PRK
+area of district (km^2) of the given location is 649.58
+Sum of nightlight intensity is 590.573
+Average nightlight intensity is 0.218"
+01006,"full address of the given location is Hŭich'ŏn, Jagang-do, PRK
+area of district (km^2) of the given location is 573.476
+Sum of nightlight intensity is 54.617
+Average nightlight intensity is 0.009"
+01007,"full address of the given location is Hwap'yŏng, Jagang-do, PRK
+area of district (km^2) of the given location is 1365.535
+Sum of nightlight intensity is 2.847
+Average nightlight intensity is 0.0"
+01008,"full address of the given location is Kanggye, Jagang-do, PRK
+area of district (km^2) of the given location is 269.54
+Sum of nightlight intensity is 208.24
+Average nightlight intensity is 0.144"
+01009,"full address of the given location is Kop'ung, Jagang-do, PRK
+area of district (km^2) of the given location is 730.392
+Sum of nightlight intensity is 5.561
+Average nightlight intensity is 0.002"
+01010,"full address of the given location is Manp'o, Jagang-do, PRK
+area of district (km^2) of the given location is 690.021
+Sum of nightlight intensity is 279.579
+Average nightlight intensity is 0.026"
+01011,"full address of the given location is Rangrim, Jagang-do, PRK
+area of district (km^2) of the given location is 1955.326
+Sum of nightlight intensity is 9.438
+Average nightlight intensity is 0.001"
+01012,"full address of the given location is Ryongrim, Jagang-do, PRK
+area of district (km^2) of the given location is 1506.476
+Sum of nightlight intensity is 10.266
+Average nightlight intensity is 0.001"
+01013,"full address of the given location is Sijung, Jagang-do, PRK
+area of district (km^2) of the given location is 650.167
+Sum of nightlight intensity is 7.925
+Average nightlight intensity is 0.003"
+01014,"full address of the given location is Sŏnggan, Jagang-do, PRK
+area of district (km^2) of the given location is 1005.695
+Sum of nightlight intensity is 131.883
+Average nightlight intensity is 0.027"
+01015,"full address of the given location is Songwŏn, Jagang-do, PRK
+area of district (km^2) of the given location is 1052.601
+Sum of nightlight intensity is 0.0
+Average nightlight intensity is 0.0"
+01016,"full address of the given location is Dongsin-gun, Jagang-do, PRK
+area of district (km^2) of the given location is 1306.233
+Sum of nightlight intensity is 87.25
+Average nightlight intensity is 0.016"
+01017,"full address of the given location is Wusi-gun, Jagang-do, PRK
+area of district (km^2) of the given location is 503.657
+Sum of nightlight intensity is 23.224
+Average nightlight intensity is 0.006"
+01018,"full address of the given location is Wiwŏn, Jagang-do, PRK
+area of district (km^2) of the given location is 1290.701
+Sum of nightlight intensity is 3.485
+Average nightlight intensity is 0.0"
+10002,"full address of the given location is Ch'ŏllima, Nampo-si, PRK
+area of district (km^2) of the given location is 53.629
+Sum of nightlight intensity is 195.582
+Average nightlight intensity is 0.591"
+10004,"full address of the given location is Daean, Nampo-si, PRK
+area of district (km^2) of the given location is 21.969
+Sum of nightlight intensity is 85.815
+Average nightlight intensity is 0.986"
+10006,"full address of the given location is Hanggu, Nampo-si, PRK
+area of district (km^2) of the given location is 158.998
+Sum of nightlight intensity is 298.256
+Average nightlight intensity is 0.146"
+10009,"full address of the given location is Kangsŏ, Nampo-si, PRK
+area of district (km^2) of the given location is 232.012
+Sum of nightlight intensity is 219.572
+Average nightlight intensity is 0.181"
+10013,"full address of the given location is Ch'ongjongsang-Dong, P'Yongan-Namdo, PRK
+area of district (km^2) of the given location is 319.585
+Sum of nightlight intensity is 58.192
+Average nightlight intensity is 0.029"
+10017,"full address of the given location is Ryonggang, Nampo-si, PRK
+area of district (km^2) of the given location is 239.456
+Sum of nightlight intensity is 83.974
+Average nightlight intensity is 0.041"

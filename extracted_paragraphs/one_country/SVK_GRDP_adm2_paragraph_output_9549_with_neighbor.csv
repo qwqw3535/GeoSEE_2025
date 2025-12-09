@@ -1,0 +1,105 @@
+area_id,desc
+1,"full address of the given location is Bratislavský, SVK
+Land cover ratio of building in the neighboring region(s) is 0.017
+area of district (km^2) of the given location is 2051.671
+Sum of nightlight intensity is 51618.57
+Average nightlight intensity is 4.348
+Land cover ratio of development is 0.063
+Land cover ratio of building is 0.037
+Land cover ratio of development in the neighboring region(s) is 0.038
+Sum of nightlight intensity in the neighboring region(s) is 38185.703
+Average nightlight intensity in the neighboring region(s) is 0.964
+Land cover ratio of agricultural is 0.115
+distance to the nearest airport is 16.484
+distance to the nearest port is 391.211"
+2,"full address of the given location is Trnavský, SVK
+Land cover ratio of building in the neighboring region(s) is 0.02
+area of district (km^2) of the given location is 4145.348
+Sum of nightlight intensity is 38185.703
+Average nightlight intensity is 0.964
+Land cover ratio of development is 0.038
+Land cover ratio of building is 0.017
+Land cover ratio of development in the neighboring region(s) is 0.04
+Sum of nightlight intensity in the neighboring region(s) is 115388.211
+Average nightlight intensity in the neighboring region(s) is 1.465
+Land cover ratio of agricultural is 0.204
+distance to the nearest airport is 32.141
+distance to the nearest port is 409.074"
+3,"full address of the given location is Trenčiansky, SVK
+Land cover ratio of building in the neighboring region(s) is 0.021
+area of district (km^2) of the given location is 4501.801
+Sum of nightlight intensity is 27116.34
+Average nightlight intensity is 0.688
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.026
+Land cover ratio of development in the neighboring region(s) is 0.035
+Sum of nightlight intensity in the neighboring region(s) is 130459.387
+Average nightlight intensity in the neighboring region(s) is 0.842
+Land cover ratio of agricultural is 0.074
+distance to the nearest airport is 107.096
+distance to the nearest port is 483.937"
+4,"full address of the given location is Nitriansky, SVK
+Land cover ratio of building in the neighboring region(s) is 0.023
+area of district (km^2) of the given location is 6342.48
+Sum of nightlight intensity is 36653.301
+Average nightlight intensity is 1.084
+Land cover ratio of development is 0.036
+Land cover ratio of building is 0.01
+Land cover ratio of development in the neighboring region(s) is 0.035
+Sum of nightlight intensity in the neighboring region(s) is 89874.404
+Average nightlight intensity in the neighboring region(s) is 0.742
+Land cover ratio of agricultural is 0.203
+distance to the nearest airport is 82.708
+distance to the nearest port is 427.568"
+5,"full address of the given location is Žilinský, SVK
+Land cover ratio of building in the neighboring region(s) is 0.026
+area of district (km^2) of the given location is 6806.886
+Sum of nightlight intensity is 31048.021
+Average nightlight intensity is 0.783
+Land cover ratio of development is 0.035
+Land cover ratio of building is 0.029
+Land cover ratio of development in the neighboring region(s) is 0.033
+Sum of nightlight intensity in the neighboring region(s) is 75335.424
+Average nightlight intensity in the neighboring region(s) is 0.615
+Land cover ratio of agricultural is 0.037
+distance to the nearest airport is 109.24
+distance to the nearest port is 555.752"
+6,"full address of the given location is Banskobystrický, SVK
+Land cover ratio of building in the neighboring region(s) is 0.026
+area of district (km^2) of the given location is 9454.462
+Sum of nightlight intensity is 24572.361
+Average nightlight intensity is 0.67
+Land cover ratio of development is 0.034
+Land cover ratio of building is 0.024
+Land cover ratio of development in the neighboring region(s) is 0.034
+Sum of nightlight intensity in the neighboring region(s) is 148201.875
+Average nightlight intensity in the neighboring region(s) is 0.747
+Land cover ratio of agricultural is 0.056
+distance to the nearest airport is 121.703
+distance to the nearest port is 520.18"
+7,"full address of the given location is Prešovský, SVK
+Land cover ratio of building in the neighboring region(s) is 0.029
+area of district (km^2) of the given location is 8971.611
+Sum of nightlight intensity is 23646.723
+Average nightlight intensity is 0.521
+Land cover ratio of development is 0.031
+Land cover ratio of building is 0.027
+Land cover ratio of development in the neighboring region(s) is 0.034
+Sum of nightlight intensity in the neighboring region(s) is 85357.873
+Average nightlight intensity in the neighboring region(s) is 0.721
+Land cover ratio of agricultural is 0.056
+distance to the nearest airport is 147.383
+distance to the nearest port is 612.193"
+8,"full address of the given location is Košický, SVK
+Land cover ratio of building in the neighboring region(s) is 0.026
+area of district (km^2) of the given location is 6751.921
+Sum of nightlight intensity is 29737.49
+Average nightlight intensity is 0.732
+Land cover ratio of development is 0.033
+Land cover ratio of building is 0.035
+Land cover ratio of development in the neighboring region(s) is 0.033
+Sum of nightlight intensity in the neighboring region(s) is 48219.084
+Average nightlight intensity in the neighboring region(s) is 0.597
+Land cover ratio of agricultural is 0.098
+distance to the nearest airport is 186.271
+distance to the nearest port is 631.409"

@@ -1,0 +1,856 @@
+{
+    "3018": {
+        "ADM0": "CZE",
+        "ADM1": "Hlavn\u00ed_m\u011bsto_Praha",
+        "ADM2": "Hlavn\u00ed_m\u011bsto_Praha",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0003630961738214545,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "bareland": {
+                "val": 0.034008572094931314,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "rangeland": {
+                "val": 0.4760489027087858,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "development": {
+                "val": 0.16901215674972694,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "road": {
+                "val": 0.046948632776496496,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "tree": {
+                "val": 0.047185748010568414,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "water": {
+                "val": 0.028120068725093345,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "agricultural": {
+                "val": 0.1131040815313718,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            },
+            "building": {
+                "val": 0.0852087412292047,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 496.33008091168165
+            }
+        }
+    },
+    "3026": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edo\u010desk\u00fd_kraj",
+        "ADM2": "St\u0159edo\u010desk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0007060283799874682,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "bareland": {
+                "val": 0.0181437057532896,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "rangeland": {
+                "val": 0.47362118942643566,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "development": {
+                "val": 0.04245761063059231,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "road": {
+                "val": 0.0075536756916946505,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "tree": {
+                "val": 0.08899362068189835,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "water": {
+                "val": 0.13663299814230428,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "agricultural": {
+                "val": 0.2055832826758107,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            },
+            "building": {
+                "val": 0.0263078886179863,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 10930.318179725298
+            }
+        }
+    },
+    "3034": {
+        "ADM0": "CZE",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Jiho\u010desk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012528148005146872,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "bareland": {
+                "val": 0.012457715311603565,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "rangeland": {
+                "val": 0.5065089780538725,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "development": {
+                "val": 0.035568105979542936,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "road": {
+                "val": 0.005153108614906211,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "tree": {
+                "val": 0.11923369977941461,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "water": {
+                "val": 0.17792554710663824,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "agricultural": {
+                "val": 0.12043229670789618,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            },
+            "building": {
+                "val": 0.021467733645616178,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 10058.692618067316
+            }
+        }
+    },
+    "3042": {
+        "ADM0": "CZE",
+        "ADM1": "Jihoz\u00e1pad",
+        "ADM2": "Plze\u0148sk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008227011095602365,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "bareland": {
+                "val": 0.014557487800170786,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "rangeland": {
+                "val": 0.5164588580719188,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "development": {
+                "val": 0.038687436035527475,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "road": {
+                "val": 0.00505195925975351,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "tree": {
+                "val": 0.12453549411807918,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "water": {
+                "val": 0.15631508531219887,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "agricultural": {
+                "val": 0.12439109498337295,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            },
+            "building": {
+                "val": 0.019179883309417254,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7649.640624308474
+            }
+        }
+    },
+    "3069": {
+        "ADM0": "CZE",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "\u00dasteck\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0005517301435404887,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "bareland": {
+                "val": 0.02691868555549551,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "rangeland": {
+                "val": 0.4741373801259083,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "development": {
+                "val": 0.045484132233527,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "road": {
+                "val": 0.0071414219032197405,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "tree": {
+                "val": 0.14393588784444422,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "water": {
+                "val": 0.13039635762011914,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "agricultural": {
+                "val": 0.1472351148590688,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            },
+            "building": {
+                "val": 0.024199289714676584,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5338.73328422714
+            }
+        }
+    },
+    "3077": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Libereck\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00028726802759676437,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "bareland": {
+                "val": 0.005145407361098106,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "rangeland": {
+                "val": 0.48474607895750643,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "development": {
+                "val": 0.04140523856399172,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "road": {
+                "val": 0.005488923800402251,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "tree": {
+                "val": 0.14606920057493883,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "water": {
+                "val": 0.18417588540133661,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "agricultural": {
+                "val": 0.09066704272816573,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            },
+            "building": {
+                "val": 0.042014954584966624,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3163.4181492141142
+            }
+        }
+    },
+    "3085": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Kr\u00e1lov\u00e9hradeck\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0011212099954534488,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "bareland": {
+                "val": 0.011296484307091808,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "rangeland": {
+                "val": 0.44168961536732076,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "development": {
+                "val": 0.037270776404849,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "road": {
+                "val": 0.00608814877846011,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "tree": {
+                "val": 0.10375816915504536,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "water": {
+                "val": 0.1797067299623372,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "agricultural": {
+                "val": 0.19703783934984864,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            },
+            "building": {
+                "val": 0.022031026679587142,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4759.064034790781
+            }
+        }
+    },
+    "3093": {
+        "ADM0": "CZE",
+        "ADM1": "Severov\u00fdchod",
+        "ADM2": "Pardubick\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0012500148198569835,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "bareland": {
+                "val": 0.009142407405072224,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "rangeland": {
+                "val": 0.4191520942110895,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "development": {
+                "val": 0.04069278980688676,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "road": {
+                "val": 0.007204532148043513,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "tree": {
+                "val": 0.10030202278587962,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "water": {
+                "val": 0.2260080430541828,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "agricultural": {
+                "val": 0.1720499622824664,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            },
+            "building": {
+                "val": 0.024198133486523547,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 4519.9782138396195
+            }
+        }
+    },
+    "3107": {
+        "ADM0": "CZE",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Kraj_Vyso\u010dina",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006564329666942799,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "bareland": {
+                "val": 0.009369929909545143,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "rangeland": {
+                "val": 0.49627295981969716,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "development": {
+                "val": 0.03460210868935466,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "road": {
+                "val": 0.005308819230793524,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "tree": {
+                "val": 0.0984939539434194,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "water": {
+                "val": 0.17651176114596237,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "agricultural": {
+                "val": 0.16283695382317143,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            },
+            "building": {
+                "val": 0.015947080471362243,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 6796.021034441514
+            }
+        }
+    },
+    "3140": {
+        "ADM0": "CZE",
+        "ADM1": "Moravskoslezsk\u00fd_kraj",
+        "ADM2": "Moravskoslezsk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0008143712690717556,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "bareland": {
+                "val": 0.006885876051580431,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "rangeland": {
+                "val": 0.5086733612161255,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "development": {
+                "val": 0.045259317067821894,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "road": {
+                "val": 0.00881797528954372,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "tree": {
+                "val": 0.09118626569507941,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "water": {
+                "val": 0.1898402625425801,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "agricultural": {
+                "val": 0.12391253350848475,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            },
+            "building": {
+                "val": 0.024610037359714666,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5430.737119547872
+            }
+        }
+    },
+    "3123": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Olomouck\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0015048531473480082,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "bareland": {
+                "val": 0.00789508860214806,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "rangeland": {
+                "val": 0.4698700654829792,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "development": {
+                "val": 0.034803509020864994,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "road": {
+                "val": 0.006890093875306698,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "tree": {
+                "val": 0.07757933247878218,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "water": {
+                "val": 0.24389260330769025,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "agricultural": {
+                "val": 0.13476790991291182,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            },
+            "building": {
+                "val": 0.022796544171971314,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 5271.875320832718
+            }
+        }
+    },
+    "3131": {
+        "ADM0": "CZE",
+        "ADM1": "St\u0159edn\u00ed Morava",
+        "ADM2": "Zl\u00ednsk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0017635578259240386,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "bareland": {
+                "val": 0.012905933576047687,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "rangeland": {
+                "val": 0.5077516195829286,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "development": {
+                "val": 0.04473603539596494,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "road": {
+                "val": 0.008876733693471464,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "tree": {
+                "val": 0.0909949718525283,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "water": {
+                "val": 0.1877030718938831,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "agricultural": {
+                "val": 0.11997360997809882,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            },
+            "building": {
+                "val": 0.02529446620115224,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3962.6762188470598
+            }
+        }
+    },
+    "3115": {
+        "ADM0": "CZE",
+        "ADM1": "Jihov\u00fdchod",
+        "ADM2": "Jihomoravsk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.0006165355733801887,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "bareland": {
+                "val": 0.019435735957485448,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "rangeland": {
+                "val": 0.48889089870024754,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "development": {
+                "val": 0.041286122405260424,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "road": {
+                "val": 0.008252937234506123,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "tree": {
+                "val": 0.07981586262267533,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "water": {
+                "val": 0.17135571570991845,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "agricultural": {
+                "val": 0.17363599387922435,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            },
+            "building": {
+                "val": 0.016710197917305582,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 7185.976815743011
+            }
+        }
+    },
+    "3051": {
+        "ADM0": "CZE",
+        "ADM1": "Severoz\u00e1pad",
+        "ADM2": "Karlovarsk\u00fd_kraj",
+        "segmentation": {
+            "nodata": {
+                "val": 0.00036257931598648245,
+                "desc": "Land cover ratio of nodata",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "bareland": {
+                "val": 0.013421727367713101,
+                "desc": "Land cover ratio of bareland",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "rangeland": {
+                "val": 0.5722269355217087,
+                "desc": "Land cover ratio of rangeland",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "development": {
+                "val": 0.035918726899413035,
+                "desc": "Land cover ratio of development",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "road": {
+                "val": 0.004746425309915646,
+                "desc": "Land cover ratio of road",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "tree": {
+                "val": 0.20804362176333957,
+                "desc": "Land cover ratio of tree",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "water": {
+                "val": 0.0945122373974133,
+                "desc": "Land cover ratio of water",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "agricultural": {
+                "val": 0.056299809764799945,
+                "desc": "Land cover ratio of agricultural",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            },
+            "building": {
+                "val": 0.014467936659703733,
+                "desc": "Land cover ratio of building",
+                "type": "ratio",
+                "weight": 3311.581167754916
+            }
+        }
+    }
+}

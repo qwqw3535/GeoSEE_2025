@@ -1,0 +1,9 @@
+{
+  "s_modules": [
+    "get_address(Loc)",
+    "get_poi_info(Loc)",
+    "get_night_light(Loc)",
+    "get_landuse_sum(Loc, target_class='Commercial')",
+    "get_landuse_sum(Loc, target_class='Factory')"
+  ]
+}

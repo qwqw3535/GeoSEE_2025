@@ -1,0 +1,13 @@
+{
+    "s_modules": [
+        "get_address(Loc)",
+        "get_night_light(Loc)",
+        "get_landuse_sum_original(Loc, 'Commercial')",
+        "get_landuse_sum_original(Loc, 'Factory')",
+        "get_landuse_sum_original(Loc, 'Transportation')",
+                "get_poi_info(Loc)",
+        "get_air_info(Loc)",
+        "get_distance_to_nearest_target(Loc, target_name='port')",
+        "get_area(Loc)"
+    ]
+}
